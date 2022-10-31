@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2022/10/30/shut-down-my.html",
+				
+				"content_html": "<p>Shut down my trailer for another season.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Shut down my trailer for another season.\n\n<img src=\"uploads/2022/cfd0e39577.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2022-10-30T22:26:38-03:00",
+				"url": "https://jomalo.com/2022/10/30/shut-down-my.html",
+				"tags": ["Photo"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2022/10/18/currently-reading-persepolis.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316332828\">Persepolis Rising</a> by James S. A. Corey 📚</p>\n",
