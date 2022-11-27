@@ -7,12 +7,57 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2022/11/26/two-new-courses.html",
+				
+				"content_html": "<p>Two new courses purchased this weekend for Web and iOS Development. A new <em>commitment</em> to myself to expand my skills over the winter.</p>\n",
+				"content_text": "Two new courses purchased this weekend for Web and iOS Development. A new *commitment* to myself to expand my skills over the winter.\n",
+				"date_published": "2022-11-26T21:22:06-04:00",
+				"url": "https://jomalo.com/2022/11/26/two-new-courses.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/25/even-though-we.html",
+				
+				"content_html": "<p>Even though we shutdown the trailer weeks ago, it is hard to get over our Friday night <em>ritual</em> of jumping in the truck and heading out as soon as we get home from work.</p>\n",
+				"content_text": "Even though we shutdown the trailer weeks ago, it is hard to get over our Friday night *ritual* of jumping in the truck and heading out as soon as we get home from work. \n",
+				"date_published": "2022-11-25T10:48:45-04:00",
+				"url": "https://jomalo.com/2022/11/25/even-though-we.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/24/my-ability-to.html",
+				
+				"content_html": "<p>My ability to <em>retain</em> information the moment I have switched tabs, or programs, or rooms seems to be slipping.</p>\n",
+				"content_text": "My ability to *retain* information the moment I have switched tabs, or programs, or rooms seems to be slipping. \n",
+				"date_published": "2022-11-24T20:50:44-04:00",
+				"url": "https://jomalo.com/2022/11/24/my-ability-to.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/23/i-recently-pulled.html",
+				
+				"content_html": "<p>I recently pulled the pin on an <em>update</em> to the Apple Watch Ultra. Moving from my Series 3, anything would have been better but the extra battery life, larger size and more durable case were the biggest draws for me.</p>\n",
+				"content_text": "I recently pulled the pin on an *update* to the Apple Watch Ultra. Moving from my Series 3, anything would have been better but the extra battery life, larger size and more durable case were the biggest draws for me.\n",
+				"date_published": "2022-11-23T18:42:57-04:00",
+				"url": "https://jomalo.com/2022/11/23/i-recently-pulled.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/22/in-my-younger.html",
+				
+				"content_html": "<p>In my younger days I used to work as a line cook in a busy restaurant. No real chance for a break so we would <em>graze</em> on our shift on &ldquo;mistakes&rdquo;. Oops&hellip; extra chicken fingers were prepared or I thought you ordered 2 cheeseburgers.</p>\n",
+				"content_text": "In my younger days I used to work as a line cook in a busy restaurant. No real chance for a break so we would *graze* on our shift on \"mistakes\". Oops... extra chicken fingers were prepared or I thought you ordered 2 cheeseburgers. \n",
+				"date_published": "2022-11-22T22:54:42-04:00",
+				"url": "https://jomalo.com/2022/11/22/in-my-younger.html",
+				"tags": ["microblogvember"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2022/11/21/first-snow-fall.html",
 				
 				"content_html": "<p>First snow fall of the season. No real accumulation but I had to clear <em>ice</em> from the truck windows this morning.</p>\n",
 				"content_text": "First snow fall of the season. No real accumulation but I had to clear *ice* from the truck windows this morning. \n",
 				"date_published": "2022-11-21T20:04:15-04:00",
-				"url": "https://jomalo.com/2022/11/21/first-snow-fall.html"
+				"url": "https://jomalo.com/2022/11/21/first-snow-fall.html",
+				"tags": ["microblogvember"]
 			},
 			{
 				"id": "http://jomalo.micro.blog/2022/11/20/i-find-myself.html",
@@ -463,7 +508,7 @@
 				"id": "http://jomalo.micro.blog/2021/10/01/day-touch-mboct.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/fcd5b59d0f.jpg\" style=\"max-width:600px;\">  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/fcd5b59d0f.jpg\" style=\"max-width:600px;\">  \n",
 				"date_published": "2021-10-01T22:58:00-04:00",
 				"url": "https://jomalo.com/2021/10/01/day-touch-mboct.html",
 				"tags": ["photos"]
