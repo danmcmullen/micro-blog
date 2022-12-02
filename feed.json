@@ -7,12 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2022/12/02/sharing-my-home.html",
+				
+				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n\n\n<img src=\"uploads/2022/3f8bf00301.jpg\" width=\"300\" height=\"600\" alt=\"\"><img src=\"uploads/2022/c95bd62552.jpg\" width=\"382\" height=\"600\" alt=\"\">\n",
+				"date_published": "2022-12-02T08:47:31-04:00",
+				"url": "https://jomalo.com/2022/12/02/sharing-my-home.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/30/wanted-someone-to.html",
+				
+				"content_html": "<blockquote>\n<p>WANTED: Someone to go back in time with me. This is not a joke. You&rsquo;ll get paid after we get back. Must bring your own weapons.<br>\nI have only done this once before.</p>\n</blockquote>\n<p><em>SAFETY</em> NOT GUARANTEED</p>\n",
+				"content_text": "> WANTED: Someone to go back in time with me. This is not a joke. You'll get paid after we get back. Must bring your own weapons.  \n> I have only done this once before.  \n\n*SAFETY* NOT GUARANTEED  \n",
+				"date_published": "2022-11-30T21:51:51-04:00",
+				"url": "https://jomalo.com/2022/11/30/wanted-someone-to.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/29/nice-fish-ken.html",
+				
+				"content_html": "<p>Otto West</p>\n<blockquote>\n<p>Nice <em>fish</em>, Ken. You know what Nietzsche said about animals? &ldquo;They were God&rsquo;s second blunder.</p>\n</blockquote>\n",
+				"content_text": "Otto West\n\n> Nice *fish*, Ken. You know what Nietzsche said about animals? \"They were God's second blunder.\n",
+				"date_published": "2022-11-29T21:26:58-04:00",
+				"url": "https://jomalo.com/2022/11/29/nice-fish-ken.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/28/is-this-what.html",
+				
+				"content_html": "<p>Jerry Smith</p>\n<blockquote>\n<p>Is this what it&rsquo;s like to <em>trend</em>?</p>\n</blockquote>\n",
+				"content_text": "Jerry Smith\n\n> Is this what it's like to *trend*?\n",
+				"date_published": "2022-11-28T22:42:59-04:00",
+				"url": "https://jomalo.com/2022/11/28/is-this-what.html",
+				"tags": ["microblogvember"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/11/27/need-to-get.html",
+				
+				"content_html": "<p>Looking for <em>motivation</em> to focus when there is too much to do. The countertop for the new island will be ready this week. Still a few things to do before we are ready for it.</p>\n",
+				"content_text": "Looking for *motivation* to focus when there is too much to do. The countertop for the new island will be ready this week. Still a few things to do before we are ready for it. \n",
+				"date_published": "2022-11-27T16:14:01-04:00",
+				"url": "https://jomalo.com/2022/11/27/need-to-get.html",
+				"tags": ["microblogvember"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2022/11/26/two-new-courses.html",
 				
 				"content_html": "<p>Two new courses purchased this weekend for Web and iOS Development. A new <em>commitment</em> to myself to expand my skills over the winter.</p>\n",
 				"content_text": "Two new courses purchased this weekend for Web and iOS Development. A new *commitment* to myself to expand my skills over the winter.\n",
 				"date_published": "2022-11-26T21:22:06-04:00",
-				"url": "https://jomalo.com/2022/11/26/two-new-courses.html"
+				"url": "https://jomalo.com/2022/11/26/two-new-courses.html",
+				"tags": ["microblogvember"]
 			},
 			{
 				"id": "http://jomalo.micro.blog/2022/11/25/even-though-we.html",
@@ -258,7 +304,7 @@
 				"id": "http://jomalo.micro.blog/2022/11/02/starting-preparations-for.html",
 				
 				"content_html": "<p>Starting preparations for our first Boxing Day <em>feast</em> since Covid shut us down.  A full breakfast for 40-60 family and close friends.</p>\n<p>We even have staff shirts made up with a family crest, modified for the occasion.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"uploads/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
+				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"https://jomalo.com/uploads/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
 				"date_published": "2022-11-02T08:45:48-04:00",
 				"url": "https://jomalo.com/2022/11/02/starting-preparations-for.html",
 				"tags": ["microblogvember"]
