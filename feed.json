@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2022/12/06/config-files.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🤬 Config files</p>\n\t\t\t</div>\n",
+				"date_published": "2022-12-06T10:01:00-04:00",
+				"url": "https://jomalo.com/2022/12/06/config-files.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/12/03/christmas-party.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🎄 Christmas Party 🎉 </p>\n\t\t\t</div>\n",
+				"date_published": "2022-12-03T20:51:22-04:00",
+				"url": "https://jomalo.com/2022/12/03/christmas-party.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2022/12/02/microblogvember-is-over.html",
+				
+				"content_html": "<p><a href=\"https://micro.blog/discover/mbnov\">Microblogvember</a> is over and so is the daily pressure to post.</p>\n<p>I have always wanted to blog but never thought I had much to say.  After re-reading these <a href=\"https://jomalo.com/categories/microblogvember/\">posts</a> I am hoping this challenge and will keep my on the path and maybe, someday there will be something worth reading.</p>\n",
+				"content_text": "[Microblogvember](https://micro.blog/discover/mbnov) is over and so is the daily pressure to post.\n\nI have always wanted to blog but never thought I had much to say.  After re-reading these [posts](https://jomalo.com/categories/microblogvember/) I am hoping this challenge and will keep my on the path and maybe, someday there will be something worth reading.\n",
+				"date_published": "2022-12-02T12:24:11-04:00",
+				"url": "https://jomalo.com/2022/12/02/microblogvember-is-over.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2022/12/02/sharing-my-home.html",
 				
-				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n\n\n<img src=\"uploads/2022/3f8bf00301.jpg\" width=\"300\" height=\"600\" alt=\"\"><img src=\"uploads/2022/c95bd62552.jpg\" width=\"382\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n<center>\n<img src=\"uploads/2022/d9fe13e0b4.png\" width=\"300\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/2f58bae1ab.png\" width=\"191\" height=\"300\" alt=\"\" />\n</center>\n",
 				"date_published": "2022-12-02T08:47:31-04:00",
 				"url": "https://jomalo.com/2022/12/02/sharing-my-home.html",
 				"tags": ["photos"]
@@ -268,7 +292,7 @@
 				"id": "http://jomalo.micro.blog/2022/11/06/can-i-join.html",
 				
 				"content_html": "<p>Can I join the club?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Can I join the club?\n\n<img src=\"https://jomalo.com/uploads/2022/785fccb2de.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Can I join the club?\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/785fccb2de.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-11-06T13:45:04-04:00",
 				"url": "https://jomalo.com/2022/11/06/can-i-join.html",
 				"tags": ["photos"]
@@ -304,7 +328,7 @@
 				"id": "http://jomalo.micro.blog/2022/11/02/starting-preparations-for.html",
 				
 				"content_html": "<p>Starting preparations for our first Boxing Day <em>feast</em> since Covid shut us down.  A full breakfast for 40-60 family and close friends.</p>\n<p>We even have staff shirts made up with a family crest, modified for the occasion.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"https://jomalo.com/uploads/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
+				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
 				"date_published": "2022-11-02T08:45:48-04:00",
 				"url": "https://jomalo.com/2022/11/02/starting-preparations-for.html",
 				"tags": ["microblogvember"]
@@ -330,7 +354,7 @@
 				"id": "http://jomalo.micro.blog/2022/10/31/leftover-halloween-candy.html",
 				
 				"content_html": "<p>Leftover Halloween Candy!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " Leftover Halloween Candy!\n\n<img src=\"https://jomalo.com/uploads/2022/8b80717c66.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": " Leftover Halloween Candy!\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/8b80717c66.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-31T21:00:34-04:00",
 				"url": "https://jomalo.com/2022/10/31/leftover-halloween-candy.html",
 				"tags": ["photos"]
@@ -339,7 +363,7 @@
 				"id": "http://jomalo.micro.blog/2022/10/30/shut-down-my.html",
 				
 				"content_html": "<p>Shut down my trailer for another season.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shut down my trailer for another season.\n\n<img src=\"https://jomalo.com/uploads/2022/cfd0e39577.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Shut down my trailer for another season.\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/cfd0e39577.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-10-30T21:26:38-04:00",
 				"url": "https://jomalo.com/2022/10/30/shut-down-my.html",
 				"tags": ["photos"]
@@ -395,8 +419,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/14/my-morning-commute.html",
 				
-				"content_html": "<p>My morning commute - Day in the Life Photo Challenge<br>\n<img src=\"https://jomalo.com/uploads/2022/aa9a0fd8eb.jpg\" alt=\"\"><br>\nNear Halifax Nova Scotia - 7:30a</p>\n",
-				"content_text": "My morning commute - Day in the Life Photo Challenge  \n![](https://jomalo.com/uploads/2022/aa9a0fd8eb.jpg)  \nNear Halifax Nova Scotia - 7:30a \n",
+				"content_html": "<p>My morning commute - Day in the Life Photo Challenge<br>\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/aa9a0fd8eb.jpg\" alt=\"\"><br>\nNear Halifax Nova Scotia - 7:30a</p>\n",
+				"content_text": "My morning commute - Day in the Life Photo Challenge  \n![](https://cdn.uploads.micro.blog/29404/2022/aa9a0fd8eb.jpg)  \nNear Halifax Nova Scotia - 7:30a \n",
 				"date_published": "2022-10-14T10:10:45-04:00",
 				"url": "https://jomalo.com/2022/10/14/my-morning-commute.html",
 				"tags": ["photos","adayinthelife"]
