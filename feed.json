@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/05/05/picked-up-the.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🚇 Picked up the tiles, backsplash installation starts this weekend!</p>\n",
+				"date_published": "2023-05-05T12:04:52-03:00",
+				"url": "https://jomalo.com/2023/05/05/picked-up-the.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/04/29/painting-finished-cabinet.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🚧 Painting finished, cabinet doors and new counters installed!</p>\n",
+				"date_published": "2023-04-29T22:09:28-03:00",
+				"url": "https://jomalo.com/2023/04/29/painting-finished-cabinet.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/04/29/ghosted.html",
+				"title": "Ghosted, 2023 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/7/2/4/780724-ghosted-0-600-0-900-crop.jpg?v=6882cab5b5\"/></p> <p>Watched on Saturday April 29, 2023.</p>\n",
+				"date_published": "2023-04-29T16:54:54-03:00",
+				"url": "https://jomalo.com/2023/04/29/ghosted.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/04/08/the-equalizer.html",
 				"title": "The Equalizer 2, 2018 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -89,8 +114,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/27/support-center.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/2b8aef663b.jpg\" alt=\"\"></p>\n<p><em>Support</em> center</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/2b8aef663b.jpg)\n\n*Support* center\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/2b8aef663b.jpg\" alt=\"\"></p>\n<p><em>Support</em> center</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/2b8aef663b.jpg)\n\n*Support* center\n",
 				"date_published": "2023-03-27T20:44:28-03:00",
 				"url": "https://jomalo.com/2023/03/27/support-center.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -98,8 +123,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/26/instrument.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/316af5f878.jpg\" alt=\"\"></p>\n<p><em>Instrument</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/316af5f878.jpg)\n\n*Instrument*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/316af5f878.jpg\" alt=\"\"></p>\n<p><em>Instrument</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/316af5f878.jpg)\n\n*Instrument*\n",
 				"date_published": "2023-03-26T18:43:56-03:00",
 				"url": "https://jomalo.com/2023/03/26/instrument.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -116,8 +141,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/25/spicey-potato-bacon.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/a966bd6563.jpg\" alt=\"\"></p>\n<p><em>Spice</em>-y potato bacon soup</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/a966bd6563.jpg)\n\n*Spice*-y potato bacon soup\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/a966bd6563.jpg\" alt=\"\"></p>\n<p><em>Spice</em>-y potato bacon soup</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/a966bd6563.jpg)\n\n*Spice*-y potato bacon soup\n",
 				"date_published": "2023-03-25T22:45:55-03:00",
 				"url": "https://jomalo.com/2023/03/25/spicey-potato-bacon.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -125,8 +150,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/24/home-ice-court.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/0ccb02f682.jpg\" alt=\"\"></p>\n<p>Home ice (<em>court</em>) advantage</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/0ccb02f682.jpg)\n\nHome ice (*court*) advantage\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/0ccb02f682.jpg\" alt=\"\"></p>\n<p>Home ice (<em>court</em>) advantage</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/0ccb02f682.jpg)\n\nHome ice (*court*) advantage\n",
 				"date_published": "2023-03-24T19:13:13-03:00",
 				"url": "https://jomalo.com/2023/03/24/home-ice-court.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -134,8 +159,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/23/taking-a-chance.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/9616334039.jpg\" alt=\"\"></p>\n<p>Taking a <em>chance</em> my truck could also be a boat!</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/9616334039.jpg)\n\nTaking a *chance* my truck could also be a boat! \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/9616334039.jpg\" alt=\"\"></p>\n<p>Taking a <em>chance</em> my truck could also be a boat!</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/9616334039.jpg)\n\nTaking a *chance* my truck could also be a boat! \n",
 				"date_published": "2023-03-23T22:22:44-03:00",
 				"url": "https://jomalo.com/2023/03/23/taking-a-chance.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -143,8 +168,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/22/insect.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/bd5c1f6b44.jpg\" alt=\"\"></p>\n<p><em>Insect</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/bd5c1f6b44.jpg)\n\n*Insect*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/bd5c1f6b44.jpg\" alt=\"\"></p>\n<p><em>Insect</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/bd5c1f6b44.jpg)\n\n*Insect*\n",
 				"date_published": "2023-03-22T08:20:56-03:00",
 				"url": "https://jomalo.com/2023/03/22/insect.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -152,8 +177,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/21/tiny-pie.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/cde1c9321e.jpg\" alt=\"\"></p>\n<p><em>Tiny</em> pie</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/cde1c9321e.jpg)\n\n*Tiny* pie\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/cde1c9321e.jpg\" alt=\"\"></p>\n<p><em>Tiny</em> pie</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/cde1c9321e.jpg)\n\n*Tiny* pie\n",
 				"date_published": "2023-03-21T23:45:57-03:00",
 				"url": "https://jomalo.com/2023/03/21/tiny-pie.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -161,8 +186,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/20/houseplant.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/d128b084b9.jpg\" alt=\"\"></p>\n<p><em>Houseplant</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/d128b084b9.jpg)\n\n*Houseplant*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/d128b084b9.jpg\" alt=\"\"></p>\n<p><em>Houseplant</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/d128b084b9.jpg)\n\n*Houseplant*\n",
 				"date_published": "2023-03-20T20:08:18-03:00",
 				"url": "https://jomalo.com/2023/03/20/houseplant.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -170,8 +195,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/19/analog-planning.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/76288790f3.jpg\" alt=\"\"></p>\n<p><em>Analog</em> planning</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/76288790f3.jpg)\n\n*Analog* planning\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/76288790f3.jpg\" alt=\"\"></p>\n<p><em>Analog</em> planning</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/76288790f3.jpg)\n\n*Analog* planning\n",
 				"date_published": "2023-03-19T11:14:21-03:00",
 				"url": "https://jomalo.com/2023/03/19/analog-planning.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -188,8 +213,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/18/portico.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/578e9db1cd.jpg\" alt=\"\"></p>\n<p><em>Portico</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/578e9db1cd.jpg)\n\n*Portico*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/578e9db1cd.jpg\" alt=\"\"></p>\n<p><em>Portico</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/578e9db1cd.jpg)\n\n*Portico*\n",
 				"date_published": "2023-03-18T20:28:38-03:00",
 				"url": "https://jomalo.com/2023/03/18/portico.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -197,8 +222,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/17/early.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/a4f6fcb3b8.jpg\" alt=\"\"></p>\n<p><em>Early</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/a4f6fcb3b8.jpg)\n\n*Early*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/a4f6fcb3b8.jpg\" alt=\"\"></p>\n<p><em>Early</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/a4f6fcb3b8.jpg)\n\n*Early*\n",
 				"date_published": "2023-03-17T23:48:45-03:00",
 				"url": "https://jomalo.com/2023/03/17/early.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -222,8 +247,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/16/road.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/ccd2512d7a.jpg\" alt=\"\"></p>\n<p><em>Road</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/ccd2512d7a.jpg)\n\n*Road*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/ccd2512d7a.jpg\" alt=\"\"></p>\n<p><em>Road</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/ccd2512d7a.jpg)\n\n*Road*\n",
 				"date_published": "2023-03-16T21:31:24-03:00",
 				"url": "https://jomalo.com/2023/03/16/road.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -231,8 +256,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/15/patience.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/f6d342d628.jpg\" alt=\"\"></p>\n<p><em>Patience</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/f6d342d628.jpg)\n\n*Patience*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/f6d342d628.jpg\" alt=\"\"></p>\n<p><em>Patience</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/f6d342d628.jpg)\n\n*Patience*\n",
 				"date_published": "2023-03-15T21:44:00-03:00",
 				"url": "https://jomalo.com/2023/03/15/patience.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -257,8 +282,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/14/horizon.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/0cb5294cfb.jpg\" alt=\"\"></p>\n<p><em>Horizon</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/0cb5294cfb.jpg)\n\n*Horizon*\n\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/0cb5294cfb.jpg\" alt=\"\"></p>\n<p><em>Horizon</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/0cb5294cfb.jpg)\n\n*Horizon*\n\n",
 				"date_published": "2023-03-14T21:50:26-03:00",
 				"url": "https://jomalo.com/2023/03/14/horizon.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -266,8 +291,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/13/september-hurricane-fiona.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/61a2cf978e.jpg\" alt=\"\"></p>\n<p>September 2022 - Hurricane Fiona tried to remove the <em>connection</em> to my favourite place on earth.</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/61a2cf978e.jpg)\n\nSeptember 2022 - Hurricane Fiona tried to remove the *connection* to my favourite place on earth. \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/61a2cf978e.jpg\" alt=\"\"></p>\n<p>September 2022 - Hurricane Fiona tried to remove the <em>connection</em> to my favourite place on earth.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/61a2cf978e.jpg)\n\nSeptember 2022 - Hurricane Fiona tried to remove the *connection* to my favourite place on earth. \n",
 				"date_published": "2023-03-13T22:11:33-03:00",
 				"url": "https://jomalo.com/2023/03/13/september-hurricane-fiona.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -275,8 +300,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/12/shiny.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/74b71bb8fd.jpg\" alt=\"\"></p>\n<p><em>Shiny</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/74b71bb8fd.jpg)\n\n*Shiny*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/74b71bb8fd.jpg\" alt=\"\"></p>\n<p><em>Shiny</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/74b71bb8fd.jpg)\n\n*Shiny*\n",
 				"date_published": "2023-03-12T11:55:00-03:00",
 				"url": "https://jomalo.com/2023/03/12/shiny.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -284,8 +309,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/11/gimcrack.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/b1c185c2fd.jpg\" alt=\"\"></p>\n<p><em>Gimcrack</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/b1c185c2fd.jpg)\n\n*Gimcrack*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/b1c185c2fd.jpg\" alt=\"\"></p>\n<p><em>Gimcrack</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/b1c185c2fd.jpg)\n\n*Gimcrack*\n",
 				"date_published": "2023-03-11T23:05:07-03:00",
 				"url": "https://jomalo.com/2023/03/11/gimcrack.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -302,8 +327,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/10/ritual.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/c3b1f3e984.jpg\" alt=\"\"></p>\n<p><em>ritual</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/c3b1f3e984.jpg)\n\n*ritual*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/c3b1f3e984.jpg\" alt=\"\"></p>\n<p><em>ritual</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/c3b1f3e984.jpg)\n\n*ritual*\n",
 				"date_published": "2023-03-10T23:50:26-03:00",
 				"url": "https://jomalo.com/2023/03/10/ritual.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -311,8 +336,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/09/together.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/233d747ea7.jpg\" alt=\"\"></p>\n<p><em>Together</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/233d747ea7.jpg)\n\n*Together*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/233d747ea7.jpg\" alt=\"\"></p>\n<p><em>Together</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/233d747ea7.jpg)\n\n*Together*\n",
 				"date_published": "2023-03-09T21:04:02-03:00",
 				"url": "https://jomalo.com/2023/03/09/together.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -320,8 +345,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/08/a-walk-in.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/778358fb4c.jpg\" alt=\"\"></p>\n<p>A <em>walk</em> in the woods</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/778358fb4c.jpg)\n\nA *walk* in the woods\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/778358fb4c.jpg\" alt=\"\"></p>\n<p>A <em>walk</em> in the woods</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/778358fb4c.jpg)\n\nA *walk* in the woods\n",
 				"date_published": "2023-03-08T22:37:43-03:00",
 				"url": "https://jomalo.com/2023/03/08/a-walk-in.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -329,8 +354,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/07/i-have-the.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/3c0c5bc0a8.jpg\" alt=\"\"></p>\n<p>I had the chance to tour the <em>whole</em> George’s Island complex last summer.</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/3c0c5bc0a8.jpg)\n\nI had the chance to tour the *whole* George’s Island complex last summer. \n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/3c0c5bc0a8.jpg\" alt=\"\"></p>\n<p>I had the chance to tour the <em>whole</em> George’s Island complex last summer.</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/3c0c5bc0a8.jpg)\n\nI had the chance to tour the *whole* George’s Island complex last summer. \n",
 				"date_published": "2023-03-07T22:47:31-03:00",
 				"url": "https://jomalo.com/2023/03/07/i-have-the.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -338,8 +363,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/06/engineering.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/e5655ad721.jpg\" alt=\"\"></p>\n<p><em>Engineering</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/e5655ad721.jpg)\n\n*Engineering*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/e5655ad721.jpg\" alt=\"\"></p>\n<p><em>Engineering</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/e5655ad721.jpg)\n\n*Engineering*\n",
 				"date_published": "2023-03-06T21:46:44-03:00",
 				"url": "https://jomalo.com/2023/03/06/engineering.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -347,8 +372,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/05/tile.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/e367f66268.jpg\" alt=\"\"></p>\n<p><em>Tile</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/e367f66268.jpg)\n\n*Tile*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/e367f66268.jpg\" alt=\"\"></p>\n<p><em>Tile</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/e367f66268.jpg)\n\n*Tile*\n",
 				"date_published": "2023-03-05T22:24:04-03:00",
 				"url": "https://jomalo.com/2023/03/05/tile.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -356,8 +381,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/04/zipties.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/2241d8ae3d.jpg\" alt=\"\"></p>\n<p><em>Zip</em>ties</p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/2241d8ae3d.jpg)\n\n*Zip*ties\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/2241d8ae3d.jpg\" alt=\"\"></p>\n<p><em>Zip</em>ties</p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/2241d8ae3d.jpg)\n\n*Zip*ties\n",
 				"date_published": "2023-03-04T15:04:09-03:00",
 				"url": "https://jomalo.com/2023/03/04/zipties.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -374,8 +399,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/03/solitude.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/d616f57cd7.png\" alt=\"\"></p>\n<p><em>Solitude</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/d616f57cd7.png)\n\n*Solitude*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/d616f57cd7.png\" alt=\"\"></p>\n<p><em>Solitude</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/d616f57cd7.png)\n\n*Solitude*\n",
 				"date_published": "2023-03-03T14:35:30-03:00",
 				"url": "https://jomalo.com/2023/03/03/solitude.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -399,8 +424,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/02/weather.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/c31fa4abd0.jpg\" alt=\"\"></p>\n<p><em>Weather</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/c31fa4abd0.jpg)\n\n*Weather*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/c31fa4abd0.jpg\" alt=\"\"></p>\n<p><em>Weather</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/c31fa4abd0.jpg)\n\n*Weather*\n",
 				"date_published": "2023-03-02T22:46:00-03:00",
 				"url": "https://jomalo.com/2023/03/02/weather.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -408,8 +433,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/01/secure.html",
 				
-				"content_html": "<p><img src=\"https://jomalo.com/uploads/2023/81b864fe4e.jpg\" alt=\"\"></p>\n<p><em>Secure</em></p>\n",
-				"content_text": "![](https://jomalo.com/uploads/2023/81b864fe4e.jpg)\n\n*Secure*\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2023/81b864fe4e.jpg\" alt=\"\"></p>\n<p><em>Secure</em></p>\n",
+				"content_text": "![](https://cdn.uploads.micro.blog/29404/2023/81b864fe4e.jpg)\n\n*Secure*\n",
 				"date_published": "2023-03-01T17:01:22-03:00",
 				"url": "https://jomalo.com/2023/03/01/secure.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -512,7 +537,7 @@
 				"id": "http://jomalo.micro.blog/2023/02/04/degrees-warmer-than.html",
 				
 				"content_html": "<p>11 degrees warmer than this morning but I can’t really see any improvement.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "11 degrees warmer than this morning but I can’t really see any improvement. \n\n<img src=\"uploads/2023/7f1ed7a816.jpg\" width=\"410\" height=\"502\" alt=\"\"><img src=\"uploads/2023/fbe0c92577.jpg\" width=\"410\" height=\"502\" alt=\"\">\n",
+				"content_text": "11 degrees warmer than this morning but I can’t really see any improvement. \n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/7f1ed7a816.jpg\" width=\"410\" height=\"502\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/fbe0c92577.jpg\" width=\"410\" height=\"502\" alt=\"\">\n",
 				"date_published": "2023-02-05T00:50:05-03:00",
 				"url": "https://jomalo.com/2023/02/04/degrees-warmer-than.html"
 			},
@@ -537,7 +562,7 @@
 				"id": "http://jomalo.micro.blog/2023/01/28/192521.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/59e2bcb1eb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/59e2bcb1eb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-28T20:25:21-03:00",
 				"url": "https://jomalo.com/2023/01/28/192521.html"
 			},
@@ -595,7 +620,7 @@
 				"id": "http://jomalo.micro.blog/2023/01/05/puck-drop.html",
 				
 				"content_html": "<p>Puck drop!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Puck drop!\n\n<img src=\"uploads/2023/b1355870bd.jpg\" width=\"600\" height=\"328\" alt=\"\">\n",
+				"content_text": "Puck drop!\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/b1355870bd.jpg\" width=\"600\" height=\"328\" alt=\"\">\n",
 				"date_published": "2023-01-05T17:21:36-03:00",
 				"url": "https://jomalo.com/2023/01/05/puck-drop.html"
 			},
@@ -671,7 +696,7 @@
 				"id": "http://jomalo.micro.blog/2022/12/29/afternoon-walk-in.html",
 				
 				"content_html": "<p>Afternoon walk in the woods.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Afternoon walk in the woods. \n\n<img src=\"uploads/2022/55eec54cc0.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Afternoon walk in the woods. \n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/55eec54cc0.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-29T22:29:36-03:00",
 				"url": "https://jomalo.com/2022/12/29/afternoon-walk-in.html",
 				"tags": ["photos"]
@@ -688,7 +713,7 @@
 				"id": "http://jomalo.micro.blog/2022/12/24/merry-christmas-to.html",
 				
 				"content_html": "<p>Merry Christmas to all!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Merry Christmas to all!\n\n<img src=\"uploads/2022/51a756d426.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "Merry Christmas to all!\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/51a756d426.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-12-24T22:56:54-03:00",
 				"url": "https://jomalo.com/2022/12/24/merry-christmas-to.html",
 				"tags": ["photos"]
@@ -753,7 +778,7 @@
 				"id": "http://jomalo.micro.blog/2022/12/02/sharing-my-home.html",
 				
 				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n<center>\n<img src=\"uploads/2022/d9fe13e0b4.png\" width=\"300\" height=\"600\" alt=\"\" />\n\n<img src=\"uploads/2022/2f58bae1ab.png\" width=\"191\" height=\"300\" alt=\"\" />\n</center>\n",
+				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n<center>\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/d9fe13e0b4.png\" width=\"300\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/2f58bae1ab.png\" width=\"191\" height=\"300\" alt=\"\" />\n</center>\n",
 				"date_published": "2022-12-02T09:47:31-03:00",
 				"url": "https://jomalo.com/2022/12/02/sharing-my-home.html",
 				"tags": ["photos"]
@@ -1011,7 +1036,7 @@
 				"id": "http://jomalo.micro.blog/2022/11/06/can-i-join.html",
 				
 				"content_html": "<p>Can I join the club?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Can I join the club?\n\n<img src=\"uploads/2022/785fccb2de.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Can I join the club?\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/785fccb2de.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-11-06T14:45:04-03:00",
 				"url": "https://jomalo.com/2022/11/06/can-i-join.html",
 				"tags": ["photos"]
@@ -1047,7 +1072,7 @@
 				"id": "http://jomalo.micro.blog/2022/11/02/starting-preparations-for.html",
 				
 				"content_html": "<p>Starting preparations for our first Boxing Day <em>feast</em> since Covid shut us down.  A full breakfast for 40-60 family and close friends.</p>\n<p>We even have staff shirts made up with a family crest, modified for the occasion.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"uploads/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
+				"content_text": "Starting preparations for our first Boxing Day *feast* since Covid shut us down.  A full breakfast for 40-60 family and close friends.  \n\nWe even have staff shirts made up with a family crest, modified for the occasion. \n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/69011facf9.png\" width=\"600\" height=\"734\" alt=\"family crest with breakfast foods\" />\n",
 				"date_published": "2022-11-02T09:45:48-03:00",
 				"url": "https://jomalo.com/2022/11/02/starting-preparations-for.html",
 				"tags": ["microblogvember"]
@@ -1073,7 +1098,7 @@
 				"id": "http://jomalo.micro.blog/2022/10/31/leftover-halloween-candy.html",
 				
 				"content_html": "<p>Leftover Halloween Candy!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": " Leftover Halloween Candy!\n\n<img src=\"uploads/2022/8b80717c66.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": " Leftover Halloween Candy!\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/8b80717c66.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-10-31T22:00:34-03:00",
 				"url": "https://jomalo.com/2022/10/31/leftover-halloween-candy.html",
 				"tags": ["photos"]
@@ -1082,7 +1107,7 @@
 				"id": "http://jomalo.micro.blog/2022/10/30/shut-down-my.html",
 				
 				"content_html": "<p>Shut down my trailer for another season.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Shut down my trailer for another season.\n\n<img src=\"uploads/2022/cfd0e39577.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Shut down my trailer for another season.\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/cfd0e39577.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-10-30T22:26:38-03:00",
 				"url": "https://jomalo.com/2022/10/30/shut-down-my.html",
 				"tags": ["photos"]
@@ -1138,8 +1163,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/14/my-morning-commute.html",
 				
-				"content_html": "<p>My morning commute - Day in the Life Photo Challenge<br>\n<img src=\"https://jomalo.com/uploads/2022/aa9a0fd8eb.jpg\" alt=\"\"><br>\nNear Halifax Nova Scotia - 7:30a</p>\n",
-				"content_text": "My morning commute - Day in the Life Photo Challenge  \n![](https://jomalo.com/uploads/2022/aa9a0fd8eb.jpg)  \nNear Halifax Nova Scotia - 7:30a \n",
+				"content_html": "<p>My morning commute - Day in the Life Photo Challenge<br>\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/aa9a0fd8eb.jpg\" alt=\"\"><br>\nNear Halifax Nova Scotia - 7:30a</p>\n",
+				"content_text": "My morning commute - Day in the Life Photo Challenge  \n![](https://cdn.uploads.micro.blog/29404/2022/aa9a0fd8eb.jpg)  \nNear Halifax Nova Scotia - 7:30a \n",
 				"date_published": "2022-10-14T11:10:45-03:00",
 				"url": "https://jomalo.com/2022/10/14/my-morning-commute.html",
 				"tags": ["photos","adayinthelife"]
@@ -1172,7 +1197,7 @@
 				"id": "http://jomalo.micro.blog/2022/09/30/post-fiona-big.html",
 				
 				"content_html": "<p>Post Fiona Big Island NS</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Post Fiona Big Island NS\n\n<img src=\"uploads/2022/5623c2c6d0.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"uploads/2022/81376a6ac4.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "Post Fiona Big Island NS\n\n<img src=\"https://jomalo.micro.blog/uploads/2022/5623c2c6d0.jpg\" width=\"600\" height=\"337\" alt=\"\"><img src=\"https://jomalo.micro.blog/uploads/2022/81376a6ac4.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2022-09-30T22:22:02-03:00",
 				"url": "https://jomalo.com/2022/09/30/post-fiona-big.html"
 			},
@@ -1180,7 +1205,7 @@
 				"id": "http://jomalo.micro.blog/2022/09/29/225315.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/b008ab632b.png\" width=\"600\" height=\"211\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://jomalo.micro.blog/uploads/2022/b008ab632b.png\" width=\"600\" height=\"211\" alt=\"\">\n",
 				"date_published": "2022-09-29T22:53:15-03:00",
 				"url": "https://jomalo.com/2022/09/29/225315.html",
 				"tags": ["photos"]
@@ -1189,7 +1214,7 @@
 				"id": "http://jomalo.micro.blog/2022/08/26/223227.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/4bdb4e8f87.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/4bdb4e8f87.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-26T22:32:27-03:00",
 				"url": "https://jomalo.com/2022/08/26/223227.html",
 				"tags": ["photos"]
@@ -1198,7 +1223,7 @@
 				"id": "http://jomalo.micro.blog/2022/08/21/001031.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/c075ef3309.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/c075ef3309.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-21T00:10:31-03:00",
 				"url": "https://jomalo.com/2022/08/21/001031.html",
 				"tags": ["photos"]
@@ -1207,7 +1232,7 @@
 				"id": "http://jomalo.micro.blog/2022/08/20/blacktopball.html",
 				"title": "#blacktopball",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/562d18230e.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/562d18230e.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-08-20T19:10:06-03:00",
 				"url": "https://jomalo.com/2022/08/20/blacktopball.html",
 				"tags": ["photos"]
@@ -1216,7 +1241,7 @@
 				"id": "http://jomalo.micro.blog/2022/06/13/141023.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/f1247b5352.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/f1247b5352.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2022-06-13T14:10:23-03:00",
 				"url": "https://jomalo.com/2022/06/13/141023.html",
 				"tags": ["photos"]
@@ -1225,7 +1250,7 @@
 				"id": "http://jomalo.micro.blog/2022/01/01/142000.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/a626943f91.jpg\" class=\"size-full wp-image-4123\" width=\"3636\" height=\"2052\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/a626943f91.jpg\" class=\"size-full wp-image-4123\" width=\"3636\" height=\"2052\">\n",
 				"date_published": "2022-01-01T14:20:00-03:00",
 				"url": "https://jomalo.com/2022/01/01/142000.html",
 				"tags": ["photos"]
@@ -1234,7 +1259,7 @@
 				"id": "http://jomalo.micro.blog/2022/01/01/140700.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/8e80b0839d.jpg\" class=\"size-full\" width=\"2268\" height=\"4032\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/8e80b0839d.jpg\" class=\"size-full\" width=\"2268\" height=\"4032\">\n",
 				"date_published": "2022-01-01T14:07:00-03:00",
 				"url": "https://jomalo.com/2022/01/01/140700.html",
 				"tags": ["photos"]
@@ -1243,7 +1268,7 @@
 				"id": "http://jomalo.micro.blog/2021/12/27/134600.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/b6c379981d.jpg\" class=\"size-full wp-image-4116\" width=\"2268\" height=\"4032\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/b6c379981d.jpg\" class=\"size-full wp-image-4116\" width=\"2268\" height=\"4032\">\n",
 				"date_published": "2021-12-27T13:46:00-03:00",
 				"url": "https://jomalo.com/2021/12/27/134600.html",
 				"tags": ["photos"]
@@ -1252,7 +1277,7 @@
 				"id": "http://jomalo.micro.blog/2021/12/27/134000.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/1190e1a32d.jpg\" class=\"size-full\" width=\"2268\" height=\"4032\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/1190e1a32d.jpg\" class=\"size-full\" width=\"2268\" height=\"4032\">\n",
 				"date_published": "2021-12-27T13:40:00-03:00",
 				"url": "https://jomalo.com/2021/12/27/134000.html",
 				"tags": ["photos"]
@@ -1261,7 +1286,7 @@
 				"id": "http://jomalo.micro.blog/2021/12/25/222700.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/8162514f0d.jpg\" class=\"size-full\" width=\"2268\" height=\"2268\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/8162514f0d.jpg\" class=\"size-full\" width=\"2268\" height=\"2268\">\n",
 				"date_published": "2021-12-25T22:27:00-03:00",
 				"url": "https://jomalo.com/2021/12/25/222700.html",
 				"tags": ["photos"]
@@ -1270,7 +1295,7 @@
 				"id": "http://jomalo.micro.blog/2021/10/16/195500.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/49cad0f6fb.jpg\" class=\"size-full\" width=\"4032\" height=\"2268\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/49cad0f6fb.jpg\" class=\"size-full\" width=\"4032\" height=\"2268\">\n",
 				"date_published": "2021-10-16T19:55:00-03:00",
 				"url": "https://jomalo.com/2021/10/16/195500.html",
 				"tags": ["photos"]
@@ -1279,7 +1304,7 @@
 				"id": "http://jomalo.micro.blog/2021/10/03/day-majority-mboct.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/9d2110e480.jpg\" style=\"max-width:600px;\">  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/9d2110e480.jpg\" style=\"max-width:600px;\">  \n",
 				"date_published": "2021-10-03T12:51:00-03:00",
 				"url": "https://jomalo.com/2021/10/03/day-majority-mboct.html",
 				"tags": ["photos"]
@@ -1288,7 +1313,7 @@
 				"id": "http://jomalo.micro.blog/2021/10/03/day-dark-mboct.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/5c7c23cf69.jpg\" style=\"max-width:600px;\">  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/5c7c23cf69.jpg\" style=\"max-width:600px;\">  \n",
 				"date_published": "2021-10-03T00:58:28-03:00",
 				"url": "https://jomalo.com/2021/10/03/day-dark-mboct.html",
 				"tags": ["photos"]
@@ -1297,7 +1322,7 @@
 				"id": "http://jomalo.micro.blog/2021/10/01/day-touch-mboct.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/fcd5b59d0f.jpg\" style=\"max-width:600px;\">  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/fcd5b59d0f.jpg\" style=\"max-width:600px;\">  \n",
 				"date_published": "2021-10-01T23:58:00-03:00",
 				"url": "https://jomalo.com/2021/10/01/day-touch-mboct.html",
 				"tags": ["photos"]
@@ -1306,7 +1331,7 @@
 				"id": "http://jomalo.micro.blog/2021/03/02/there-is-no.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>There is no privacy if you leave the gate open!</p>\n",
-				"content_text": "<img src=\"uploads/2022/68a3917bb2.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThere is no privacy if you leave the gate open!  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/68a3917bb2.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThere is no privacy if you leave the gate open!  \n",
 				"date_published": "2021-03-02T22:10:17-03:00",
 				"url": "https://jomalo.com/2021/03/02/there-is-no.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1315,7 +1340,7 @@
 				"id": "http://jomalo.micro.blog/2021/03/01/looking-into-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Looking into the light of the embrasures on Georges Island is like looking back in time.</p>\n",
-				"content_text": "<img src=\"uploads/2022/841da79442.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nLooking into the light of the embrasures on Georges Island is like looking back in time.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/841da79442.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nLooking into the light of the embrasures on Georges Island is like looking back in time.  \n",
 				"date_published": "2021-03-01T21:22:44-03:00",
 				"url": "https://jomalo.com/2021/03/01/looking-into-the.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1324,7 +1349,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/28/up.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Up!</p>\n",
-				"content_text": "<img src=\"uploads/2022/f242966659.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nUp!  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/f242966659.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nUp!  \n",
 				"date_published": "2021-02-28T22:37:03-03:00",
 				"url": "https://jomalo.com/2021/02/28/up.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1333,7 +1358,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/27/one-of-my.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>One of my most favourite photos.</p>\n",
-				"content_text": "<img src=\"uploads/2022/b749cfaf5b.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOne of my most favourite photos.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/b749cfaf5b.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOne of my most favourite photos.  \n",
 				"date_published": "2021-02-27T00:33:48-03:00",
 				"url": "https://jomalo.com/2021/02/27/one-of-my.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1342,7 +1367,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/25/the-closest-i.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>The closest I get to code now is creating work instructions in markdown.</p>\n",
-				"content_text": "<img src=\"uploads/2022/41ad36c136.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThe closest I get to code now is creating work instructions in markdown.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/41ad36c136.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThe closest I get to code now is creating work instructions in markdown.  \n",
 				"date_published": "2021-02-25T23:40:10-03:00",
 				"url": "https://jomalo.com/2021/02/25/the-closest-i.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1351,7 +1376,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/24/baby-lorien-finding.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Baby Lorien. Finding a crab trying to hide on the sandbar.</p>\n",
-				"content_text": "<img src=\"uploads/2022/a17e48dc87.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nBaby Lorien. Finding a crab trying to hide on the sandbar.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/a17e48dc87.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nBaby Lorien. Finding a crab trying to hide on the sandbar.  \n",
 				"date_published": "2021-02-24T17:07:30-03:00",
 				"url": "https://jomalo.com/2021/02/24/baby-lorien-finding.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1360,7 +1385,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/23/green-bananas.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Green bananas</p>\n",
-				"content_text": "<img src=\"uploads/2022/6f1b4433e7.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nGreen bananas  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/6f1b4433e7.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nGreen bananas  \n",
 				"date_published": "2021-02-23T20:29:50-03:00",
 				"url": "https://jomalo.com/2021/02/23/green-bananas.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1369,7 +1394,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/22/i-know-its.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I know it is right but when you have to spell something over and over it looks wrong.</p>\n",
-				"content_text": "<img src=\"uploads/2022/a74fbdaa38.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nI know it is right but when you have to spell something over and over it looks wrong.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/a74fbdaa38.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nI know it is right but when you have to spell something over and over it looks wrong.  \n",
 				"date_published": "2021-02-22T21:55:12-03:00",
 				"url": "https://jomalo.com/2021/02/22/i-know-its.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1378,7 +1403,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/21/our-daughter-thought.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Our daughter thought cheese cake wasn&rsquo;t colourful enough so she made one herself!</p>\n",
-				"content_text": "<img src=\"uploads/2022/412496800e.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOur daughter thought cheese cake wasn't colourful enough so she made one herself!  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/412496800e.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOur daughter thought cheese cake wasn't colourful enough so she made one herself!  \n",
 				"date_published": "2021-02-21T21:55:33-03:00",
 				"url": "https://jomalo.com/2021/02/21/our-daughter-thought.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1387,7 +1412,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/20/our-winter-weather.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Our winter weather warning turned into a light dusting if snow.</p>\n",
-				"content_text": "<img src=\"uploads/2022/5339cd0971.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOur winter weather warning turned into a light dusting if snow.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/5339cd0971.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nOur winter weather warning turned into a light dusting if snow.  \n",
 				"date_published": "2021-02-20T16:17:26-03:00",
 				"url": "https://jomalo.com/2021/02/20/our-winter-weather.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1450,7 +1475,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/12/fossilized-sporg.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Fossilized Sporg!</p>\n",
-				"content_text": "<img src=\"uploads/2022/cd465362dd.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nFossilized Sporg!\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/cd465362dd.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nFossilized Sporg!\n",
 				"date_published": "2021-02-12T15:02:11-03:00",
 				"url": "https://jomalo.com/2021/02/12/fossilized-sporg.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1459,7 +1484,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/11/this-machine-early.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>This machine, early 2013, has been rock solid for almost 8 years. Soon to be put into semi-retirement. An iPad Pro or a MacBook Air M1, still not fully decided, will take over.</p>\n",
-				"content_text": "<img src=\"uploads/2022/b4a42e3c5e.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThis machine, early 2013, has been rock solid for almost 8 years. Soon to be put into semi-retirement. An iPad Pro or a MacBook Air M1, still not fully decided, will take over.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/b4a42e3c5e.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nThis machine, early 2013, has been rock solid for almost 8 years. Soon to be put into semi-retirement. An iPad Pro or a MacBook Air M1, still not fully decided, will take over.  \n",
 				"date_published": "2021-02-11T21:10:18-03:00",
 				"url": "https://jomalo.com/2021/02/11/this-machine-early.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1477,7 +1502,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/09/this-used-to.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>This used to be muddy.</p>\n",
-				"content_text": "<img src=\"uploads/2022/8857808307.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">\n\nThis used to be muddy.\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/8857808307.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">\n\nThis used to be muddy.\n",
 				"date_published": "2021-02-09T22:06:28-03:00",
 				"url": "https://jomalo.com/2021/02/09/this-used-to.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1486,7 +1511,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/08/hopewell-rocks.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Hope&hellip;well Rocks</p>\n",
-				"content_text": "<img src=\"uploads/2022/05bc87dff7.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">\n\nHope...well Rocks\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/05bc87dff7.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">\n\nHope...well Rocks\n",
 				"date_published": "2021-02-08T21:22:23-03:00",
 				"url": "https://jomalo.com/2021/02/08/hopewell-rocks.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1504,7 +1529,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/06/pre-covid-atlantic.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Pre COVID Atlantic Female championships.</p>\n",
-				"content_text": "<img src=\"uploads/2022/72307a4e84.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nPre COVID Atlantic Female championships.  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/72307a4e84.jpg\" class=\"aligncenter\" style=\"max-width:600px;\">  \n\nPre COVID Atlantic Female championships.  \n",
 				"date_published": "2021-02-06T13:47:03-03:00",
 				"url": "https://jomalo.com/2021/02/06/pre-covid-atlantic.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1531,7 +1556,7 @@
 				"id": "http://jomalo.micro.blog/2021/02/03/it-may-seem.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<div><img src=\"uploads/2022/6bea2fd700.jpg\" style=\"max-width:600px;\"></div>\n\n<div>It may seem stormy but this place is where I go for comfort!</div>\n",
+				"content_text": "<div><img src=\"https://jomalo.micro.blog/uploads/2022/6bea2fd700.jpg\" style=\"max-width:600px;\"></div>\n\n<div>It may seem stormy but this place is where I go for comfort!</div>\n",
 				"date_published": "2021-02-03T21:25:05-03:00",
 				"url": "https://jomalo.com/2021/02/03/it-may-seem.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -1594,7 +1619,7 @@
 				"id": "http://jomalo.micro.blog/2020/10/14/halifax-nova-scotia.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Halifax, Nova Scotia || 14 October 2020 || 1:30pm<!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>#adayinthelife</p>\n",
-				"content_text": "<img src=\"uploads/2022/9f1b4861d4.jpg\" width=\"600\" height=\"480\" alt=\"\" />\n\nHalifax, Nova Scotia || 14 October 2020 || 1:30pm</figcaption></figure>  \n\n#adayinthelife  \n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/9f1b4861d4.jpg\" width=\"600\" height=\"480\" alt=\"\" />\n\nHalifax, Nova Scotia || 14 October 2020 || 1:30pm</figcaption></figure>  \n\n#adayinthelife  \n",
 				"date_published": "2020-10-14T13:43:05-03:00",
 				"url": "https://jomalo.com/2020/10/14/halifax-nova-scotia.html",
 				"tags": ["photos","adayinthelife"]
@@ -1630,7 +1655,7 @@
 				"id": "http://jomalo.micro.blog/2020/09/01/092140.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:image {\"id\":3801,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"uploads/2022/4172d41041.jpg\" alt=\"\" class=\"wp-image-3801\" /></figure>\n<!-- /wp:image -->\n",
+				"content_text": "<!-- wp:image {\"id\":3801,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://jomalo.micro.blog/uploads/2022/4172d41041.jpg\" alt=\"\" class=\"wp-image-3801\" /></figure>\n<!-- /wp:image -->\n",
 				"date_published": "2020-09-01T09:21:40-03:00",
 				"url": "https://jomalo.com/2020/09/01/092140.html",
 				"tags": ["photos"]
@@ -1639,7 +1664,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/26/001128.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:image {\"id\":3804,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"uploads/2022/2263288c13.jpg\" alt=\"\" class=\"wp-image-3804\" /></figure>\n<!-- /wp:image -->\n",
+				"content_text": "<!-- wp:image {\"id\":3804,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://jomalo.micro.blog/uploads/2022/2263288c13.jpg\" alt=\"\" class=\"wp-image-3804\" /></figure>\n<!-- /wp:image -->\n",
 				"date_published": "2020-08-26T00:11:28-03:00",
 				"url": "https://jomalo.com/2020/08/26/001128.html",
 				"tags": ["photos"]
@@ -1648,7 +1673,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/25/224628.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:image {\"id\":3872,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"uploads/2022/34ef560186.jpg\" alt=\"\" class=\"wp-image-3872\" /></figure>\n<!-- /wp:image -->\n",
+				"content_text": "<!-- wp:image {\"id\":3872,\"sizeSlug\":\"large\"} -->\n<figure class=\"wp-block-image size-large\"><img src=\"https://jomalo.micro.blog/uploads/2022/34ef560186.jpg\" alt=\"\" class=\"wp-image-3872\" /></figure>\n<!-- /wp:image -->\n",
 				"date_published": "2020-08-25T22:46:28-03:00",
 				"url": "https://jomalo.com/2020/08/25/224628.html",
 				"tags": ["photos"]
@@ -1657,7 +1682,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/25/213828.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/f1247b5352.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/f1247b5352.png\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2020-08-25T21:38:28-03:00",
 				"url": "https://jomalo.com/2020/08/25/213828.html",
 				"tags": ["photos"]
@@ -1666,7 +1691,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/24/201600.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/01523f4bab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/01523f4bab.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-24T20:16:00-03:00",
 				"url": "https://jomalo.com/2020/08/24/201600.html",
 				"tags": ["photos"]
@@ -1675,7 +1700,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/24/163819.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/a4d3e42850.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/a4d3e42850.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-08-24T16:38:19-03:00",
 				"url": "https://jomalo.com/2020/08/24/163819.html",
 				"tags": ["photos"]
@@ -1684,7 +1709,7 @@
 				"id": "http://jomalo.micro.blog/2020/08/19/httpsinstagrampcefjhofhqig.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><img src=\"uploads/2022/5cc367cbe2.jpg\" class=\"aligncenter size-full wp-image-4130\" width=\"1080\" height=\"1080\">\n<div>\n</div>\n",
+				"content_text": "<div><img src=\"https://jomalo.micro.blog/uploads/2022/5cc367cbe2.jpg\" class=\"aligncenter size-full wp-image-4130\" width=\"1080\" height=\"1080\">\n<div>\n</div>\n",
 				"date_published": "2020-08-19T15:38:20-03:00",
 				"url": "https://jomalo.com/2020/08/19/httpsinstagrampcefjhofhqig.html",
 				"tags": ["photos"]
@@ -1693,7 +1718,7 @@
 				"id": "http://jomalo.micro.blog/2019/12/23/topnine.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "<!-- wp:image {\"align\":\"left\",\"id\":3679,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"alignleft size-large\"><img src=\"uploads/2022/e5b15018cb.jpg\" alt=\"\" class=\"wp-image-3679\" /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p> #topnine </p>\n<!-- /wp:paragraph -->\n",
+				"content_text": "<!-- wp:image {\"align\":\"left\",\"id\":3679,\"sizeSlug\":\"large\"} -->\n<div class=\"wp-block-image\"><figure class=\"alignleft size-large\"><img src=\"https://jomalo.micro.blog/uploads/2022/e5b15018cb.jpg\" alt=\"\" class=\"wp-image-3679\" /></figure></div>\n<!-- /wp:image -->\n\n<!-- wp:paragraph -->\n<p> #topnine </p>\n<!-- /wp:paragraph -->\n",
 				"date_published": "2019-12-23T09:17:27-03:00",
 				"url": "https://jomalo.com/2019/12/23/topnine.html",
 				"tags": ["photos"]
@@ -1738,7 +1763,7 @@
 				"id": "http://jomalo.micro.blog/2019/10/13/httpsiftttbmiy.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><img src=\"uploads/2022/260c47e64f.jpg\" style=\"max-width:600px;\">\n</div>\n",
+				"content_text": "<div><img src=\"https://jomalo.micro.blog/uploads/2022/260c47e64f.jpg\" style=\"max-width:600px;\">\n</div>\n",
 				"date_published": "2019-10-13T00:04:06-03:00",
 				"url": "https://jomalo.com/2019/10/13/httpsiftttbmiy.html",
 				"tags": ["photos"]
@@ -1792,7 +1817,7 @@
 				"id": "http://jomalo.micro.blog/2018/08/06/httpsiftttlwegj.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<div><img src=\"uploads/2022/833e8ccffb.jpg\" style=\"max-width:600px;\">\n</div>\n",
+				"content_text": "<div><img src=\"https://jomalo.micro.blog/uploads/2022/833e8ccffb.jpg\" style=\"max-width:600px;\">\n</div>\n",
 				"date_published": "2018-08-06T17:41:43-03:00",
 				"url": "https://jomalo.com/2018/08/06/httpsiftttlwegj.html",
 				"tags": ["photos"]
@@ -1855,7 +1880,7 @@
 				"id": "http://jomalo.micro.blog/2018/03/13/174747.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/0c0b4d14b3.jpg\" class=\"wp-image-3538 size-full\" height=\"1242\" width=\"2208\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/0c0b4d14b3.jpg\" class=\"wp-image-3538 size-full\" height=\"1242\" width=\"2208\">\n",
 				"date_published": "2018-03-13T17:47:47-03:00",
 				"url": "https://jomalo.com/2018/03/13/174747.html",
 				"tags": ["photos"]
@@ -1891,7 +1916,7 @@
 				"id": "http://jomalo.micro.blog/2017/12/25/133541.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2022/6daddab009.jpg\" class=\"wp-image-3513 size-full\" height=\"3024\" width=\"4032\">\n",
+				"content_text": "<img src=\"https://jomalo.micro.blog/uploads/2022/6daddab009.jpg\" class=\"wp-image-3513 size-full\" height=\"3024\" width=\"4032\">\n",
 				"date_published": "2017-12-25T13:35:41-03:00",
 				"url": "https://jomalo.com/2017/12/25/133541.html",
 				"tags": ["photos"]
