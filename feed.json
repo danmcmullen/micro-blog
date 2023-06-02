@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/05/30/places-i-have.html",
+				"title": "Places I Have Been...",
+				"content_html": "<p>It is a short list unless you add individual provinces and states.</p>\n<ul>\n<li>🇨🇦 Canada\n<ul>\n<li>Nova Scotia (easy, it is where I live)</li>\n<li>New Brunswick</li>\n<li>Prince Edward Island</li>\n<li>Newfoundland</li>\n<li>Quebec</li>\n<li>Ontario</li>\n<li>Saskatchewan</li>\n<li>British Columbia</li>\n</ul>\n</li>\n<li>🇺🇸 Untied States\n<ul>\n<li>Maine</li>\n<li>Vermont</li>\n<li>New Hampshire</li>\n<li>Massachusetts</li>\n<li>New York</li>\n<li>Florida</li>\n<li>Washington</li>\n</ul>\n</li>\n</ul>\n",
+				"content_text": "It is a short list unless you add individual provinces and states.  \r\n\r\n- 🇨🇦 Canada  \r\n  - Nova Scotia (easy, it is where I live)  \r\n  - New Brunswick  \r\n  - Prince Edward Island  \r\n  - Newfoundland  \r\n  - Quebec  \r\n  - Ontario  \r\n  - Saskatchewan  \r\n  - British Columbia  \r\n- 🇺🇸 Untied States  \r\n  - Maine  \r\n  - Vermont  \r\n  - New Hampshire  \r\n  - Massachusetts  \r\n  - New York  \r\n  - Florida  \r\n  - Washington  \r\n  \n",
+				"date_published": "2023-05-30T08:01:46-03:00",
+				"url": "https://jomalo.com/2023/05/30/places-i-have.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/05/28/dungeons-amp-dragons.html",
 				"title": "Dungeons \u0026amp; Dragons: Honor Among Thieves, 2023 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -73,7 +81,7 @@
 				"id": "http://jomalo.micro.blog/2023/05/16/203826.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/8e9929b702.jpg\" width=\"600\" height=\"600\" alt=\"Looking up through bare tree branches - black & white\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/8e9929b702.jpg\" width=\"600\" height=\"600\" alt=\"Looking up through bare tree branches - black & white\">\n",
 				"date_published": "2023-05-16T20:38:26-03:00",
 				"url": "https://jomalo.com/2023/05/16/203826.html",
 				"tags": ["photos"]
@@ -90,7 +98,7 @@
 				"id": "http://jomalo.micro.blog/2023/05/14/194748.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/c5db685546.jpg\" width=\"600\" height=\"600\" alt=\"kitchen tile backsplash under construction - black and white\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/c5db685546.jpg\" width=\"600\" height=\"600\" alt=\"kitchen tile backsplash under construction - black and white\">\n",
 				"date_published": "2023-05-14T19:47:48-03:00",
 				"url": "https://jomalo.com/2023/05/14/194748.html",
 				"tags": ["photos"]
@@ -99,7 +107,7 @@
 				"id": "http://jomalo.micro.blog/2023/05/13/215349.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/24dd680041.jpg\" width=\"600\" height=\"600\" alt=\"looking skyward street light in foreground clouds in distance - black and white\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/24dd680041.jpg\" width=\"600\" height=\"600\" alt=\"looking skyward street light in foreground clouds in distance - black and white\">\n",
 				"date_published": "2023-05-13T21:53:49-03:00",
 				"url": "https://jomalo.com/2023/05/13/215349.html",
 				"tags": ["photos"]
@@ -194,7 +202,7 @@
 				"id": "http://jomalo.micro.blog/2023/04/06/102504.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/4c2e96d3b9.jpg\" width=\"600\" height=\"600\" alt=\"close up of icicles on vehicle mirror after freezing rain - black and white\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/4c2e96d3b9.jpg\" width=\"600\" height=\"600\" alt=\"close up of icicles on vehicle mirror after freezing rain - black and white\">\n",
 				"date_published": "2023-04-06T10:25:04-03:00",
 				"url": "https://jomalo.com/2023/04/06/102504.html",
 				"tags": ["photos"]
@@ -203,7 +211,7 @@
 				"id": "http://jomalo.micro.blog/2023/04/06/102201.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/ecffbcb8de.jpg\" width=\"450\" height=\"600\" alt=\"heavy clouds and train tracks disappearing into distance as seen from bridge - black and white\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/ecffbcb8de.jpg\" width=\"450\" height=\"600\" alt=\"heavy clouds and train tracks disappearing into distance as seen from bridge - black and white\">\n",
 				"date_published": "2023-04-06T10:22:01-03:00",
 				"url": "https://jomalo.com/2023/04/06/102201.html",
 				"tags": ["photos"]
