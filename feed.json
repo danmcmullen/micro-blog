@@ -7,10 +7,27 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/06/07/kitchen-reno-is.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🎉 Kitchen reno is done!</p>\n",
+				"date_published": "2023-06-07T11:38:00-03:00",
+				"url": "https://jomalo.com/2023/06/07/kitchen-reno-is.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/06/05/it-took-a.html",
+				
+				"content_html": "<p>It took a few weeks but we are finally open for the season, just need a good cleaning on the outside.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It took a few weeks but we are finally open for the season, just need a good cleaning on the outside.\n\n<img src=\"uploads/2023/fb725ccd7f.jpg\" width=\"600\" height=\"478\" alt=\"Travel trailer and golf cart- black & white\" />\n",
+				"date_published": "2023-06-05T09:32:13-03:00",
+				"url": "https://jomalo.com/2023/06/05/it-took-a.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/05/30/places-i-have.html",
 				"title": "Places I Have Been...",
 				"content_html": "<p>It is a short list unless you add individual provinces and states.</p>\n<ul>\n<li>🇨🇦 Canada\n<ul>\n<li>Nova Scotia (easy, it is where I live)</li>\n<li>New Brunswick</li>\n<li>Prince Edward Island</li>\n<li>Newfoundland</li>\n<li>Quebec</li>\n<li>Ontario</li>\n<li>Saskatchewan</li>\n<li>British Columbia</li>\n</ul>\n</li>\n<li>🇺🇸 Untied States\n<ul>\n<li>Maine</li>\n<li>Vermont</li>\n<li>New Hampshire</li>\n<li>Massachusetts</li>\n<li>New York</li>\n<li>Florida</li>\n<li>Washington</li>\n</ul>\n</li>\n</ul>\n",
-				"content_text": "It is a short list unless you add individual provinces and states.  \r\n\r\n- 🇨🇦 Canada  \r\n  - Nova Scotia (easy, it is where I live)  \r\n  - New Brunswick  \r\n  - Prince Edward Island  \r\n  - Newfoundland  \r\n  - Quebec  \r\n  - Ontario  \r\n  - Saskatchewan  \r\n  - British Columbia  \r\n- 🇺🇸 Untied States  \r\n  - Maine  \r\n  - Vermont  \r\n  - New Hampshire  \r\n  - Massachusetts  \r\n  - New York  \r\n  - Florida  \r\n  - Washington  \r\n  \n",
+				"content_text": "It is a short list unless you add individual provinces and states.  \n\n- 🇨🇦 Canada \n  - Nova Scotia (easy, it is where I live)  \n  - New Brunswick  \n  - Prince Edward Island  \n  - Newfoundland  \n  - Quebec  \n  - Ontario  \n  - Saskatchewan  \n  - British Columbia  \n- 🇺🇸 Untied States  \n  - Maine  \n  - Vermont  \n  - New Hampshire  \n  - Massachusetts  \n  - New York  \n  - Florida  \n  - Washington  \n  \n",
 				"date_published": "2023-05-30T08:01:46-03:00",
 				"url": "https://jomalo.com/2023/05/30/places-i-have.html"
 			},
@@ -35,8 +52,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/21/205111.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/70eace15d5.jpg\" width=\"600\" height=\"600\" alt=\"Sunset through trees - black & white \">\n",
+				"content_html": "<p>Trees</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Trees\n\n<img src=\"uploads/2023/70eace15d5.jpg\" width=\"600\" height=\"600\" alt=\"Sunset through trees - black & white \">\n",
 				"date_published": "2023-05-21T20:51:11-03:00",
 				"url": "https://jomalo.com/2023/05/21/205111.html",
 				"tags": ["photos"]
