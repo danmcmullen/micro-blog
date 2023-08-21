@@ -18,8 +18,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/12/cassiopeia.html",
 				
-				"content_html": "<p>Cassiopeia</p>\n",
-				"content_text": "Cassiopeia\n",
+				"content_html": "<p>Cassiopeia</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Cassiopeia\n\n<img src=\"uploads/2023/img-9583.jpeg\" width=\"600\" height=\"800\" alt=\"The constellation Cassiopeia over a light painted tree\">\n",
 				"date_published": "2023-08-12T18:07:47-03:00",
 				"url": "https://jomalo.com/2023/08/12/cassiopeia.html",
 				"tags": ["photos"]
