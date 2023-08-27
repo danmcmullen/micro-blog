@@ -7,12 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/08/26/basement-stair-reno.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🪚 Basement stair reno complete!  </p>\n",
+				"date_published": "2023-08-26T22:59:39-03:00",
+				"url": "https://jomalo.com/2023/08/26/basement-stair-reno.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/08/22/clouds.html",
+				
+				"content_html": "<p>Clouds</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Clouds\n\n<img src=\"uploads/2023/c6413a6920.jpg\" width=\"600\" height=\"600\" alt=\"Clouds - black & white \">\n",
+				"date_published": "2023-08-22T16:22:58-03:00",
+				"url": "https://jomalo.com/2023/08/22/clouds.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/08/21/donation-complete.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🩸 Donation 16 complete! </p>\n",
+				"date_published": "2023-08-21T18:55:20-03:00",
+				"url": "https://jomalo.com/2023/08/21/donation-complete.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/08/21/back-to-work.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>✨ Back to work after vacation. Looking forward to the next one!</p>\n",
+				"date_published": "2023-08-21T11:12:09-03:00",
+				"url": "https://jomalo.com/2023/08/21/back-to-work.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/08/14/on-the-road.html",
 				
 				"content_html": "<p>On the road.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "On the road. \n\n<img src=\"uploads/2023/f38c8c384f.jpg\" width=\"600\" height=\"450\" alt=\"Car lights on the highway at night\">\n",
 				"date_published": "2023-08-14T21:16:54-03:00",
 				"url": "https://jomalo.com/2023/08/14/on-the-road.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/08/13/blacktop-ball.html",
+				
+				"content_html": "<p>Blacktop Ball 2023</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Blacktop Ball 2023\n\n<a href=\"https://jomalo.com/uploads/2023/150f7d0e-475c-470b-ac87-22a7ac4f1e4c.jpg\"><img src=\"uploads/2023/150f7d0e-475c-470b-ac87-22a7ac4f1e4c.jpg\" width=\"600\" height=\"600\" alt=\"Bubbles on a cloudy day - black & white\" /></a>\n\n<a href=\"https://jomalo.com/uploads/2023/30a22c7d-7d1a-4ead-8b69-2334cefcb4c1.jpg\"><img src=\"uploads/2023/30a22c7d-7d1a-4ead-8b69-2334cefcb4c1.jpg\" width=\"600\" height=\"600\" alt=\"Stormy skies over the campground - black & white\" /></a>\n\n<a href=\"https://jomalo.com/uploads/2023/6c9ac2d3-d31f-45cd-861a-35a297ed4ddb.jpg\"><img src=\"uploads/2023/6c9ac2d3-d31f-45cd-861a-35a297ed4ddb.jpg\" width=\"600\" height=\"600\" alt=\"Young lady on her phone sitting at a campground under cloudy skies - black & white\" /></a>\n",
+				"date_published": "2023-08-13T22:28:00-03:00",
+				"url": "https://jomalo.com/2023/08/13/blacktop-ball.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/08/13/022600.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<div class=\"adaptive_photo_layout\">\n\t<ul>\n\t\t<li><a href=\"https://jomalo.com/uploads/2023/7627e98896.jpeg\"><img src=\"uploads/2023/7627e98896.jpeg\" alt=\"Green lights shining out from stage between bands\" loading=\"lazy\"></a></li>\n\t\t<li><a href=\"https://jomalo.com/uploads/2023/img-9592.jpeg\"><img src=\"uploads/2023/img-9592.jpeg\" alt=\"Blue lights in the night sky converging in the distance\" loading=\"lazy\"></a></li>\n\t\t<li><a href=\"https://jomalo.com/uploads/2023/img-9595.jpeg\"><img src=\"uploads/2023/img-9595.jpeg\" alt=\"Man with beard and woman on the main floor of a festival stage\" loading=\"lazy\"></a></li>\n\t\t<li><a href=\"https://jomalo.com/uploads/2023/img-9597.jpeg\"><img src=\"uploads/2023/img-9597.jpeg\" alt=\"Members of The Stanfields on stage for the Blacktop Ball 2023\" loading=\"lazy\"></a></li>\n\t\t<li><a href=\"https://jomalo.com/uploads/2023/img-9601.jpeg\"><img src=\"uploads/2023/img-9601.jpeg\" alt=\"Male lead singer wearing a guitar at a microphone with hand raised in the air. \" loading=\"lazy\"></a></li>\n\t\t<li></li>\n\t</ul>\n</div>\n",
+				"date_published": "2023-08-13T02:26:00-03:00",
+				"url": "https://jomalo.com/2023/08/13/022600.html",
 				"tags": ["photos"]
 			},
 			{
