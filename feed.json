@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/09/01/day-abstract-greghiggins.html",
+				
+				"content_html": "<p>Day 1: abstract (@greghiggins)</p>\n<blockquote>\n<p><!-- raw HTML omitted -->&lt;img src=&ldquo;uploads/2023/604b54e0-5d00-4949-8efe-36c64f75b2fc.jpg&rdquo; width=“600&quot; alt=&ldquo;abstract photo of balloons&rdquo; /&gt;<!-- raw HTML omitted --></p>\n</blockquote>\n",
+				"content_text": "Day 1: abstract (@greghiggins)\n\n> <a href=\"https://jomalo.com/uploads/2023/604b54e0-5d00-4949-8efe-36c64f75b2fc.jpg\"><img src=\"uploads/2023/604b54e0-5d00-4949-8efe-36c64f75b2fc.jpg\" width=“600\" alt=\"abstract photo of balloons\" /></a>\n",
+				"date_published": "2023-09-01T23:11:04-03:00",
+				"url": "https://jomalo.com/2023/09/01/day-abstract-greghiggins.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/08/26/basement-stair-reno.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
