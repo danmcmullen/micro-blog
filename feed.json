@@ -7,19 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/09/23/day-a-day.html",
+				
+				"content_html": "<p>Day 23 | a day the life (@challenges)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>Nothing special today. Daughter moving back in tonight, need a place to store our stuff displaced from the rooms emptied for her.</p>\n",
+				"content_text": "Day 23 | a day the life (@challenges)\n\n<a href=\"https://jomalo.com/uploads/2023/86a6a3df-1e56-4141-bf6b-3b6fbd10adcb.jpg\"><img src=\"uploads/2023/86a6a3df-1e56-4141-bf6b-3b6fbd10adcb.jpg\" width=\"2268\" height=\"2268\" alt=\"Utility room shelf under construction with tools in the foreground and totes stacked behind. \" /></a>\n\nNothing special today. Daughter moving back in tonight, need a place to store our stuff displaced from the rooms emptied for her. \n",
+				"date_published": "2023-09-23T20:35:30-03:00",
+				"url": "https://jomalo.com/2023/09/23/day-a-day.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/09/22/day-road-jomalo.html",
+				
+				"content_html": "<p>Day 22 | road (@jomalo)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 22 | road (@jomalo)\n\n<a href=\"https://jomalo.com/uploads/2023/5cd0f03f-2f9a-4cdc-a6fe-ad074d312084.jpg\"><img src=\"uploads/2023/5cd0f03f-2f9a-4cdc-a6fe-ad074d312084.jpg\" width=\"3024\" height=\"3024\" alt=\"Dirt road through leaning trees - black & white\" /></a>\n",
+				"date_published": "2023-09-22T15:12:19-03:00",
+				"url": "https://jomalo.com/2023/09/22/day-road-jomalo.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/09/21/day-fall-pcora.html",
+				
+				"content_html": "<p>Day 21 | fall (@pcora)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 21 | fall (@pcora)\n\n<a href=\"https://jomalo.com/uploads/2023/ccf02296-9e3a-43ac-8aa6-069aa9e33f45.jpg\"><img src=\"uploads/2023/ccf02296-9e3a-43ac-8aa6-069aa9e33f45.jpg\" width=\"3024\" height=\"4032\" alt=\"Burning bush\" /></a>\n",
+				"date_published": "2023-09-21T23:59:18-03:00",
+				"url": "https://jomalo.com/2023/09/21/day-fall-pcora.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/09/20/day-disruption-crossingthethreshold.html",
+				
+				"content_html": "<p>Day 20 | disruption (@crossingthethreshold)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 20 | disruption (@crossingthethreshold)\n\n<a href=\"https://jomalo.com/uploads/2023/582f0462-78ea-40af-b5f5-62f5dd134add.jpg\"><img src=\"uploads/2023/582f0462-78ea-40af-b5f5-62f5dd134add.jpg\" width=\"2157\" height=\"2157\" alt=\"Plastic draped on the ceiling and around freshly painted kitchen cabinets. \" /></a>\n",
+				"date_published": "2023-09-20T21:08:43-03:00",
+				"url": "https://jomalo.com/2023/09/20/day-disruption-crossingthethreshold.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/09/19/day-edge-rnv.html",
+				
+				"content_html": "<p>Day 19 | edge (@rnv)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 19 | edge (@rnv)\n\n<a href=\"https://jomalo.com/uploads/2023/67c563cf-e600-4a3d-9e62-216609fa988c.jpg\"><img src=\"uploads/2023/67c563cf-e600-4a3d-9e62-216609fa988c.jpg\" width=\"3057\" height=\"1812\" alt=\"View along the water’s edge to the Fortress of Louisbourg while a female photographer looks for her next photo. \" /></a>\n",
+				"date_published": "2023-09-19T14:03:38-03:00",
+				"url": "https://jomalo.com/2023/09/19/day-edge-rnv.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/09/18/day-fabric-adam.html",
+				
+				"content_html": "<p>Day 18 | fabric (@adam)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Day 18 | fabric (@adam)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/24571074-6ef1-4e26-9805-fb1839c273a9.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/24571074-6ef1-4e26-9805-fb1839c273a9.jpg\" width=\"2916\" height=\"2862\" alt=\"Enormous Hockey Canada Red Jersey Display hanging from the rafters at the Female U18 Atlantic Championship tournament. \" /></a>\n",
+				"date_published": "2023-09-18T23:22:23-03:00",
+				"url": "https://jomalo.com/2023/09/18/day-fabric-adam.html",
+				"tags": ["photos","mbphotoblogging"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/09/17/day-intense-rori.html",
 				
-				"content_html": "<p>Day 16 | intense (@rori)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>My daughter is moving home at the end of the month. An intense weekend spent cleaning out the basement, how do we collect so much stuff, and some renovation. All with no power, thanks tropical storm Lee!</p>\n",
-				"content_text": "Day 16 | intense (@rori)\n\n<a href=\"https://jomalo.com/uploads/2023/b6ec6bc5-7f6a-4b7f-87f1-776f17f589ca.jpg\"><img src=\"uploads/2023/b6ec6bc5-7f6a-4b7f-87f1-776f17f589ca.jpg\" width=\"4032\" height=\"2268\" alt=\"View of basement Reno in process. New subfloor installed and a hole in the wall started for a new door\" /></a>\n\nMy daughter is moving home at the end of the month. An intense weekend spent cleaning out the basement, how do we collect so much stuff, and some renovation. All with no power, thanks tropical storm Lee!\n",
+				"content_html": "<p>Day 17 | intense (@rori)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>My daughter is moving home at the end of the month. An intense weekend spent cleaning out the basement, how do we collect so much stuff, and some renovation. All with no power, thanks tropical storm Lee!</p>\n",
+				"content_text": "Day 17 | intense (@rori)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/b6ec6bc5-7f6a-4b7f-87f1-776f17f589ca.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/b6ec6bc5-7f6a-4b7f-87f1-776f17f589ca.jpg\" width=\"4032\" height=\"2268\" alt=\"View of basement Reno in process. New subfloor installed and a hole in the wall started for a new door\" /></a>\n\nMy daughter is moving home at the end of the month. An intense weekend spent cleaning out the basement, how do we collect so much stuff, and some renovation. All with no power, thanks tropical storm Lee!\n",
 				"date_published": "2023-09-17T20:16:46-03:00",
 				"url": "https://jomalo.com/2023/09/17/day-intense-rori.html",
-				"tags": ["photos"]
+				"tags": ["photos","mbphotoblogging"]
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/09/16/day-oof-bkryer.html",
 				
 				"content_html": "<p>Day 16 | oof! (@bkryer)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Day 16 | oof! (@bkryer)\n\n<a href=\"https://jomalo.com/uploads/2023/4abfd991-5c8f-443f-9667-b4f7876239cc.jpg\"><img src=\"uploads/2023/4abfd991-5c8f-443f-9667-b4f7876239cc.jpg\" width=\"3888\" height=\"1944\" alt=\"Community wharf damaged after fall 2022 hurricane Fiona\" /></a>\n",
+				"content_text": "Day 16 | oof! (@bkryer)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/4abfd991-5c8f-443f-9667-b4f7876239cc.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/4abfd991-5c8f-443f-9667-b4f7876239cc.jpg\" width=\"3888\" height=\"1944\" alt=\"Community wharf damaged after fall 2022 hurricane Fiona\" /></a>\n",
 				"date_published": "2023-09-16T18:16:35-03:00",
 				"url": "https://jomalo.com/2023/09/16/day-oof-bkryer.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -28,7 +82,7 @@
 				"id": "http://jomalo.micro.blog/2023/09/15/day-red-chiawase.html",
 				
 				"content_html": "<p>Day 15 | red (@chiawase)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Day 15 | red (@chiawase)\n\n<a href=\"https://jomalo.com/uploads/2023/26fcaa98-5e1e-4c48-b21e-5f2ce40a33db.jpg\"><img src=\"uploads/2023/26fcaa98-5e1e-4c48-b21e-5f2ce40a33db.jpg\" width=\"2072\" height=\"2072\" alt=\"Close up image of the front of a vintage fire truck\" /></a>\n",
+				"content_text": "Day 15 | red (@chiawase)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/26fcaa98-5e1e-4c48-b21e-5f2ce40a33db.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/26fcaa98-5e1e-4c48-b21e-5f2ce40a33db.jpg\" width=\"2072\" height=\"2072\" alt=\"Close up image of the front of a vintage fire truck\" /></a>\n",
 				"date_published": "2023-09-15T09:39:39-03:00",
 				"url": "https://jomalo.com/2023/09/15/day-red-chiawase.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -37,7 +91,7 @@
 				"id": "http://jomalo.micro.blog/2023/09/14/day-statue-christopherchelpka.html",
 				
 				"content_html": "<p>Day 14 | statue (@christopherchelpka)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<blockquote>\n<p><a href=\"https://storeys.com/new-public-sculpture-yorkville-private-estates-camrost-felcorp/\">David Altmejd - Figure Catching a Fly (2019)</a></p>\n</blockquote>\n",
-				"content_text": "Day 14 | statue (@christopherchelpka)\n\n<a href=\"https://jomalo.com/uploads/2023/54bc9692-b296-4e53-a82b-482ef284fc36.jpg\"><img src=\"uploads/2023/54bc9692-b296-4e53-a82b-482ef284fc36.jpg\" width=\"3024\" height=\"3024\" alt=\"David Altmejd statue viewed from below, framed by buildings on three sides - black & white\" /></a>\n\n> [David Altmejd - Figure Catching a Fly (2019)](https://storeys.com/new-public-sculpture-yorkville-private-estates-camrost-felcorp/)\n",
+				"content_text": "Day 14 | statue (@christopherchelpka)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/54bc9692-b296-4e53-a82b-482ef284fc36.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/54bc9692-b296-4e53-a82b-482ef284fc36.jpg\" width=\"3024\" height=\"3024\" alt=\"David Altmejd statue viewed from below, framed by buildings on three sides - black & white\" /></a>\n\n> [David Altmejd - Figure Catching a Fly (2019)](https://storeys.com/new-public-sculpture-yorkville-private-estates-camrost-felcorp/)\n",
 				"date_published": "2023-09-14T09:46:51-03:00",
 				"url": "https://jomalo.com/2023/09/14/day-statue-christopherchelpka.html",
 				"tags": ["photos","mbphotoblogging"]
@@ -46,7 +100,7 @@
 				"id": "http://jomalo.micro.blog/2023/09/13/day-glowing-anniegreens.html",
 				
 				"content_html": "<p>Day 13 | glowing (@anniegreens)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Day 13 | glowing (@anniegreens)\n\n<a href=\"https://jomalo.com/uploads/2023/c2b994dc-a364-4107-9b1f-43ecf14a2169.jpg\"><img src=\"uploads/2023/c2b994dc-a364-4107-9b1f-43ecf14a2169.jpg\" width=\"3443\" height=\"1727\" alt=\"Halifax Nova Scotia glowing in the night sky behind the Canadian flag.\" /></a>\n",
+				"content_text": "Day 13 | glowing (@anniegreens)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/c2b994dc-a364-4107-9b1f-43ecf14a2169.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/c2b994dc-a364-4107-9b1f-43ecf14a2169.jpg\" width=\"3443\" height=\"1727\" alt=\"Halifax Nova Scotia glowing in the night sky behind the Canadian flag.\" /></a>\n",
 				"date_published": "2023-09-13T20:31:43-03:00",
 				"url": "https://jomalo.com/2023/09/13/day-glowing-anniegreens.html",
 				"tags": ["photos","mbphotoblogging"]
