@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2023/10/21/163733.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "<a href=\"https://jomalo.com/uploads/2023/d1ff2a26-351b-4fb4-b8da-303de3c0b704.jpg\"><img src=\"uploads/2023/d1ff2a26-351b-4fb4-b8da-303de3c0b704.jpg\" width=\"7086\" height=\"5148\" alt=\"The evening sun through the trees - black & white \" /></a>\n",
+				"date_published": "2023-10-21T16:37:33-03:00",
+				"url": "https://jomalo.com/2023/10/21/163733.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2023/10/18/training-day-so.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>☹️ Training day 3: So. Many. Words. </p>\n",
+				"date_published": "2023-10-18T16:23:34-03:00",
+				"url": "https://jomalo.com/2023/10/18/training-day-so.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2023/10/14/the-weather-is.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>The weather is turning, it will be soon time to shutdown the trailer until next year.</p>\n",
