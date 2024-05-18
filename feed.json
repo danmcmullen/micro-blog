@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2024/05/17/dramatic.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2024/img-1937-480146bc.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"e1c23c460a8fe450a61bed0844dbe197\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2024/img-1937-480146bc.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Dramatic clouds form in the sky creating a turbulent scene over a calm body of water with a distant shoreline and marshy grasses in the foreground.\" \n        \n  />\n</a>\n\n</p>\n<p>Dramatic</p>\n",
+				"content_text": "![Dramatic clouds form in the sky creating a turbulent scene over a calm body of water with a distant shoreline and marshy grasses in the foreground.](https://jomalo.com/uploads/2024/img-1937-480146bc.jpeg)  \r\n\r\nDramatic  \n",
+				"date_published": "2024-05-17T23:42:22-03:00",
+				"url": "https://jomalo.com/2024/05/17/dramatic.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2024/05/15/075840.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2024/bb6d9ec942.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"500c9a8e15cab72a2edaf3aa0a175f82\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2024/bb6d9ec942.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A paved road with a central dividing line stretches into the distance under a dramatic, overcast sky with thick, dark clouds. Rocks lie to the left of the road, while a body of water and grassy terrain are seen to the right.\" \n        \n  />\n</a>\n\n</p>\n<p>Overcast</p>\n",
+				"content_text": "![A paved road with a central dividing line stretches into the distance under a dramatic, overcast sky with thick, dark clouds. Rocks lie to the left of the road, while a body of water and grassy terrain are seen to the right.](https://jomalo.com/uploads/2024/bb6d9ec942.jpeg)  \n\nOvercast  \n",
+				"date_published": "2024-05-15T07:58:40-03:00",
+				"url": "https://jomalo.com/2024/05/15/075840.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2024/05/10/long-exposure-images.html",
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2024/img-1910.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"cafc3d44e2443794b87046b0fd139a06\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2024/img-1910.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Aurora borealis streaks across a night sky, with bare tree silhouettes at the bottom, creating a contrast against the illuminated backdrop.\" \n        \n  />\n</a>\n\n</p>\n<p><a href=\"https://jomalo.com/uploads/2024/img-1908.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"cafc3d44e2443794b87046b0fd139a06\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2024/img-1908.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Bare trees silhouette against a night sky exhibiting aurora borealis with shades of pink and green, blending into a star-speckled gradient.\" \n        \n  />\n</a>\n\n</p>\n<p>Long exposure images of the Aurora Borealis creating some exaggerated colour from Nova Scotia, Canada.</p>\n<p>#weblogpomo2024</p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/05/05/textured-from-the.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2024/img-0461-original.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"1cb3bc93962eedb99e0ab72bf5baa4e3\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2024/img-0461-original.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A smooth stone rests on textured, rippled sand, with the focus gradually softening into a blurry background. The scene is a tranquil beachscape in monochrome.\" \n        \n  />\n</a>\n\n</p>\n<p>Textured - from the archives</p>\n<p>#weblogpomo2024</p>\n",
-				"content_text": "![A smooth stone rests on textured, rippled sand, with the focus gradually softening into a blurry background. The scene is a tranquil beachscape in monochrome.](https://jomalo.com/uploads/2024/img-0461-original.jpeg)  \n\nTextured - from the archives\n\n#weblogpomo2024  \n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2024/img-0461-original.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"1cb3bc93962eedb99e0ab72bf5baa4e3\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2024/img-0461-original.jpeg\" \n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A smooth stone rests on textured, rippled sand, with the focus gradually softening into a blurry background. The scene is a tranquil beachscape in monochrome.\" \n        \n  />\n</a>\n\n</p>\n<p>Textured - from the archives</p>\n<p>#weblogpomo2024</p>\n",
+				"content_text": "![A smooth stone rests on textured, rippled sand, with the focus gradually softening into a blurry background. The scene is a tranquil beachscape in monochrome.](https://cdn.uploads.micro.blog/29404/2024/img-0461-original.jpeg)  \n\nTextured - from the archives\n\n#weblogpomo2024  \n",
 				"date_published": "2024-05-05T23:22:05-03:00",
 				"url": "https://jomalo.com/2024/05/05/textured-from-the.html",
 				"tags": ["photos","weblogpomo2024"]
