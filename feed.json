@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/04/19/the-amateur.html",
+				"title": "The Amateur, 2025 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/980914-the-amateur-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
+				"date_published": "2025-04-19T15:04:42-03:00",
+				"url": "https://jomalo.com/2025/04/19/the-amateur.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/04/09/finished-reading-artificial-condition-by.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250186928\">Artificial Condition</a> by Martha Wells 📚</p>\n",
+				"content_text": "Finished reading: [Artificial Condition](https://micro.blog/books/9781250186928) by Martha Wells 📚\n",
+				"date_published": "2025-04-09T16:09:42-03:00",
+				"url": "https://jomalo.com/2025/04/09/finished-reading-artificial-condition-by.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/04/09/still-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-4393.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"ae9130a40a50b5f16550462d7bc6ec83\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-4393.jpeg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white winter scene showing a snow-covered landscape with bare trees and a small wooden structure on the right side. The sky is filled with thick clouds illuminated by soft light, creating a dramatic contrast with the darker foreground. Snow blankets the ground and dusts the branches.\" \n        \n  />\n</a>\n\n</p>\n<p>Still</p>\n<p>#the100pics 07/100</p>\n",
+				"content_text": "![A black and white winter scene showing a snow-covered landscape with bare trees and a small wooden structure on the right side. The sky is filled with thick clouds illuminated by soft light, creating a dramatic contrast with the darker foreground. Snow blankets the ground and dusts the branches.](https://jomalo.com/uploads/2025/img-4393.jpeg)  \r\n\r\nStill\r\n\r\n#the100pics 07/100\n",
+				"date_published": "2025-04-09T15:26:57-03:00",
+				"url": "https://jomalo.com/2025/04/09/still-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/04/08/finished-reading-all-systems-red.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765397522\">All Systems Red</a> by Martha Wells 📚</p>\n",
