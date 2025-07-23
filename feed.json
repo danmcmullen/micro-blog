@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/07/22/lightyear.html",
+				"title": "Lightyear, 2022 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/641574-lightyear-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday July 22, 2025.</p>\n",
+				"date_published": "2025-07-22T21:11:24-03:00",
+				"url": "https://jomalo.com/2025/07/22/lightyear.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/07/21/jurassic-world-rebirth.html",
+				"title": "Jurassic World Rebirth, 2025 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1117926-jurassic-world-rebirth-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday July 21, 2025.</p>\n",
+				"date_published": "2025-07-21T17:50:15-03:00",
+				"url": "https://jomalo.com/2025/07/21/jurassic-world-rebirth.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/07/20/fountain-of-youth.html",
+				"title": "Fountain of Youth, 2025 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
+				"date_published": "2025-07-20T21:40:06-03:00",
+				"url": "https://jomalo.com/2025/07/20/fountain-of-youth.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/07/20/carryon.html",
 				"title": "Carry-On, 2024 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T19:14:33-03:00",
 				"url": "https://jomalo.com/2025/07/20/carryon.html",
 				"tags": ["movies"]
@@ -19,7 +46,7 @@
 				"id": "http://jomalo.micro.blog/2025/07/13/how-to-train-your-dragon.html",
 				"title": "How to Train Your Dragon, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"date_published": "2025-07-13T00:47:08-03:00",
 				"url": "https://jomalo.com/2025/07/13/how-to-train-your-dragon.html",
 				"tags": ["movies"]
