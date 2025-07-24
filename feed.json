@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/07/24/september.html",
+				"title": "September 5, 2024 - ★★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/1095718-september-5-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
+				"date_published": "2025-07-24T20:28:41-03:00",
+				"url": "https://jomalo.com/2025/07/24/september.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/07/22/lightyear.html",
 				"title": "Lightyear, 2022 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://jomalo.micro.blog/2025/07/13/how-to-train-your-dragon.html",
 				"title": "How to Train Your Dragon, 2025 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"date_published": "2025-07-13T00:47:08-03:00",
 				"url": "https://jomalo.com/2025/07/13/how-to-train-your-dragon.html",
 				"tags": ["movies"]
