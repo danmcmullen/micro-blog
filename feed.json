@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/07/26/calm-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5075.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"8bf0e738fe3a547b0d3fdc94293d37ca\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5075.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph captures a serene seascape with a vast expanse of calm water meeting the horizon. Above, the sky is filled with numerous fluffy clouds scattered across, allowing rays of sunlight to peek through. The foreground features a sandy shoreline with gentle waves lapping at the edge.\" \n        \n  />\n</a>\n\n</p>\n<p>Calm</p>\n<p>#the100pics 12/100</p>\n",
+				"content_text": "![A black and white photograph captures a serene seascape with a vast expanse of calm water meeting the horizon. Above, the sky is filled with numerous fluffy clouds scattered across, allowing rays of sunlight to peek through. The foreground features a sandy shoreline with gentle waves lapping at the edge.](https://jomalo.com/uploads/2025/img-5075.jpg)  \r\n\r\nCalm\r\n\r\n#the100pics 12/100\n",
+				"date_published": "2025-07-26T19:53:16-03:00",
+				"url": "https://jomalo.com/2025/07/26/calm-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/07/25/mickey.html",
+				"title": "Mickey 17, 2025 - ★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img src=\"uploads/2025/620281-mickey-17-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
+				"date_published": "2025-07-25T01:14:37-03:00",
+				"url": "https://jomalo.com/2025/07/25/mickey.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/07/24/september.html",
 				"title": "September 5, 2024 - ★★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://jomalo.micro.blog/2025/07/20/fountain-of-youth.html",
 				"title": "Fountain of Youth, 2025 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T21:40:06-03:00",
 				"url": "https://jomalo.com/2025/07/20/fountain-of-youth.html",
 				"tags": ["movies"]
@@ -46,7 +64,7 @@
 				"id": "http://jomalo.micro.blog/2025/07/20/carryon.html",
 				"title": "Carry-On, 2024 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T19:14:33-03:00",
 				"url": "https://jomalo.com/2025/07/20/carryon.html",
 				"tags": ["movies"]
