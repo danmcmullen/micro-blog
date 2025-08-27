@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/08/26/storm-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5318.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"7a98a0009c3f913ce5df60875789e69a\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5318.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.\" \n        \n  />\n</a>\n\n</p>\n<p>Storm</p>\n<p>#the100pics 16/100</p>\n",
+				"content_text": "![Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.](https://jomalo.com/uploads/2025/img-5318.jpg)  \r\n\r\nStorm\r\n\r\n#the100pics 16/100\n",
+				"date_published": "2025-08-26T21:28:31-03:00",
+				"url": "https://jomalo.com/2025/08/26/storm-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/08/23/finished-reading-fugitive-telemetry-by.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250765383\">Fugitive Telemetry</a> by Martha Wells 📚</p>\n",
@@ -43,8 +52,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/08/10/narrow-thepics.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5194.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"b64df66d54b6d611d6b57fc1389e000b\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5194.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A narrow staircase with metal railings on both sides leads up to a closed door at the top. The door has a small rectangular window and a triangular sign above it. The walls are made of light-colored bricks, and a fluorescent light illuminates the space from the ceiling.\" \n        \n  />\n</a>\n\n</p>\n<p>Narrow</p>\n<p>#the100pics 14/100</p>\n",
-				"content_text": "![A narrow staircase with metal railings on both sides leads up to a closed door at the top. The door has a small rectangular window and a triangular sign above it. The walls are made of light-colored bricks, and a fluorescent light illuminates the space from the ceiling.](https://jomalo.com/uploads/2025/img-5194.jpg)\r\n\r\nNarrow\r\n\r\n#the100pics 14/100\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5194.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"b64df66d54b6d611d6b57fc1389e000b\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5194.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A narrow staircase with metal railings on both sides leads up to a closed door at the top. The door has a small rectangular window and a triangular sign above it. The walls are made of light-colored bricks, and a fluorescent light illuminates the space from the ceiling.\" \n        \n  />\n</a>\n\n</p>\n<p>Narrow</p>\n<p>#the100pics 14/100</p>\n",
+				"content_text": "![A narrow staircase with metal railings on both sides leads up to a closed door at the top. The door has a small rectangular window and a triangular sign above it. The walls are made of light-colored bricks, and a fluorescent light illuminates the space from the ceiling.](https://cdn.uploads.micro.blog/29404/2025/img-5194.jpg)\r\n\r\nNarrow\r\n\r\n#the100pics 14/100\n",
 				"date_published": "2025-08-10T20:31:25-03:00",
 				"url": "https://jomalo.com/2025/08/10/narrow-thepics.html",
 				"tags": ["photos","the100pics"]
@@ -53,7 +62,7 @@
 				"id": "http://jomalo.micro.blog/2025/08/09/kandahar.html",
 				"title": "Kandahar, 2023 - ★★★½",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/641160-kandahar-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 9, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/641160-kandahar-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 9, 2025.</p>\n",
 				"date_published": "2025-08-09T20:02:40-03:00",
 				"url": "https://jomalo.com/2025/08/09/kandahar.html",
 				"tags": ["movies"]
