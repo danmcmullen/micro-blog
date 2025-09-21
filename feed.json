@@ -1,16 +1,114 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "jomalo",
-	"icon": "https://micro.blog/jomalo/avatar.jpg",
+	"icon": "https://avatars.micro.blog/avatars/2022/4250.jpg",
 	"home_page_url": "https://jomalo.com/",
 	"feed_url": "https://jomalo.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/09/21/coastal-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5526.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"0c7411a8436f11c2ec5a333582e5bfa8\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5526.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph depicts a coastal landscape with a grassy foreground leading to a sandy beach. Waves gently break on the shoreline under a sky filled with scattered clouds. In the distance, a tree-covered cliff juts into the ocean, creating a serene and natural scene.\" \n        \n  />\n</a>\n\n</p>\n<p>Coastal</p>\n<p>#the100pics 25/100</p>\n",
+				"content_text": "![A black and white photograph depicts a coastal landscape with a grassy foreground leading to a sandy beach. Waves gently break on the shoreline under a sky filled with scattered clouds. In the distance, a tree-covered cliff juts into the ocean, creating a serene and natural scene.](https://jomalo.com/uploads/2025/img-5526.jpg)  \r\n\r\nCoastal\r\n\r\n#the100pics 25/100\n",
+				"date_published": "2025-09-21T14:18:30-03:00",
+				"url": "https://jomalo.com/2025/09/21/coastal-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/17/lights-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5481.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"e94e22e2ca932f38767f6818e27b70af\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5481.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Lights</p>\n<p>#the100pics 24/100</p>\n",
+				"content_text": "![A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.](https://jomalo.com/uploads/2025/img-5481.jpg)  \r\n\r\nLights\r\n\r\n#the100pics 24/100\n",
+				"date_published": "2025-09-17T16:18:27-03:00",
+				"url": "https://jomalo.com/2025/09/17/lights-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/15/finished-reading-the-hunt-for.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780425133514\">The Hunt for Red October (Jack Ryan, #3)</a> by Tom Clancy 📚</p>\n",
+				"content_text": "Finished reading: [The Hunt for Red October (Jack Ryan, #3)](https://micro.blog/books/9780425133514) by Tom Clancy 📚\n",
+				"date_published": "2025-09-15T10:53:01-03:00",
+				"url": "https://jomalo.com/2025/09/15/finished-reading-the-hunt-for.html"
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/15/the-fall-guy.html",
+				"title": "The Fall Guy, 2024 - ★★★★",
+				"content_html": "<p><img src=\"uploads/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
+				"date_published": "2025-09-15T10:24:54-03:00",
+				"url": "https://jomalo.com/2025/09/15/the-fall-guy.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/14/comedy-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5484.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"631f3d638b0818579c90228384a7fdc4\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5484.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A dimly lit stage with a spotlight focused on a microphone stand and a stool. The text &amp;ldquo;Sarah Millican Late Bloomer&amp;rdquo; is projected on the backdrop. Several stage lights are visible overhead. There are two speakers on the floor near the microphone stand, creating a minimalistic setup for a performance.\" \n        \n  />\n</a>\n\n</p>\n<p>Comedy</p>\n<p>#the100pics 23/100</p>\n",
+				"content_text": "![A dimly lit stage with a spotlight focused on a microphone stand and a stool. The text \"Sarah Millican Late Bloomer\" is projected on the backdrop. Several stage lights are visible overhead. There are two speakers on the floor near the microphone stand, creating a minimalistic setup for a performance.](https://jomalo.com/uploads/2025/img-5484.jpg)  \r\n\r\nComedy\r\n\r\n#the100pics 23/100\n",
+				"date_published": "2025-09-14T23:50:27-03:00",
+				"url": "https://jomalo.com/2025/09/14/comedy-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/08/leading-thepics.html",
+				
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5448.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"54ae4023197382e78d4c162cb36fb119\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5448.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white scene of a serene harbour with gentle waves lapping against the shore. In the foreground, trees with bare branches and foliage partially frame the view. The shoreline curves inward, leading the eye to a distant tree line and a small dock or outpost extending into the water.\" \n        \n  />\n</a>\n\n</p>\n<p>Leading</p>\n<p>#the100pics 22/100</p>\n",
+				"content_text": "![A black and white scene of a serene harbour with gentle waves lapping against the shore. In the foreground, trees with bare branches and foliage partially frame the view. The shoreline curves inward, leading the eye to a distant tree line and a small dock or outpost extending into the water.](https://cdn.uploads.micro.blog/29404/2025/img-5448.jpg)  \r\n\r\nLeading\r\n\r\n#the100pics 22/100\n",
+				"date_published": "2025-09-08T22:38:28-03:00",
+				"url": "https://jomalo.com/2025/09/08/leading-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/07/mission-impossible-the-final-reckoning.html",
+				"title": "Mission: Impossible – The Final Reckoning, 2025 - ★★★★",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/503403-mission-impossible-the-final-reckoning-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday September 7, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/503403-mission-impossible-the-final-reckoning-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday September 7, 2025.</p>\n",
+				"date_published": "2025-09-07T15:20:41-03:00",
+				"url": "https://jomalo.com/2025/09/07/mission-impossible-the-final-reckoning.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/05/web-thepics.html",
+				
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5410-fsp.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"7d61b36d2193f908812b6b681cc51316\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5410-fsp.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph of a spider web on a circular metallic stand with droplets hanging from the threads. The stand is set in a garden or natural setting with greenery in the blurred background. The surface of the stand appears textured with a rectangular area visible on top, and the overall atmosphere is serene and slightly mysterious.\" \n        \n  />\n</a>\n\n</p>\n<p>Web</p>\n<p>#the100pics 21/100</p>\n",
+				"content_text": "![A black and white photograph of a spider web on a circular metallic stand with droplets hanging from the threads. The stand is set in a garden or natural setting with greenery in the blurred background. The surface of the stand appears textured with a rectangular area visible on top, and the overall atmosphere is serene and slightly mysterious.](https://cdn.uploads.micro.blog/29404/2025/img-5410-fsp.jpg)  \r\n\r\nWeb\r\n\r\n#the100pics 21/100\n",
+				"date_published": "2025-09-05T22:15:20-03:00",
+				"url": "https://jomalo.com/2025/09/05/web-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/09/01/stars-thepics.html",
+				
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5397.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"af216eb7e3dfff3aa940883a3ed6fa7f\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5397.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Night sky filled with numerous small stars, creating a scattered glowing pattern across a dark backdrop. In the lower right, the sharply pointed roof of a partially visible house brightly illuminated from within, contrasting with the dark night. In the lower left, a silhouette of tree branches adds texture.\" \n        \n  />\n</a>\n\n</p>\n<p>Stars</p>\n<p>#the100pics 20/100</p>\n",
+				"content_text": "![Night sky filled with numerous small stars, creating a scattered glowing pattern across a dark backdrop. In the lower right, the sharply pointed roof of a partially visible house brightly illuminated from within, contrasting with the dark night. In the lower left, a silhouette of tree branches adds texture.](https://cdn.uploads.micro.blog/29404/2025/img-5397.jpg)  \r\n\r\nStars\r\n\r\n#the100pics 20/100\n",
+				"date_published": "2025-09-01T21:07:04-03:00",
+				"url": "https://jomalo.com/2025/09/01/stars-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/08/30/mirror-thepics.html",
+				
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/942028b0b4.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"08c4197554291761dc045b3de0b332ca\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/942028b0b4.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph capturing a serene seaside at dusk or dawn with calm water reflecting silhouetted trees on the horizon. The sky is clear with a gentle gradient from light to dark suggesting the subtle presence of fading or emerging daylight. Shadows of trees create a peaceful atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Mirror</p>\n<p>#the100pics 19/100</p>\n",
+				"content_text": "![A black and white photograph capturing a serene seaside at dusk or dawn with calm water reflecting silhouetted trees on the horizon. The sky is clear with a gentle gradient from light to dark suggesting the subtle presence of fading or emerging daylight. Shadows of trees create a peaceful atmosphere.](https://cdn.uploads.micro.blog/29404/2025/942028b0b4.jpg)  \r\n\r\nMirror\r\n\r\n#the100pics 19/100\n",
+				"date_published": "2025-08-30T19:26:51-03:00",
+				"url": "https://jomalo.com/2025/08/30/mirror-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/08/26/crew-thepics.html",
+				
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5237.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"09f04a6fb093f6df7a63fa5622d7eee2\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5237.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph showing mechanical equipment with cables and pipes on a vessel. In the foreground, a sign on a railing reads CREW ONLY. There is a small logo above the equipment depicting a person operating machinery.\" \n        \n  />\n</a>\n\n</p>\n<p>Crew</p>\n<p>#the100pics 18/100</p>\n",
+				"content_text": "![A black and white photograph showing mechanical equipment with cables and pipes on a vessel. In the foreground, a sign on a railing reads CREW ONLY. There is a small logo above the equipment depicting a person operating machinery.](https://cdn.uploads.micro.blog/29404/2025/img-5237.jpg)  \n\nCrew\n\n#the100pics 18/100\n",
+				"date_published": "2025-08-26T22:21:42-03:00",
+				"url": "https://jomalo.com/2025/08/26/crew-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/08/26/storm-thepics.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5318.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"7a98a0009c3f913ce5df60875789e69a\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5318.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.\" \n        \n  />\n</a>\n\n</p>\n<p>Storm</p>\n<p>#the100pics 16/100</p>\n",
-				"content_text": "![Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.](https://jomalo.com/uploads/2025/img-5318.jpg)  \r\n\r\nStorm\r\n\r\n#the100pics 16/100\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5318.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"7a98a0009c3f913ce5df60875789e69a\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5318.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.\" \n        \n  />\n</a>\n\n</p>\n<p>Storm</p>\n<p>#the100pics 17/100</p>\n",
+				"content_text": "![Dark storm clouds loom over a body of water with a small sliver of sunlight breaking through the clouds on the right side. The water below reflects the light in contrast to the heavy cloud cover. The horizon line is faintly visible in the distance.](https://cdn.uploads.micro.blog/29404/2025/img-5318.jpg)  \n\nStorm\n\n#the100pics 17/100\n",
 				"date_published": "2025-08-26T21:28:31-03:00",
 				"url": "https://jomalo.com/2025/08/26/storm-thepics.html",
 				"tags": ["photos","the100pics"]
@@ -26,16 +124,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/08/22/the-last-camera-project-the.html",
 				
-				"content_html": "<p>The Last Camera Project, the world’s largest disposable camera!</p>\n<p>6 invites available if anyone is interested.</p>\n<p><a href=\"https://last.camera/invite/8FpQB9JDNA5hUFT7D2VDJr\">last.camera/invite/8F&hellip;</a></p>\n",
-				"content_text": "The Last Camera Project, the world’s largest disposable camera! \r\n\r\n6 invites available if anyone is interested. \r\n\r\n[last.camera/invite/8F...](https://last.camera/invite/8FpQB9JDNA5hUFT7D2VDJr)\n",
+				"content_html": "<p>The Last Camera Project, the world’s largest disposable camera!</p>\n<p>Edit - 5 invites still available.</p>\n<p><a href=\"https://last.camera/invite/8FpQB9JDNA5hUFT7D2VDJr\">last.camera/invite/8F&hellip;</a></p>\n",
+				"content_text": "The Last Camera Project, the world’s largest disposable camera! \n\nEdit - 5 invites still available. \n\n[last.camera/invite/8F...](https://last.camera/invite/8FpQB9JDNA5hUFT7D2VDJr)\n",
 				"date_published": "2025-08-22T21:18:38-03:00",
 				"url": "https://jomalo.com/2025/08/22/the-last-camera-project-the.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2025/08/12/vintage-thepics.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5267.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"1978c8123ff83c91d4451c929f2f728e\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5267.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph of a vintage hot rod car with a prominent front wheel and exposed engine components The vehicle has a classic design with a sleek body and chrome details The front grille is visible and there is a badge on the side that says Ford\" \n        \n  />\n</a>\n\n</p>\n<p>Vintage</p>\n<p>#the100pics 16/100</p>\n",
-				"content_text": "![A black and white photograph of a vintage hot rod car with a prominent front wheel and exposed engine components The vehicle has a classic design with a sleek body and chrome details The front grille is visible and there is a badge on the side that says Ford](https://jomalo.com/uploads/2025/img-5267.jpg)  \r\n\r\nVintage\r\n\r\n#the100pics 16/100\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5267.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"1978c8123ff83c91d4451c929f2f728e\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5267.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photograph of a vintage hot rod car with a prominent front wheel and exposed engine components The vehicle has a classic design with a sleek body and chrome details The front grille is visible and there is a badge on the side that says Ford\" \n        \n  />\n</a>\n\n</p>\n<p>Vintage</p>\n<p>#the100pics 16/100</p>\n",
+				"content_text": "![A black and white photograph of a vintage hot rod car with a prominent front wheel and exposed engine components The vehicle has a classic design with a sleek body and chrome details The front grille is visible and there is a badge on the side that says Ford](https://cdn.uploads.micro.blog/29404/2025/img-5267.jpg)  \r\n\r\nVintage\r\n\r\n#the100pics 16/100\n",
 				"date_published": "2025-08-12T17:36:48-03:00",
 				"url": "https://jomalo.com/2025/08/12/vintage-thepics.html",
 				"tags": ["photos","the100pics"]
@@ -43,8 +141,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/08/12/ocean-thepics.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5246.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"5c3cca75e0d3426a6a620a33e6269f53\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5246.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Black and white photo of a ship&amp;rsquo;s deck with railings on the right and choppy ocean waves below. A flag is seen on the top right. The horizon stretches in the distance.\" \n        \n  />\n</a>\n\n</p>\n<p>Ocean</p>\n<p>#the100pics 15/100</p>\n",
-				"content_text": "![Black and white photo of a ship's deck with railings on the right and choppy ocean waves below. A flag is seen on the top right. The horizon stretches in the distance.](https://jomalo.com/uploads/2025/img-5246.jpg)  \r\n\r\nOcean\r\n\r\n#the100pics 15/100\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5246.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"5c3cca75e0d3426a6a620a33e6269f53\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5246.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Black and white photo of a ship&amp;rsquo;s deck with railings on the right and choppy ocean waves below. A flag is seen on the top right. The horizon stretches in the distance.\" \n        \n  />\n</a>\n\n</p>\n<p>Ocean</p>\n<p>#the100pics 15/100</p>\n",
+				"content_text": "![Black and white photo of a ship's deck with railings on the right and choppy ocean waves below. A flag is seen on the top right. The horizon stretches in the distance.](https://cdn.uploads.micro.blog/29404/2025/img-5246.jpg)  \r\n\r\nOcean\r\n\r\n#the100pics 15/100\n",
 				"date_published": "2025-08-12T11:59:22-03:00",
 				"url": "https://jomalo.com/2025/08/12/ocean-thepics.html",
 				"tags": ["photos","the100pics"]
@@ -61,8 +159,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/08/09/kandahar.html",
 				"title": "Kandahar, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/641160-kandahar-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 9, 2025.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/641160-kandahar-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 9, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/641160-kandahar-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday August 9, 2025.</p>\n",
 				"date_published": "2025-08-09T20:02:40-03:00",
 				"url": "https://jomalo.com/2025/08/09/kandahar.html",
 				"tags": ["movies"]
@@ -88,7 +186,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/25/011437.html",
 				"title": "Mickey 17, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/ba4e283b90.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/ba4e283b90.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"date_published": "2025-07-25T01:14:37-03:00",
 				"url": "https://jomalo.com/2025/07/25/011437.html",
@@ -97,7 +195,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/25/mickey.html",
 				"title": "Mickey 17, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/620281-mickey-17-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/620281-mickey-17-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"date_published": "2025-07-25T01:14:37-03:00",
 				"url": "https://jomalo.com/2025/07/25/mickey.html",
@@ -106,7 +204,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/24/202841.html",
 				"title": "September 5, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1986e2477f.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1986e2477f.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"date_published": "2025-07-24T20:28:41-03:00",
 				"url": "https://jomalo.com/2025/07/24/202841.html",
@@ -115,7 +213,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/24/september.html",
 				"title": "September 5, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1095718-september-5-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1095718-september-5-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday July 24, 2025.</p>\n",
 				"date_published": "2025-07-24T20:28:41-03:00",
 				"url": "https://jomalo.com/2025/07/24/september.html",
@@ -124,7 +222,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/22/211124.html",
 				"title": "Lightyear, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f136871b00.jpg\"/></p> <p>Watched on Tuesday July 22, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f136871b00.jpg\"/></p> <p>Watched on Tuesday July 22, 2025.</p>\n",
 				"date_published": "2025-07-22T21:11:24-03:00",
 				"url": "https://jomalo.com/2025/07/22/211124.html",
@@ -133,7 +231,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/22/lightyear.html",
 				"title": "Lightyear, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/641574-lightyear-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday July 22, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/641574-lightyear-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday July 22, 2025.</p>\n",
 				"date_published": "2025-07-22T21:11:24-03:00",
 				"url": "https://jomalo.com/2025/07/22/lightyear.html",
@@ -142,7 +240,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/21/175015.html",
 				"title": "Jurassic World Rebirth, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/84a5e91d1b.jpg\"/></p> <p>Watched on Monday July 21, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/84a5e91d1b.jpg\"/></p> <p>Watched on Monday July 21, 2025.</p>\n",
 				"date_published": "2025-07-21T17:50:15-03:00",
 				"url": "https://jomalo.com/2025/07/21/175015.html",
@@ -151,7 +249,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/21/jurassic-world-rebirth.html",
 				"title": "Jurassic World Rebirth, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1117926-jurassic-world-rebirth-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday July 21, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1117926-jurassic-world-rebirth-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday July 21, 2025.</p>\n",
 				"date_published": "2025-07-21T17:50:15-03:00",
 				"url": "https://jomalo.com/2025/07/21/jurassic-world-rebirth.html",
@@ -160,7 +258,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/20/214006.html",
 				"title": "Fountain of Youth, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/e45b6921d7.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/e45b6921d7.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T21:40:06-03:00",
 				"url": "https://jomalo.com/2025/07/20/214006.html",
@@ -169,7 +267,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/20/fountain-of-youth.html",
 				"title": "Fountain of Youth, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/989651-fountain-of-youth-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T21:40:06-03:00",
 				"url": "https://jomalo.com/2025/07/20/fountain-of-youth.html",
@@ -178,7 +276,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/20/191433.html",
 				"title": "Carry-On, 2024 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/6819b6b460.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/6819b6b460.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T19:14:33-03:00",
 				"url": "https://jomalo.com/2025/07/20/191433.html",
@@ -187,7 +285,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/20/carryon.html",
 				"title": "Carry-On, 2024 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/905876-carry-on-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday July 20, 2025.</p>\n",
 				"date_published": "2025-07-20T19:14:33-03:00",
 				"url": "https://jomalo.com/2025/07/20/carryon.html",
@@ -196,7 +294,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/13/004708.html",
 				"title": "How to Train Your Dragon, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/73e8063326.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/73e8063326.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"date_published": "2025-07-13T00:47:08-03:00",
 				"url": "https://jomalo.com/2025/07/13/004708.html",
@@ -205,7 +303,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/13/how-to-train-your-dragon.html",
 				"title": "How to Train Your Dragon, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980116-how-to-train-your-dragon-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday July 12, 2025.</p>\n",
 				"date_published": "2025-07-13T00:47:08-03:00",
 				"url": "https://jomalo.com/2025/07/13/how-to-train-your-dragon.html",
@@ -248,7 +346,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/30/015709.html",
 				"title": "Gladiator II, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/4557c3b413.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/4557c3b413.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-30T01:57:09-03:00",
 				"url": "https://jomalo.com/2025/06/30/015709.html",
@@ -257,7 +355,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/30/gladiator-ii.html",
 				"title": "Gladiator II, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/486978-gladiator-ii-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/486978-gladiator-ii-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-30T01:57:09-03:00",
 				"url": "https://jomalo.com/2025/06/30/gladiator-ii.html",
@@ -275,7 +373,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/29/233928.html",
 				"title": "Fly Me to the Moon, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/3ba3f3aa00.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/3ba3f3aa00.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-29T23:39:28-03:00",
 				"url": "https://jomalo.com/2025/06/29/233928.html",
@@ -284,7 +382,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/29/fly-me-to-the-moon.html",
 				"title": "Fly Me to the Moon, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/861039-fly-me-to-the-moon-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/861039-fly-me-to-the-moon-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-29T23:39:28-03:00",
 				"url": "https://jomalo.com/2025/06/29/fly-me-to-the-moon.html",
@@ -293,7 +391,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/29/173836.html",
 				"title": "The Batman, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/520ae216df.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/520ae216df.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-29T17:38:36-03:00",
 				"url": "https://jomalo.com/2025/06/29/173836.html",
@@ -302,7 +400,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/29/the-batman.html",
 				"title": "The Batman, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/348914-the-batman-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/348914-the-batman-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 29, 2025.</p>\n",
 				"date_published": "2025-06-29T17:38:36-03:00",
 				"url": "https://jomalo.com/2025/06/29/the-batman.html",
@@ -446,7 +544,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/15/220637.html",
 				"title": "Gladiator, 2000 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/a36dd7f419.jpg\"/></p> <p>Watched on Sunday June 15, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/a36dd7f419.jpg\"/></p> <p>Watched on Sunday June 15, 2025.</p>\n",
 				"date_published": "2025-06-15T22:06:37-03:00",
 				"url": "https://jomalo.com/2025/06/15/220637.html",
@@ -455,7 +553,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/15/gladiator.html",
 				"title": "Gladiator, 2000 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51952-gladiator-2000-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 15, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51952-gladiator-2000-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday June 15, 2025.</p>\n",
 				"date_published": "2025-06-15T22:06:37-03:00",
 				"url": "https://jomalo.com/2025/06/15/gladiator.html",
@@ -518,7 +616,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/09/160611.html",
 				"title": "Mission: Impossible – Dead Reckoning, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/dda1f72aa1.jpg\"/></p> <p>Watched on Saturday June 7, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/dda1f72aa1.jpg\"/></p> <p>Watched on Saturday June 7, 2025.</p>\n",
 				"date_published": "2025-06-09T16:06:11-03:00",
 				"url": "https://jomalo.com/2025/06/09/160611.html",
@@ -527,7 +625,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/06/09/mission-impossible-dead-reckoning.html",
 				"title": "Mission: Impossible – Dead Reckoning, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/503402-mission-impossible-dead-reckoning-part-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday June 7, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/503402-mission-impossible-dead-reckoning-part-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday June 7, 2025.</p>\n",
 				"date_published": "2025-06-09T16:06:11-03:00",
 				"url": "https://jomalo.com/2025/06/09/mission-impossible-dead-reckoning.html",
@@ -644,7 +742,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/05/05/074714.html",
 				"title": "Monty Python and the Holy Grail, 1975 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/304ebeaa1b.jpg\"/></p> <p>50th anniversary screening. Just as great as the first time I saw it.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/304ebeaa1b.jpg\"/></p> <p>50th anniversary screening. Just as great as the first time I saw it.</p>\n",
 				"date_published": "2025-05-05T07:47:14-03:00",
 				"url": "https://jomalo.com/2025/05/05/074714.html"
@@ -652,7 +750,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/05/05/monty-python-and-the-holy.html",
 				"title": "Monty Python and the Holy Grail, 1975 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51390-monty-python-and-the-holy-grail-0-600-0-900-crop.jpg\"/></p> <p>50th anniversary screening. Just as great as the first time I saw it.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51390-monty-python-and-the-holy-grail-0-600-0-900-crop.jpg\"/></p> <p>50th anniversary screening. Just as great as the first time I saw it.</p>\n",
 				"date_published": "2025-05-05T07:47:14-03:00",
 				"url": "https://jomalo.com/2025/05/05/monty-python-and-the-holy.html"
@@ -685,7 +783,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/04/19/150442.html",
 				"title": "The Amateur, 2025 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/e2dc1477d5.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/e2dc1477d5.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
 				"date_published": "2025-04-19T15:04:42-03:00",
 				"url": "https://jomalo.com/2025/04/19/150442.html",
@@ -694,7 +792,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/04/19/the-amateur.html",
 				"title": "The Amateur, 2025 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980914-the-amateur-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/980914-the-amateur-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday April 19, 2025.</p>\n",
 				"date_published": "2025-04-19T15:04:42-03:00",
 				"url": "https://jomalo.com/2025/04/19/the-amateur.html",
@@ -737,7 +835,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/03/30/205056.html",
 				"title": "Black Bag, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f0b21358e7.jpg\"/></p> <p>Watched on Sunday March 30, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f0b21358e7.jpg\"/></p> <p>Watched on Sunday March 30, 2025.</p>\n",
 				"date_published": "2025-03-30T20:50:56-03:00",
 				"url": "https://jomalo.com/2025/03/30/205056.html",
@@ -746,7 +844,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/03/30/black-bag.html",
 				"title": "Black Bag, 2025 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1116755-black-bag-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday March 30, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1116755-black-bag-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday March 30, 2025.</p>\n",
 				"date_published": "2025-03-30T20:50:56-03:00",
 				"url": "https://jomalo.com/2025/03/30/black-bag.html",
@@ -764,7 +862,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/03/12/donation.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #21</p>\n",
 				"content_text": "<p>🩸 Donation #21</p>\n",
 				"date_published": "2025-03-12T18:40:19-03:00",
 				"url": "https://jomalo.com/2025/03/12/donation.html"
@@ -799,7 +897,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/02/21/the-gorge.html",
 				"title": "The Gorge, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/854687-the-gorge-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 21, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/854687-the-gorge-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 21, 2025.</p>\n",
 				"date_published": "2025-02-22T00:27:27-03:00",
 				"url": "https://jomalo.com/2025/02/21/the-gorge.html",
@@ -808,7 +906,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/02/22/the-gorge.html",
 				"title": "The Gorge, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/94e86a0925.jpg\"/></p> <p>Watched on Friday February 21, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/94e86a0925.jpg\"/></p> <p>Watched on Friday February 21, 2025.</p>\n",
 				"date_published": "2025-02-22T00:27:27-03:00",
 				"url": "https://jomalo.com/2025/02/22/the-gorge.html",
@@ -826,7 +924,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/02/17/012109.html",
 				"title": "Back in Action, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/2b7fa370d1.jpg\"/></p> <p>Watched on Sunday February 16, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/2b7fa370d1.jpg\"/></p> <p>Watched on Sunday February 16, 2025.</p>\n",
 				"date_published": "2025-02-17T01:21:09-03:00",
 				"url": "https://jomalo.com/2025/02/17/012109.html",
@@ -835,7 +933,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/02/17/back-in-action.html",
 				"title": "Back in Action, 2025 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/894941-back-in-action-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday February 16, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/894941-back-in-action-2025-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday February 16, 2025.</p>\n",
 				"date_published": "2025-02-17T01:21:09-03:00",
 				"url": "https://jomalo.com/2025/02/17/back-in-action.html",
@@ -889,7 +987,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/01/18/234253.html",
 				"title": "Lee, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f3ac66f179.jpg\"/></p> <p>Watched on Saturday January 18, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/f3ac66f179.jpg\"/></p> <p>Watched on Saturday January 18, 2025.</p>\n",
 				"date_published": "2025-01-18T23:42:53-03:00",
 				"url": "https://jomalo.com/2025/01/18/234253.html",
@@ -898,7 +996,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/01/18/lee.html",
 				"title": "Lee, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/748772-lee-2023-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 18, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/748772-lee-2023-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 18, 2025.</p>\n",
 				"date_published": "2025-01-18T23:42:53-03:00",
 				"url": "https://jomalo.com/2025/01/18/lee.html",
@@ -907,7 +1005,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/01/11/224611.html",
 				"title": "Den of Thieves, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/6f3ffca357.jpg\"/></p> <p>Watched on Saturday January 11, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/6f3ffca357.jpg\"/></p> <p>Watched on Saturday January 11, 2025.</p>\n",
 				"date_published": "2025-01-11T22:46:11-03:00",
 				"url": "https://jomalo.com/2025/01/11/224611.html",
@@ -916,7 +1014,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/01/11/den-of-thieves.html",
 				"title": "Den of Thieves, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/381754-den-of-thieves-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 11, 2025.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/381754-den-of-thieves-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 11, 2025.</p>\n",
 				"date_published": "2025-01-11T22:46:11-03:00",
 				"url": "https://jomalo.com/2025/01/11/den-of-thieves.html",
@@ -934,7 +1032,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/24/scrooge.html",
 				"title": "Scrooge, 1951 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/44065-scrooge-0-600-0-900-crop.jpg.jpg\"/></p> <p>Annual Christmas re-watch!</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/44065-scrooge-0-600-0-900-crop.jpg.jpg\"/></p> <p>Annual Christmas re-watch!</p>\n",
 				"date_published": "2024-12-25T00:28:25-03:00",
 				"url": "https://jomalo.com/2024/12/24/scrooge.html"
@@ -942,7 +1040,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/25/scrooge.html",
 				"title": "Scrooge, 1951 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/3ecbed628c.jpg\"/></p> <p>Annual Christmas re-watch!</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/3ecbed628c.jpg\"/></p> <p>Annual Christmas re-watch!</p>\n",
 				"date_published": "2024-12-25T00:28:25-03:00",
 				"url": "https://jomalo.com/2024/12/25/scrooge.html"
@@ -959,7 +1057,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/15/112459.html",
 				"title": "Red One, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/760193-red-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 15, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/760193-red-one-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 15, 2024.</p>\n",
 				"date_published": "2024-12-15T11:24:59-03:00",
 				"url": "https://jomalo.com/2024/12/15/112459.html",
@@ -968,7 +1066,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/15/red-one.html",
 				"title": "Red One, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/760193-red-one-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Sunday December 15, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/760193-red-one-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Sunday December 15, 2024.</p>\n",
 				"date_published": "2024-12-15T11:24:59-03:00",
 				"url": "https://jomalo.com/2024/12/15/red-one.html",
@@ -977,7 +1075,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/08/i-think-were-alone-now.html",
 				"title": "I Think We\u0026#039;re Alone Now, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/384031-i-think-we-re-alone-now-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 8, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/384031-i-think-we-re-alone-now-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 8, 2024.</p>\n",
 				"date_published": "2024-12-08T20:53:10-03:00",
 				"url": "https://jomalo.com/2024/12/08/i-think-were-alone-now.html",
@@ -986,7 +1084,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/08/i-think-were.html",
 				"title": "I Think We\u0026#039;re Alone Now, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/384031-i-think-we-re-alone-now-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Sunday December 8, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2024/384031-i-think-we-re-alone-now-0-600-0-900-crop.jpg.jpg\"/></p> <p>Watched on Sunday December 8, 2024.</p>\n",
 				"date_published": "2024-12-08T20:53:10-03:00",
 				"url": "https://jomalo.com/2024/12/08/i-think-were.html",
@@ -995,7 +1093,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/08/the-lord-of-the-rings.html",
 				"title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/9676f2d357.jpg\"/></p> <p>Watched on Saturday December 7, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/9676f2d357.jpg\"/></p> <p>Watched on Saturday December 7, 2024.</p>\n",
 				"date_published": "2024-12-08T12:08:58-03:00",
 				"url": "https://jomalo.com/2024/12/08/the-lord-of-the-rings.html",
@@ -1004,7 +1102,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/08/the-lord-of.html",
 				"title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Saturday December 7, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Saturday December 7, 2024.</p>\n",
 				"date_published": "2024-12-08T12:08:58-03:00",
 				"url": "https://jomalo.com/2024/12/08/the-lord-of.html",
@@ -1013,7 +1111,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/06/the-lord-of-the-rings.html",
 				"title": "The Lord of the Rings: The Two Towers, 2002 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday December 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday December 5, 2024.</p>\n",
 				"date_published": "2024-12-06T09:44:59-03:00",
 				"url": "https://jomalo.com/2024/12/06/the-lord-of-the-rings.html",
@@ -1022,7 +1120,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/06/the-lord-of.html",
 				"title": "The Lord of the Rings: The Two Towers, 2002 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Thursday December 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Thursday December 5, 2024.</p>\n",
 				"date_published": "2024-12-06T09:44:59-03:00",
 				"url": "https://jomalo.com/2024/12/06/the-lord-of.html",
@@ -1031,7 +1129,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/01/the-lord-of-the-rings.html",
 				"title": "The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1tx9zlgvvwjaqhms1vafsypi7vk-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 1, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1tx9zlgvvwjaqhms1vafsypi7vk-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday December 1, 2024.</p>\n",
 				"date_published": "2024-12-01T22:39:07-03:00",
 				"url": "https://jomalo.com/2024/12/01/the-lord-of-the-rings.html",
@@ -1040,7 +1138,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/12/01/the-lord-of.html",
 				"title": "The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday December 1, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday December 1, 2024.</p>\n",
 				"date_published": "2024-12-01T22:39:07-03:00",
 				"url": "https://jomalo.com/2024/12/01/the-lord-of.html",
@@ -1049,7 +1147,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/23/233935.html",
 				"title": "The Hobbit: The Battle of the Five Armies, 2014 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg?v=fcaa9a2943\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/5/5/2/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg?v=fcaa9a2943\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-24T00:39:35-03:00",
 				"url": "https://jomalo.com/2024/11/23/233935.html",
@@ -1058,8 +1156,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/24/003935.html",
 				"title": "The Hobbit: The Battle of the Five Armies, 2014 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"uploads/2025/089bd173bf.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/089bd173bf.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/089bd173bf.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-24T00:39:35-03:00",
 				"url": "https://jomalo.com/2024/11/24/003935.html",
 				"tags": ["movies"]
@@ -1067,7 +1165,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/24/the-hobbit-the-battle-of.html",
 				"title": "The Hobbit: The Battle of the Five Armies, 2014 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/96552-the-hobbit-the-battle-of-the-five-armies-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-24T00:39:35-03:00",
 				"url": "https://jomalo.com/2024/11/24/the-hobbit-the-battle-of.html",
@@ -1076,7 +1174,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/23/the-hobbit-the-desolation-of.html",
 				"title": "The Hobbit: The Desolation of Smaug, 2013 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/gqciuxgsfixh1su6lp9n0nd0ueh-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/gqciuxgsfixh1su6lp9n0nd0ueh-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-23T21:58:38-03:00",
 				"url": "https://jomalo.com/2024/11/23/the-hobbit-the-desolation-of.html",
@@ -1085,7 +1183,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/23/the-hobbit-the.html",
 				"title": "The Hobbit: The Desolation of Smaug, 2013 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-600-0-900-crop.jpg?v=00310e521d\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/e0/ek/na/yb/gQCiuxGsfiXH1su6lp9n0nd0UeH-0-600-0-900-crop.jpg?v=00310e521d\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-23T21:58:38-03:00",
 				"url": "https://jomalo.com/2024/11/23/the-hobbit-the.html",
@@ -1094,7 +1192,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/23/the-hobbit-an-unexpected-journey.html",
 				"title": "The Hobbit: An Unexpected Journey, 2012 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/mfsaahvkaiyfkx1gvfslcedn0mt-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/mfsaahvkaiyfkx1gvfslcedn0mt-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-23T18:32:39-03:00",
 				"url": "https://jomalo.com/2024/11/23/the-hobbit-an-unexpected-journey.html",
@@ -1103,7 +1201,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/23/the-hobbit-an.html",
 				"title": "The Hobbit: An Unexpected Journey, 2012 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-600-0-900-crop.jpg?v=282e4f2260\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/s7/p6/sy/6v/mfSAahVkAIYFkx1GVFSlCEdn0mt-0-600-0-900-crop.jpg?v=282e4f2260\"/></p> <p>Watched on Saturday November 23, 2024.</p>\n",
 				"date_published": "2024-11-23T18:32:39-03:00",
 				"url": "https://jomalo.com/2024/11/23/the-hobbit-an.html",
@@ -1121,7 +1219,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/18/183559.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #20</p>\n",
 				"content_text": "<p>🩸 Donation #20</p>\n",
 				"date_published": "2024-11-18T19:35:59-03:00",
 				"url": "https://jomalo.com/2024/11/18/183559.html"
@@ -1129,7 +1227,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/11/18/donation.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #20</p>\n",
 				"content_text": "<p>🩸 Donation #20</p>\n",
 				"date_published": "2024-11-18T19:35:59-03:00",
 				"url": "https://jomalo.com/2024/11/18/donation.html"
@@ -1209,7 +1307,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/10/05/the-ministry-of-ungentlemanly-warfare.html",
 				"title": "The Ministry of Ungentlemanly Warfare, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/717126-the-ministry-of-ungentlemanly-warfare-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/717126-the-ministry-of-ungentlemanly-warfare-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"date_published": "2024-10-05T17:17:55-03:00",
 				"url": "https://jomalo.com/2024/10/05/the-ministry-of-ungentlemanly-warfare.html",
@@ -1218,7 +1316,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/10/05/the-ministry-of.html",
 				"title": "The Ministry of Ungentlemanly Warfare, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/1/7/1/2/6/717126-the-ministry-of-ungentlemanly-warfare-0-600-0-900-crop.jpg?v=63fba9c252\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/1/7/1/2/6/717126-the-ministry-of-ungentlemanly-warfare-0-600-0-900-crop.jpg?v=63fba9c252\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"date_published": "2024-10-05T17:17:55-03:00",
 				"url": "https://jomalo.com/2024/10/05/the-ministry-of.html",
@@ -1227,7 +1325,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/10/05/the-grand-tour-one-for.html",
 				"title": "The Grand Tour: One For The Road, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1232084-the-grand-tour-one-for-the-road-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/1232084-the-grand-tour-one-for-the-road-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"date_published": "2024-10-05T14:19:06-03:00",
 				"url": "https://jomalo.com/2024/10/05/the-grand-tour-one-for.html",
@@ -1236,7 +1334,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/10/05/the-grand-tour.html",
 				"title": "The Grand Tour: One For The Road, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/2/3/2/0/8/4/1232084-the-grand-tour-one-for-the-road-0-600-0-900-crop.jpg?v=8d9a31e807\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/2/3/2/0/8/4/1232084-the-grand-tour-one-for-the-road-0-600-0-900-crop.jpg?v=8d9a31e807\"/></p> <p>Watched on Saturday October 5, 2024.</p>\n",
 				"date_published": "2024-10-05T14:19:06-03:00",
 				"url": "https://jomalo.com/2024/10/05/the-grand-tour.html",
@@ -1254,7 +1352,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/21/noticed-on-the.html",
 				
-				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2024/21dab4d144.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"bf5df823c1b21acd6d13960a46c5d496\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2024/21dab4d144.jpeg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A stone archway features three carved figures above a black metal gate. The gate is partially open and secured with a chain. Inside the entrance, there are indistinct shapes of art displayed in a well-lit space. The surrounding walls are made of rough stone, suggesting an aged structure.\" \n        \n  />\n</a>\n\n</p>\n<p>Noticed on the timeline this morning that <a href=\"https://micro.blog/numericcitizen\">numericcitizen</a> posted a photo that looked familiar. I stood in the same spot and took a similar picture just a few months ago. I even highlighted it on my travel site <a href=\"https://exploretogether.lol/2024/08/06/cruise-day-june.html\">exploretogether.lol</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2024/21dab4d144.jpeg\" \n   class=\"glightbox\"\n   data-gallery=\"bf5df823c1b21acd6d13960a46c5d496\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2024/21dab4d144.jpeg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A stone archway features three carved figures above a black metal gate. The gate is partially open and secured with a chain. Inside the entrance, there are indistinct shapes of art displayed in a well-lit space. The surrounding walls are made of rough stone, suggesting an aged structure.\" \n        \n  />\n</a>\n\n</p>\n<p>Noticed on the timeline this morning that <a href=\"https://micro.blog/numericcitizen\">numericcitizen</a> posted a photo that looked familiar. I stood in the same spot and took a similar picture just a few months ago. I even highlighted it on my travel site <a href=\"https://exploretogether.lol/2024/08/06/cruise-day-june.html\">exploretogether.lol</a></p>\n<blockquote class=\"quoteback\" data-author=\"Numeric Citizen\" data-avatar=\"https://micro.blog/numericcitizen/avatar.jpg\" cite=\"https://pixelfed.social/p/numericcitizen/731667835778878452\"><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Fpxscdn.com%2Fpublic%2Fm%2F_v2%2F583629418009617054%2F0e43b1202-69768b%2FoG1lt0pEZcxi%2FXwWXRe2WacTj2Viuu1VBwBFbDdEwj8iNAkOfEopX.jpg\" alt=\"The image shows a sepia-toned relief sculpture on a historic building, featuring three robed figures within a Gothic arch. The central figure, likely the Virgin Mary, holds a child, flanked by a young figure on the left and a bearded saint on the right. Below the relief, \" loading=\"lazy\">\n\t\t\t<p>1786. I'm always fascinated by very old architecture and ornaments or sculptures. <a href=\"https://pixelfed.social/discover/tags/blackandwhite?src=hash\" title=\"#blackandwhite\" class=\"u-url hashtag\">#blackandwhite</a> <a href=\"https://pixelfed.social/discover/tags/blackandwhitephotography?src=hash\" title=\"#blackandwhitephotography\" class=\"u-url hashtag\">#blackandwhitephotography</a> <a href=\"https://pixelfed.social/discover/tags/architecture?src=hash\" title=\"#architecture\" class=\"u-url hashtag\">#architecture</a></p><footer>Numeric Citizen <cite><a href=\"https://pixelfed.social/p/numericcitizen/731667835778878452\" class=\"u-in-reply-to\">https://pixelfed.social/p/numericcitizen/731667835778878452</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n",
 				"content_text": "![A stone archway features three carved figures above a black metal gate. The gate is partially open and secured with a chain. Inside the entrance, there are indistinct shapes of art displayed in a well-lit space. The surrounding walls are made of rough stone, suggesting an aged structure.](https://cdn.uploads.micro.blog/29404/2024/21dab4d144.jpeg)  \n\nNoticed on the timeline this morning that [numericcitizen](https://micro.blog/numericcitizen) posted a photo that looked familiar. I stood in the same spot and took a similar picture just a few months ago. I even highlighted it on my travel site [exploretogether.lol](https://exploretogether.lol/2024/08/06/cruise-day-june.html)\n\n<blockquote class=\"quoteback\" data-author=\"Numeric Citizen\" data-avatar=\"https://micro.blog/numericcitizen/avatar.jpg\" cite=\"https://pixelfed.social/p/numericcitizen/731667835778878452\"><img src=\"https://cdn.micro.blog/photos/1000x/https%3A%2F%2Fpxscdn.com%2Fpublic%2Fm%2F_v2%2F583629418009617054%2F0e43b1202-69768b%2FoG1lt0pEZcxi%2FXwWXRe2WacTj2Viuu1VBwBFbDdEwj8iNAkOfEopX.jpg\" alt=\"The image shows a sepia-toned relief sculpture on a historic building, featuring three robed figures within a Gothic arch. The central figure, likely the Virgin Mary, holds a child, flanked by a young figure on the left and a bearded saint on the right. Below the relief, \" loading=\"lazy\">\n\t\t\t<p>1786. I'm always fascinated by very old architecture and ornaments or sculptures. <a href=\"https://pixelfed.social/discover/tags/blackandwhite?src=hash\" title=\"#blackandwhite\" class=\"u-url hashtag\">#blackandwhite</a> <a href=\"https://pixelfed.social/discover/tags/blackandwhitephotography?src=hash\" title=\"#blackandwhitephotography\" class=\"u-url hashtag\">#blackandwhitephotography</a> <a href=\"https://pixelfed.social/discover/tags/architecture?src=hash\" title=\"#architecture\" class=\"u-url hashtag\">#architecture</a></p><footer>Numeric Citizen <cite><a href=\"https://pixelfed.social/p/numericcitizen/731667835778878452\" class=\"u-in-reply-to\">https://pixelfed.social/p/numericcitizen/731667835778878452</a></cite></footer></blockquote><script src=\"https://cdn.micro.blog/quoteback.js\"></script>\n \n",
 				"date_published": "2024-08-21T08:22:26-03:00",
 				"url": "https://jomalo.com/2024/08/21/noticed-on-the.html",
@@ -1272,7 +1370,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/19/172905.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #19</p>\n",
 				"content_text": "<p>🩸 Donation #19</p>\n",
 				"date_published": "2024-08-19T18:29:05-03:00",
 				"url": "https://jomalo.com/2024/08/19/172905.html"
@@ -1280,7 +1378,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/19/donation.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #19</p>\n",
 				"content_text": "<p>🩸 Donation #19</p>\n",
 				"date_published": "2024-08-19T18:29:05-03:00",
 				"url": "https://jomalo.com/2024/08/19/donation.html"
@@ -1288,7 +1386,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/14/212208.html",
 				"title": "Deadpool \u0026amp; Wolverine, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/462870-deadpool-wolverine-0-600-0-900-crop.jpg\"/></p> <p>Watched on Wednesday August 14, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/462870-deadpool-wolverine-0-600-0-900-crop.jpg\"/></p> <p>Watched on Wednesday August 14, 2024.</p>\n",
 				"date_published": "2024-08-14T21:22:08-03:00",
 				"url": "https://jomalo.com/2024/08/14/212208.html",
@@ -1297,7 +1395,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/14/deadpool-amp-wolverine.html",
 				"title": "Deadpool \u0026amp; Wolverine, 2024 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-600-0-900-crop.jpg?v=1aa778d2c6\"/></p> <p>Watched on Wednesday August 14, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/8/7/0/462870-deadpool-wolverine-0-600-0-900-crop.jpg?v=1aa778d2c6\"/></p> <p>Watched on Wednesday August 14, 2024.</p>\n",
 				"date_published": "2024-08-14T21:22:08-03:00",
 				"url": "https://jomalo.com/2024/08/14/deadpool-amp-wolverine.html",
@@ -1306,7 +1404,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/13/131643.html",
 				"title": "Deadpool 2, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/1/8/1/9/5/318195-deadpool-2-0-600-0-900-crop.jpg?v=b43b5ab190\"/></p> <p>Watched on Monday August 12, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/1/8/1/9/5/318195-deadpool-2-0-600-0-900-crop.jpg?v=b43b5ab190\"/></p> <p>Watched on Monday August 12, 2024.</p>\n",
 				"date_published": "2024-08-13T13:16:43-03:00",
 				"url": "https://jomalo.com/2024/08/13/131643.html",
@@ -1315,7 +1413,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/13/131619.html",
 				"title": "Deadpool, 2016 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/220575-deadpool-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday August 11, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/220575-deadpool-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday August 11, 2024.</p>\n",
 				"date_published": "2024-08-13T13:16:19-03:00",
 				"url": "https://jomalo.com/2024/08/13/131619.html",
@@ -1324,7 +1422,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/08/13/deadpool.html",
 				"title": "Deadpool, 2016 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/0/5/7/5/220575-deadpool-0-600-0-900-crop.jpg?v=2f726ea9b3\"/></p> <p>Watched on Sunday August 11, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/0/5/7/5/220575-deadpool-0-600-0-900-crop.jpg?v=2f726ea9b3\"/></p> <p>Watched on Sunday August 11, 2024.</p>\n",
 				"date_published": "2024-08-13T13:16:19-03:00",
 				"url": "https://jomalo.com/2024/08/13/deadpool.html",
@@ -1886,7 +1984,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/30/godzilla-kong-the-new-empire.html",
 				"title": "Godzilla × Kong: The New Empire, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/739522-godzilla-x-kong-the-new-empire-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday March 30, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/739522-godzilla-x-kong-the-new-empire-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday March 30, 2024.</p>\n",
 				"date_published": "2024-03-30T18:13:32-03:00",
 				"url": "https://jomalo.com/2024/03/30/godzilla-kong-the-new-empire.html",
@@ -1895,7 +1993,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/30/godzilla-kong-the.html",
 				"title": "Godzilla × Kong: The New Empire, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-600-0-900-crop.jpg?v=7c2eb6e620\"/></p> <p>Watched on Saturday March 30, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/3/9/5/2/2/739522-godzilla-x-kong-the-new-empire-0-600-0-900-crop.jpg?v=7c2eb6e620\"/></p> <p>Watched on Saturday March 30, 2024.</p>\n",
 				"date_published": "2024-03-30T18:13:32-03:00",
 				"url": "https://jomalo.com/2024/03/30/godzilla-kong-the.html",
@@ -1904,7 +2002,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/29/233002.html",
 				"title": "Dune: Part Two, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/617443-dune-part-two-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday March 28, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/617443-dune-part-two-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday March 28, 2024.</p>\n",
 				"date_published": "2024-03-29T23:30:02-03:00",
 				"url": "https://jomalo.com/2024/03/29/233002.html",
@@ -1913,7 +2011,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/29/dune-part-two.html",
 				"title": "Dune: Part Two, 2024 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8\"/></p> <p>Watched on Thursday March 28, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/7/4/4/3/617443-dune-part-two-0-600-0-900-crop.jpg?v=cc533700f8\"/></p> <p>Watched on Thursday March 28, 2024.</p>\n",
 				"date_published": "2024-03-29T23:30:02-03:00",
 				"url": "https://jomalo.com/2024/03/29/dune-part-two.html",
@@ -1949,7 +2047,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/15/234306.html",
 				"title": "Argylle, 2024 - ★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/763160-argylle-0-600-0-900-crop.jpg\"/></p> <p>Why are the bad guy characters so over the top!?!</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/763160-argylle-0-600-0-900-crop.jpg\"/></p> <p>Why are the bad guy characters so over the top!?!</p>\n",
 				"date_published": "2024-03-15T23:43:06-03:00",
 				"url": "https://jomalo.com/2024/03/15/234306.html"
@@ -1957,7 +2055,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/15/argylle.html",
 				"title": "Argylle, 2024 - ★★",
-				"content_html": "<!-- raw HTML omitted -->\n<p>Why are the bad guy characters so over the top!?!</p>\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/6/3/1/6/0/763160-argylle-0-600-0-900-crop.jpg?v=82c014880d\"/></p> <p>Watched on Friday March 15, 2024.</p>\n<p>Why are the bad guy characters so over the top!?!</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/6/3/1/6/0/763160-argylle-0-600-0-900-crop.jpg?v=82c014880d\"/></p> <p>Watched on Friday March 15, 2024.</p>\n\nWhy are the bad guy characters so over the top!?!\n",
 				"date_published": "2024-03-15T23:43:06-03:00",
 				"url": "https://jomalo.com/2024/03/15/argylle.html",
@@ -1975,7 +2073,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/01/225625.html",
 				"title": "Asteroid City, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/668555-asteroid-city-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday March 1, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/668555-asteroid-city-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday March 1, 2024.</p>\n",
 				"date_published": "2024-03-01T22:56:25-03:00",
 				"url": "https://jomalo.com/2024/03/01/225625.html",
@@ -1984,7 +2082,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/03/01/asteroid-city.html",
 				"title": "Asteroid City, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/8/5/5/5/668555-asteroid-city-0-600-0-900-crop.jpg?v=700bea7fd5\"/></p> <p>Watched on Friday March 1, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/6/8/5/5/5/668555-asteroid-city-0-600-0-900-crop.jpg?v=700bea7fd5\"/></p> <p>Watched on Friday March 1, 2024.</p>\n",
 				"date_published": "2024-03-01T22:56:25-03:00",
 				"url": "https://jomalo.com/2024/03/01/asteroid-city.html",
@@ -1993,7 +2091,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/23/104454.html",
 				"title": "3:10 to Yuma, 2007 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/48918-3-10-to-yuma-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday February 22, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/48918-3-10-to-yuma-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday February 22, 2024.</p>\n",
 				"date_published": "2024-02-23T10:44:54-03:00",
 				"url": "https://jomalo.com/2024/02/23/104454.html",
@@ -2002,7 +2100,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/23/to-yuma.html",
 				"title": "3:10 to Yuma, 2007 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/9/1/8/48918-3-10-to-yuma-0-600-0-900-crop.jpg?v=c068c05bb2\"/></p> <p>Watched on Thursday February 22, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/9/1/8/48918-3-10-to-yuma-0-600-0-900-crop.jpg?v=c068c05bb2\"/></p> <p>Watched on Thursday February 22, 2024.</p>\n",
 				"date_published": "2024-02-23T10:44:54-03:00",
 				"url": "https://jomalo.com/2024/02/23/to-yuma.html",
@@ -2020,7 +2118,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/16/233332.html",
 				"title": "Cocaine Bear, 2023 - ★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/721333-cocaine-bear-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 16, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/721333-cocaine-bear-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 16, 2024.</p>\n",
 				"date_published": "2024-02-16T23:33:32-03:00",
 				"url": "https://jomalo.com/2024/02/16/233332.html",
@@ -2029,7 +2127,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/16/cocaine-bear.html",
 				"title": "Cocaine Bear, 2023 - ★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/2/1/3/3/3/721333-cocaine-bear-0-600-0-900-crop.jpg?v=4486ee174d\"/></p> <p>Watched on Friday February 16, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/2/1/3/3/3/721333-cocaine-bear-0-600-0-900-crop.jpg?v=4486ee174d\"/></p> <p>Watched on Friday February 16, 2024.</p>\n",
 				"date_published": "2024-02-16T23:33:32-03:00",
 				"url": "https://jomalo.com/2024/02/16/cocaine-bear.html",
@@ -2038,7 +2136,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/10/130445.html",
 				"title": "Anyone But You, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/966990-anyone-but-you-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 9, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/966990-anyone-but-you-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday February 9, 2024.</p>\n",
 				"date_published": "2024-02-10T13:04:45-03:00",
 				"url": "https://jomalo.com/2024/02/10/130445.html",
@@ -2047,7 +2145,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/10/anyone-but-you.html",
 				"title": "Anyone But You, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/6/9/9/0/966990-anyone-but-you-0-600-0-900-crop.jpg?v=62514c5b09\"/></p> <p>Watched on Friday February 9, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/6/6/9/9/0/966990-anyone-but-you-0-600-0-900-crop.jpg?v=62514c5b09\"/></p> <p>Watched on Friday February 9, 2024.</p>\n",
 				"date_published": "2024-02-10T13:04:45-03:00",
 				"url": "https://jomalo.com/2024/02/10/anyone-but-you.html",
@@ -2056,7 +2154,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/09/date-night-dinner-costco-and.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍿 Date Night. Dinner, Costco, and a movie! Note: We did not eat at Costco.  </p>\n",
 				"content_text": "<p>🍿 Date Night. Dinner, Costco, and a movie! Note: We did not eat at Costco.  </p>\n",
 				"date_published": "2024-02-09T19:24:03-03:00",
 				"url": "https://jomalo.com/2024/02/09/date-night-dinner-costco-and.html"
@@ -2064,7 +2162,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/02/09/date-night-dinner.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍿 Date Night. Dinner, Costco, and a movie! Note: We did not eat at Costco.  </p>\n",
 				"content_text": "<p>🍿 Date Night. Dinner, Costco, and a movie! Note: We did not eat at Costco.  </p>\n",
 				"date_published": "2024-02-09T19:24:03-03:00",
 				"url": "https://jomalo.com/2024/02/09/date-night-dinner.html"
@@ -2072,7 +2170,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/31/191308.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #17</p>\n",
 				"content_text": "<p>🩸 Donation #17</p>\n",
 				"date_published": "2024-01-31T20:13:08-03:00",
 				"url": "https://jomalo.com/2024/01/31/191308.html"
@@ -2080,7 +2178,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/31/donation.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation #17</p>\n",
 				"content_text": "<p>🩸 Donation #17</p>\n",
 				"date_published": "2024-01-31T20:13:08-03:00",
 				"url": "https://jomalo.com/2024/01/31/donation.html"
@@ -2088,7 +2186,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/31/095232.html",
 				"title": "The Kill Room, 2023 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/862088-the-kill-room-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday January 28, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/862088-the-kill-room-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday January 28, 2024.</p>\n",
 				"date_published": "2024-01-31T09:52:32-03:00",
 				"url": "https://jomalo.com/2024/01/31/095232.html",
@@ -2097,7 +2195,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/31/the-kill-room.html",
 				"title": "The Kill Room, 2023 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/2/0/8/8/862088-the-kill-room-0-600-0-900-crop.jpg?v=86e71bba5f\"/></p> <p>Watched on Sunday January 28, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/2/0/8/8/862088-the-kill-room-0-600-0-900-crop.jpg?v=86e71bba5f\"/></p> <p>Watched on Sunday January 28, 2024.</p>\n",
 				"date_published": "2024-01-31T09:52:32-03:00",
 				"url": "https://jomalo.com/2024/01/31/the-kill-room.html",
@@ -2106,7 +2204,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/27/223356.html",
 				"title": "The Equalizer 3, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/831873-the-equalizer-3-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 27, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/831873-the-equalizer-3-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 27, 2024.</p>\n",
 				"date_published": "2024-01-27T22:33:56-03:00",
 				"url": "https://jomalo.com/2024/01/27/223356.html",
@@ -2115,7 +2213,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/27/the-equalizer.html",
 				"title": "The Equalizer 3, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/3/1/8/7/3/831873-the-equalizer-3-0-600-0-900-crop.jpg?v=30c9903b20\"/></p> <p>Watched on Saturday January 27, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/3/1/8/7/3/831873-the-equalizer-3-0-600-0-900-crop.jpg?v=30c9903b20\"/></p> <p>Watched on Saturday January 27, 2024.</p>\n",
 				"date_published": "2024-01-27T22:33:56-03:00",
 				"url": "https://jomalo.com/2024/01/27/the-equalizer.html",
@@ -2124,7 +2222,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/19/231656.html",
 				"title": "Napoleon, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/674137-napoleon-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday January 19, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/674137-napoleon-0-600-0-900-crop.jpg\"/></p> <p>Watched on Friday January 19, 2024.</p>\n",
 				"date_published": "2024-01-19T23:16:56-03:00",
 				"url": "https://jomalo.com/2024/01/19/231656.html",
@@ -2133,7 +2231,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/19/napoleon.html",
 				"title": "Napoleon, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-0-600-0-900-crop.jpg?v=8cb54e07b5\"/></p> <p>Watched on Friday January 19, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-0-600-0-900-crop.jpg?v=8cb54e07b5\"/></p> <p>Watched on Friday January 19, 2024.</p>\n",
 				"date_published": "2024-01-19T23:16:56-03:00",
 				"url": "https://jomalo.com/2024/01/19/napoleon.html",
@@ -2142,7 +2240,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/13/the-hunger-games.html",
 				"title": "The Hunger Games: The Ballad of Songbirds \u0026amp; Snakes, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg?v=180f24b89f\"/></p> <p>Watched on Saturday January 13, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/1/9/5/1/0/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg?v=180f24b89f\"/></p> <p>Watched on Saturday January 13, 2024.</p>\n",
 				"date_published": "2024-01-14T00:41:10-03:00",
 				"url": "https://jomalo.com/2024/01/13/the-hunger-games.html",
@@ -2151,7 +2249,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/14/the-hunger-games-the-ballad.html",
 				"title": "The Hunger Games: The Ballad of Songbirds \u0026amp; Snakes, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 13, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/619510-the-hunger-games-the-ballad-of-songbirds-snakes-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 13, 2024.</p>\n",
 				"date_published": "2024-01-14T00:41:10-03:00",
 				"url": "https://jomalo.com/2024/01/14/the-hunger-games-the-ballad.html",
@@ -2169,7 +2267,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/09/130312.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🛃 Passport renewal time!</p>\n",
 				"content_text": "<p>🛃 Passport renewal time!</p>\n",
 				"date_published": "2024-01-09T14:03:12-03:00",
 				"url": "https://jomalo.com/2024/01/09/130312.html"
@@ -2177,7 +2275,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/09/passport-renewal-time.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🛃 Passport renewal time!</p>\n",
 				"content_text": "<p>🛃 Passport renewal time!</p>\n",
 				"date_published": "2024-01-09T14:03:12-03:00",
 				"url": "https://jomalo.com/2024/01/09/passport-renewal-time.html"
@@ -2185,7 +2283,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/06/the-banshees-of.html",
 				"title": "The Banshees of Inisherin, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7\"/></p> <p>Watched on Saturday January 6, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/9/8/8/8/2/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg?v=933f9af6e7\"/></p> <p>Watched on Saturday January 6, 2024.</p>\n",
 				"date_published": "2024-01-07T00:06:03-03:00",
 				"url": "https://jomalo.com/2024/01/06/the-banshees-of.html",
@@ -2194,7 +2292,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/07/the-banshees-of-inisherin.html",
 				"title": "The Banshees of Inisherin, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 6, 2024.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/598882-the-banshees-of-inisherin-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday January 6, 2024.</p>\n",
 				"date_published": "2024-01-07T00:06:03-03:00",
 				"url": "https://jomalo.com/2024/01/07/the-banshees-of-inisherin.html",
@@ -2228,7 +2326,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/28/150819.html",
 				"title": "3 Days to Kill, 2014 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/138182-3-days-to-kill-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday December 28, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/138182-3-days-to-kill-0-600-0-900-crop.jpg\"/></p> <p>Watched on Thursday December 28, 2023.</p>\n",
 				"date_published": "2023-12-28T15:08:19-03:00",
 				"url": "https://jomalo.com/2023/12/28/150819.html",
@@ -2237,7 +2335,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/28/days-to-kill.html",
 				"title": "3 Days to Kill, 2014 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/3/8/1/8/2/138182-3-days-to-kill-0-600-0-900-crop.jpg?v=ac7ca03f9d\"/></p> <p>Watched on Thursday December 28, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/3/8/1/8/2/138182-3-days-to-kill-0-600-0-900-crop.jpg?v=ac7ca03f9d\"/></p> <p>Watched on Thursday December 28, 2023.</p>\n",
 				"date_published": "2023-12-28T15:08:19-03:00",
 				"url": "https://jomalo.com/2023/12/28/days-to-kill.html",
@@ -2246,7 +2344,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/28/121320.html",
 				"title": "Oppenheimer, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/784328-oppenheimer-0-600-0-900-crop.jpg\"/></p> <p>Watched on Wednesday December 27, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/784328-oppenheimer-0-600-0-900-crop.jpg\"/></p> <p>Watched on Wednesday December 27, 2023.</p>\n",
 				"date_published": "2023-12-28T12:13:20-03:00",
 				"url": "https://jomalo.com/2023/12/28/121320.html",
@@ -2255,7 +2353,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/28/oppenheimer.html",
 				"title": "Oppenheimer, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/4/3/2/8/784328-oppenheimer-0-600-0-900-crop.jpg?v=e3c6e7a32c\"/></p> <p>Watched on Wednesday December 27, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/4/3/2/8/784328-oppenheimer-0-600-0-900-crop.jpg?v=e3c6e7a32c\"/></p> <p>Watched on Wednesday December 27, 2023.</p>\n",
 				"date_published": "2023-12-28T12:13:20-03:00",
 				"url": "https://jomalo.com/2023/12/28/oppenheimer.html",
@@ -2273,7 +2371,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/26/leave-the-world.html",
 				"title": "Leave the World Behind, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/8/8/6/9/648869-leave-the-world-behind-0-600-0-900-crop.jpg?v=927d0da068\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/8/8/6/9/648869-leave-the-world-behind-0-600-0-900-crop.jpg?v=927d0da068\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"date_published": "2023-12-27T00:48:09-03:00",
 				"url": "https://jomalo.com/2023/12/26/leave-the-world.html",
@@ -2282,7 +2380,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/27/leave-the-world-behind.html",
 				"title": "Leave the World Behind, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/648869-leave-the-world-behind-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/648869-leave-the-world-behind-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"date_published": "2023-12-27T00:48:09-03:00",
 				"url": "https://jomalo.com/2023/12/27/leave-the-world-behind.html",
@@ -2291,7 +2389,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/26/022233.html",
 				"title": "Scrooge, 1951 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/44065-scrooge-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/44065-scrooge-0-600-0-900-crop.jpg\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"date_published": "2023-12-26T02:22:33-03:00",
 				"url": "https://jomalo.com/2023/12/26/022233.html",
@@ -2300,7 +2398,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/26/scrooge.html",
 				"title": "Scrooge, 1951 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/0/6/5/44065-scrooge-0-600-0-900-crop.jpg?v=b8923d5579\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/4/0/6/5/44065-scrooge-0-600-0-900-crop.jpg?v=b8923d5579\"/></p> <p>Watched on Tuesday December 26, 2023.</p>\n",
 				"date_published": "2023-12-26T02:22:33-03:00",
 				"url": "https://jomalo.com/2023/12/26/scrooge.html",
@@ -2318,7 +2416,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/25/the-lord-of-the-rings.html",
 				"title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/xiewkpagqrrk5woyncaypd65hrp-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday December 25, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/xiewkpagqrrk5woyncaypd65hrp-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday December 25, 2023.</p>\n",
 				"date_published": "2023-12-25T19:29:43-03:00",
 				"url": "https://jomalo.com/2023/12/25/the-lord-of-the-rings.html",
@@ -2327,7 +2425,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/25/the-lord-of.html",
 				"title": "The Lord of the Rings: The Return of the King, 2003 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Monday December 25, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Monday December 25, 2023.</p>\n",
 				"date_published": "2023-12-25T19:29:43-03:00",
 				"url": "https://jomalo.com/2023/12/25/the-lord-of.html",
@@ -2353,7 +2451,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/23/the-lord-of.html",
 				"title": "The Lord of the Rings: The Two Towers, 2002 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Saturday December 23, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Saturday December 23, 2023.</p>\n",
 				"date_published": "2023-12-23T01:02:02-03:00",
 				"url": "https://jomalo.com/2023/12/23/the-lord-of.html",
@@ -2379,7 +2477,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/17/the-lord-of.html",
 				"title": "The Lord of the Rings: The Fellowship of the Ring, 2001 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday December 17, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday December 17, 2023.</p>\n",
 				"date_published": "2023-12-17T23:26:53-03:00",
 				"url": "https://jomalo.com/2023/12/17/the-lord-of.html",
@@ -2404,7 +2502,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/08/dinner-at-gahan-house.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍽️ Dinner at Gahan House!</p>\n",
 				"content_text": "<p>🍽️ Dinner at Gahan House!</p>\n",
 				"date_published": "2023-12-08T18:25:36-03:00",
 				"url": "https://jomalo.com/2023/12/08/dinner-at-gahan-house.html"
@@ -2412,7 +2510,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/08/dinner-at-gahan.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍽️ Dinner at Gahan House!</p>\n",
 				"content_text": "<p>🍽️ Dinner at Gahan House!</p>\n",
 				"date_published": "2023-12-08T18:25:36-03:00",
 				"url": "https://jomalo.com/2023/12/08/dinner-at-gahan.html"
@@ -2420,7 +2518,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/08/flights-secured-italy-and-croatia.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>✈️ Flights secured! Italy and Croatia in June.</p>\n",
 				"content_text": "<p>✈️ Flights secured! Italy and Croatia in June.</p>\n",
 				"date_published": "2023-12-08T16:34:25-03:00",
 				"url": "https://jomalo.com/2023/12/08/flights-secured-italy-and-croatia.html"
@@ -2428,7 +2526,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/08/flights-secured-italy.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>✈️ Flights secured! Italy and Croatia in June.</p>\n",
 				"content_text": "<p>✈️ Flights secured! Italy and Croatia in June.</p>\n",
 				"date_published": "2023-12-08T16:34:25-03:00",
 				"url": "https://jomalo.com/2023/12/08/flights-secured-italy.html"
@@ -2436,7 +2534,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/05/national-lampoons-christmas.html",
 				"title": "National Lampoon’s Christmas Vacation, 1989 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/6/3/8/48638-national-lampoon-s-christmas-vacation-0-600-0-900-crop.jpg?v=e91c94d094\"/></p> <p>Watched on Tuesday December 5, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/8/6/3/8/48638-national-lampoon-s-christmas-vacation-0-600-0-900-crop.jpg?v=e91c94d094\"/></p> <p>Watched on Tuesday December 5, 2023.</p>\n",
 				"date_published": "2023-12-05T22:18:03-03:00",
 				"url": "https://jomalo.com/2023/12/05/national-lampoons-christmas.html",
@@ -2470,7 +2568,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/27/cyberbunker-the-criminal.html",
 				"title": "Cyberbunker: The Criminal Underworld, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/0/7/7/4/4/5/1077445-cyberbunker-the-criminal-underworld-0-600-0-900-crop.jpg?v=4e9d4ed404\"/></p> <p>Watched on Monday November 27, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/0/7/7/4/4/5/1077445-cyberbunker-the-criminal-underworld-0-600-0-900-crop.jpg?v=4e9d4ed404\"/></p> <p>Watched on Monday November 27, 2023.</p>\n",
 				"date_published": "2023-11-27T09:51:14-03:00",
 				"url": "https://jomalo.com/2023/11/27/cyberbunker-the-criminal.html",
@@ -2479,7 +2577,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/24/heart-of-stone.html",
 				"title": "Heart of Stone, 2023 - ★★★½",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/6/9/5/5/646955-heart-of-stone-0-600-0-900-crop.jpg?v=6c3ce8a087\"/></p> <p>Watched on Friday November 24, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/6/9/5/5/646955-heart-of-stone-0-600-0-900-crop.jpg?v=6c3ce8a087\"/></p> <p>Watched on Friday November 24, 2023.</p>\n",
 				"date_published": "2023-11-25T00:52:34-03:00",
 				"url": "https://jomalo.com/2023/11/24/heart-of-stone.html",
@@ -2497,7 +2595,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/18/a-haunting-in.html",
 				"title": "A Haunting in Venice, 2023 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/5/0/3/7/5/850375-a-haunting-in-venice-0-600-0-900-crop.jpg?v=e6956812f9\"/></p> <p>Watched on Saturday November 18, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/5/0/3/7/5/850375-a-haunting-in-venice-0-600-0-900-crop.jpg?v=e6956812f9\"/></p> <p>Watched on Saturday November 18, 2023.</p>\n",
 				"date_published": "2023-11-19T00:47:22-03:00",
 				"url": "https://jomalo.com/2023/11/18/a-haunting-in.html",
@@ -2506,7 +2604,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/17/130640.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚒 Fire Alarm!</p>\n",
 				"content_text": "<p>🚒 Fire Alarm!</p>\n",
 				"date_published": "2023-11-17T14:06:40-03:00",
 				"url": "https://jomalo.com/2023/11/17/130640.html"
@@ -2514,7 +2612,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/17/fire-alarm.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚒 Fire Alarm!</p>\n",
 				"content_text": "<p>🚒 Fire Alarm!</p>\n",
 				"date_published": "2023-11-17T14:06:40-03:00",
 				"url": "https://jomalo.com/2023/11/17/fire-alarm.html"
@@ -2522,7 +2620,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/11/12/the-marvels.html",
 				"title": "The Marvels, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/6/9/7/0/536970-the-marvels-0-600-0-900-crop.jpg?v=d084ca416c\"/></p> <p>Watched on Saturday November 11, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/3/6/9/7/0/536970-the-marvels-0-600-0-900-crop.jpg?v=d084ca416c\"/></p> <p>Watched on Saturday November 11, 2023.</p>\n",
 				"date_published": "2023-11-12T23:06:00-03:00",
 				"url": "https://jomalo.com/2023/11/12/the-marvels.html",
@@ -2573,7 +2671,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/10/22/no-hard-feelings.html",
 				"title": "No Hard Feelings, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/9/5/8/9/7/795897-no-hard-feelings-0-600-0-900-crop.jpg?v=d9012766c3\"/></p> <p>Watched on Saturday October 21, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/9/5/8/9/7/795897-no-hard-feelings-0-600-0-900-crop.jpg?v=d9012766c3\"/></p> <p>Watched on Saturday October 21, 2023.</p>\n",
 				"date_published": "2023-10-22T08:53:55-03:00",
 				"url": "https://jomalo.com/2023/10/22/no-hard-feelings.html",
@@ -2591,7 +2689,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/10/18/training-day-so-many-words.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>☹️ Training day 3: So. Many. Words. </p>\n",
 				"content_text": "<p>☹️ Training day 3: So. Many. Words. </p>\n",
 				"date_published": "2023-10-18T16:23:34-03:00",
 				"url": "https://jomalo.com/2023/10/18/training-day-so-many-words.html"
@@ -2599,7 +2697,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/10/18/training-day-so.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>☹️ Training day 3: So. Many. Words. </p>\n",
 				"content_text": "<p>☹️ Training day 3: So. Many. Words. </p>\n",
 				"date_published": "2023-10-18T16:23:34-03:00",
 				"url": "https://jomalo.com/2023/10/18/training-day-so.html"
@@ -2677,7 +2775,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/26/renovations-continue-in-the-basement.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🪚 Renovations continue in the basement - new subfloor installed and the drywall going up this week</p>\n",
 				"content_text": "<p>🪚 Renovations continue in the basement - new subfloor installed and the drywall going up this week</p>\n",
 				"date_published": "2023-09-26T10:57:32-03:00",
 				"url": "https://jomalo.com/2023/09/26/renovations-continue-in-the-basement.html"
@@ -2685,7 +2783,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/26/renovations-continue-in.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🪚 Renovations continue in the basement - new subfloor installed and the drywall going up this week</p>\n",
 				"content_text": "<p>🪚 Renovations continue in the basement - new subfloor installed and the drywall going up this week</p>\n",
 				"date_published": "2023-09-26T10:57:32-03:00",
 				"url": "https://jomalo.com/2023/09/26/renovations-continue-in.html"
@@ -2891,7 +2989,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/03/day-precious-odd.html",
 				
-				"content_html": "<p>Day 3 | precious (@odd)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_html": "<p>Day 3 | precious (@odd)</p>\n<p><a href=\"https://cdn.uploads.micro.blog/29404/2023/e9c623bd-8305-4e07-a17c-ea2f5d558884.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/e9c623bd-8305-4e07-a17c-ea2f5d558884.jpg\" width=\"600\" alt=\"Young adult female in front of a window - black & white\" /></a></p>\n",
 				"content_text": "Day 3 | precious (@odd)\n\n<a href=\"https://cdn.uploads.micro.blog/29404/2023/e9c623bd-8305-4e07-a17c-ea2f5d558884.jpg\"><img src=\"https://cdn.uploads.micro.blog/29404/2023/e9c623bd-8305-4e07-a17c-ea2f5d558884.jpg\" width=\"600\" alt=\"Young adult female in front of a window - black & white\" /></a>\n\n",
 				"date_published": "2023-09-03T14:07:59-03:00",
 				"url": "https://jomalo.com/2023/09/03/day-precious-odd.html",
@@ -2900,7 +2998,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/03/move-in-day-my-youngest.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏫 Move in day! My youngest is entering her 3rd year. </p>\n",
 				"content_text": "<p>🏫 Move in day! My youngest is entering her 3rd year. </p>\n",
 				"date_published": "2023-09-03T11:40:03-03:00",
 				"url": "https://jomalo.com/2023/09/03/move-in-day-my-youngest.html"
@@ -2908,7 +3006,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/03/move-in-day.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏫 Move in day! My youngest is entering her 3rd year. </p>\n",
 				"content_text": "<p>🏫 Move in day! My youngest is entering her 3rd year. </p>\n",
 				"date_published": "2023-09-03T11:40:03-03:00",
 				"url": "https://jomalo.com/2023/09/03/move-in-day.html"
@@ -2925,7 +3023,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/01/long-day-tidal-bore-rafting.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚤 Long day tidal bore rafting </p>\n",
 				"content_text": "<p>🚤 Long day tidal bore rafting </p>\n",
 				"date_published": "2023-09-01T23:40:27-03:00",
 				"url": "https://jomalo.com/2023/09/01/long-day-tidal-bore-rafting.html"
@@ -2933,7 +3031,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/09/01/long-day-tidal.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚤 Long day tidal bore rafting </p>\n",
 				"content_text": "<p>🚤 Long day tidal bore rafting </p>\n",
 				"date_published": "2023-09-01T23:40:27-03:00",
 				"url": "https://jomalo.com/2023/09/01/long-day-tidal.html"
@@ -2950,7 +3048,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/26/basement-stair-reno-complete.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🪚 Basement stair reno complete!  </p>\n",
 				"content_text": "<p>🪚 Basement stair reno complete!  </p>\n",
 				"date_published": "2023-08-26T22:59:39-03:00",
 				"url": "https://jomalo.com/2023/08/26/basement-stair-reno-complete.html"
@@ -2958,7 +3056,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/26/basement-stair-reno.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🪚 Basement stair reno complete!  </p>\n",
 				"content_text": "<p>🪚 Basement stair reno complete!  </p>\n",
 				"date_published": "2023-08-26T22:59:39-03:00",
 				"url": "https://jomalo.com/2023/08/26/basement-stair-reno.html"
@@ -2975,7 +3073,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/21/175520.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation 16 complete! </p>\n",
 				"content_text": "<p>🩸 Donation 16 complete! </p>\n",
 				"date_published": "2023-08-21T18:55:20-03:00",
 				"url": "https://jomalo.com/2023/08/21/175520.html"
@@ -2983,7 +3081,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/21/donation-complete.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donation 16 complete! </p>\n",
 				"content_text": "<p>🩸 Donation 16 complete! </p>\n",
 				"date_published": "2023-08-21T18:55:20-03:00",
 				"url": "https://jomalo.com/2023/08/21/donation-complete.html"
@@ -2991,7 +3089,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/21/back-to-work-after-vacation.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏢 Back to work after vacation. Looking forward to the next one!</p>\n",
 				"content_text": "<p>🏢 Back to work after vacation. Looking forward to the next one!</p>\n",
 				"date_published": "2023-08-21T11:12:09-03:00",
 				"url": "https://jomalo.com/2023/08/21/back-to-work-after-vacation.html"
@@ -2999,7 +3097,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/08/21/back-to-work.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>✨ Back to work after vacation. Looking forward to the next one!</p>\n",
 				"content_text": "<p>✨ Back to work after vacation. Looking forward to the next one!</p>\n",
 				"date_published": "2023-08-21T11:12:09-03:00",
 				"url": "https://jomalo.com/2023/08/21/back-to-work.html"
@@ -3060,7 +3158,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/27/could-be-a-long-night.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏥 Could be a long night. </p>\n",
 				"content_text": "<p>🏥 Could be a long night. </p>\n",
 				"date_published": "2023-07-27T19:14:35-03:00",
 				"url": "https://jomalo.com/2023/07/27/could-be-a-long-night.html"
@@ -3068,7 +3166,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/27/could-be-a.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏥 Could be a long night. </p>\n",
 				"content_text": "<p>🏥 Could be a long night. </p>\n",
 				"date_published": "2023-07-27T19:14:35-03:00",
 				"url": "https://jomalo.com/2023/07/27/could-be-a.html"
@@ -3094,7 +3192,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/14/for-the-second-time-in.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏥 For the second time in a month I was part of the “how hard do you want us to work to keep you alive” conversation. My dad three weeks ago and the father-in-law tonight. Dad is recovering well, still early days for the father-in-law but seeing improvement. </p>\n",
 				"content_text": "<p>🏥 For the second time in a month I was part of the “how hard do you want us to work to keep you alive” conversation. My dad three weeks ago and the father-in-law tonight. Dad is recovering well, still early days for the father-in-law but seeing improvement. </p>\n",
 				"date_published": "2023-07-15T00:20:15-03:00",
 				"url": "https://jomalo.com/2023/07/14/for-the-second-time-in.html"
@@ -3102,7 +3200,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/15/for-the-second.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏥 For the second time in a month I was part of the “how hard do you want us to work to keep you alive” conversation. My dad three weeks ago and the father-in-law tonight. Dad is recovering well, still early days for the father-in-law but seeing improvement. </p>\n",
 				"content_text": "<p>🏥 For the second time in a month I was part of the “how hard do you want us to work to keep you alive” conversation. My dad three weeks ago and the father-in-law tonight. Dad is recovering well, still early days for the father-in-law but seeing improvement. </p>\n",
 				"date_published": "2023-07-15T00:20:15-03:00",
 				"url": "https://jomalo.com/2023/07/15/for-the-second.html"
@@ -3110,7 +3208,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/13/extraction.html",
 				"title": "Extraction 2, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/2/1/5/7/1/621571-extraction-2-0-600-0-900-crop.jpg?v=6ad4c536ef\"/></p> <p>Watched on Thursday July 13, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/2/1/5/7/1/621571-extraction-2-0-600-0-900-crop.jpg?v=6ad4c536ef\"/></p> <p>Watched on Thursday July 13, 2023.</p>\n",
 				"date_published": "2023-07-13T00:12:18-03:00",
 				"url": "https://jomalo.com/2023/07/13/extraction.html",
@@ -3128,7 +3226,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/12/came-to-the-realization-the.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>👎 Came to the realization the old lawn tractors grass cutting days are over.</p>\n",
 				"content_text": "<p>👎 Came to the realization the old lawn tractors grass cutting days are over.</p>\n",
 				"date_published": "2023-07-12T10:42:51-03:00",
 				"url": "https://jomalo.com/2023/07/12/came-to-the-realization-the.html"
@@ -3136,7 +3234,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/12/came-to-the.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>👎 Came to the realization the old lawn tractors grass cutting days are over.</p>\n",
 				"content_text": "<p>👎 Came to the realization the old lawn tractors grass cutting days are over.</p>\n",
 				"date_published": "2023-07-12T10:42:51-03:00",
 				"url": "https://jomalo.com/2023/07/12/came-to-the.html"
@@ -3160,7 +3258,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/11/indiana-jones-and.html",
 				"title": "Indiana Jones and the Dial of Destiny, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/3/265433-indiana-jones-and-the-dial-of-destiny-0-600-0-900-crop.jpg?v=34f4a02c6b\"/></p> <p>Watched on Tuesday July 11, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/6/5/4/3/3/265433-indiana-jones-and-the-dial-of-destiny-0-600-0-900-crop.jpg?v=34f4a02c6b\"/></p> <p>Watched on Tuesday July 11, 2023.</p>\n",
 				"date_published": "2023-07-11T23:09:58-03:00",
 				"url": "https://jomalo.com/2023/07/11/indiana-jones-and.html",
@@ -3169,7 +3267,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/09/235400.html",
 				"title": "Indiana Jones and the Kingdom of the Crystal Skull, 2008 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/8/3/9/51839-indiana-jones-and-the-kingdom-of-the-crystal-skull-0-600-0-900-crop.jpg?v=3dfe92e26e\"/></p> <p>Watched on Sunday July 9, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/8/3/9/51839-indiana-jones-and-the-kingdom-of-the-crystal-skull-0-600-0-900-crop.jpg?v=3dfe92e26e\"/></p> <p>Watched on Sunday July 9, 2023.</p>\n",
 				"date_published": "2023-07-09T23:54:00-03:00",
 				"url": "https://jomalo.com/2023/07/09/235400.html",
@@ -3187,7 +3285,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/09/160042.html",
 				"title": "Indiana Jones and the Last Crusade, 1989 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/1/51961-indiana-jones-and-the-last-crusade-0-600-0-900-crop.jpg?v=0d5d1c2341\"/></p> <p>Watched on Sunday July 9, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/1/51961-indiana-jones-and-the-last-crusade-0-600-0-900-crop.jpg?v=0d5d1c2341\"/></p> <p>Watched on Sunday July 9, 2023.</p>\n",
 				"date_published": "2023-07-09T16:00:42-03:00",
 				"url": "https://jomalo.com/2023/07/09/160042.html",
@@ -3196,7 +3294,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/09/indiana-jones-and.html",
 				"title": "Indiana Jones and the Temple of Doom, 1984 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/3/51963-indiana-jones-and-the-temple-of-doom-0-600-0-900-crop.jpg?v=b5122bf2cf\"/></p> <p>Watched on Saturday July 8, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/3/51963-indiana-jones-and-the-temple-of-doom-0-600-0-900-crop.jpg?v=b5122bf2cf\"/></p> <p>Watched on Saturday July 8, 2023.</p>\n",
 				"date_published": "2023-07-09T16:00:16-03:00",
 				"url": "https://jomalo.com/2023/07/09/indiana-jones-and.html",
@@ -3205,7 +3303,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/09/raiders-of-the.html",
 				"title": "Raiders of the Lost Ark, 1981 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/5/51965-raiders-of-the-lost-ark-0-600-0-900-crop.jpg?v=2b066bfd52\"/></p> <p>Watched on Saturday July 8, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/6/5/51965-raiders-of-the-lost-ark-0-600-0-900-crop.jpg?v=2b066bfd52\"/></p> <p>Watched on Saturday July 8, 2023.</p>\n",
 				"date_published": "2023-07-09T15:59:35-03:00",
 				"url": "https://jomalo.com/2023/07/09/raiders-of-the.html",
@@ -3223,7 +3321,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/05/trying-to-fix-the-lawn.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚜 Trying to fix the lawn tractor - it needs to last at least one more year!</p>\n",
 				"content_text": "<p>🚜 Trying to fix the lawn tractor - it needs to last at least one more year!</p>\n",
 				"date_published": "2023-07-05T22:38:54-03:00",
 				"url": "https://jomalo.com/2023/07/05/trying-to-fix-the-lawn.html"
@@ -3231,7 +3329,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/05/trying-to-fix.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚜 Trying to fix the lawn tractor - it needs to last at least one more year!</p>\n",
 				"content_text": "<p>🚜 Trying to fix the lawn tractor - it needs to last at least one more year!</p>\n",
 				"date_published": "2023-07-05T22:38:54-03:00",
 				"url": "https://jomalo.com/2023/07/05/trying-to-fix.html"
@@ -3265,7 +3363,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/01/john-mulaney-baby.html",
 				"title": "John Mulaney: Baby J, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/8/5/4/4/4/985444-john-mulaney-baby-j-0-600-0-900-crop.jpg?v=478bff4606\"/></p> <p>Watched on Friday June 30, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/8/5/4/4/4/985444-john-mulaney-baby-j-0-600-0-900-crop.jpg?v=478bff4606\"/></p> <p>Watched on Friday June 30, 2023.</p>\n",
 				"date_published": "2023-07-01T12:29:36-03:00",
 				"url": "https://jomalo.com/2023/07/01/john-mulaney-baby.html",
@@ -3274,7 +3372,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/30/the-last-kingdom.html",
 				"title": "The Last Kingdom: Seven Kings Must Die, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/5/3/3/7/8/853378-the-last-kingdom-seven-kings-must-die-0-600-0-900-crop.jpg?v=74ae569bab\"/></p> <p>Watched on Thursday June 29, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/5/3/3/7/8/853378-the-last-kingdom-seven-kings-must-die-0-600-0-900-crop.jpg?v=74ae569bab\"/></p> <p>Watched on Thursday June 29, 2023.</p>\n",
 				"date_published": "2023-06-30T22:36:41-03:00",
 				"url": "https://jomalo.com/2023/06/30/the-last-kingdom.html",
@@ -3283,7 +3381,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/26/the-power-is-out-time.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎲 The power is out. Time for a family game of Trivial Pursuit!</p>\n",
 				"content_text": "<p>🎲 The power is out. Time for a family game of Trivial Pursuit!</p>\n",
 				"date_published": "2023-06-26T21:02:28-03:00",
 				"url": "https://jomalo.com/2023/06/26/the-power-is-out-time.html"
@@ -3291,7 +3389,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/26/the-power-is.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎲 The power is out. Time for a family game of Trivial Pursuit!</p>\n",
 				"content_text": "<p>🎲 The power is out. Time for a family game of Trivial Pursuit!</p>\n",
 				"date_published": "2023-06-26T21:02:28-03:00",
 				"url": "https://jomalo.com/2023/06/26/the-power-is.html"
@@ -3343,7 +3441,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/16/any-suggestions-on.html",
 				
-				"content_html": "<p>Any suggestions on registrars?  Looks like I need to move a few domains.</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Any suggestions on registrars?  Looks like I need to move a few domains.</p>\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Initial Charge\" data-avatar=\"https://micro.blog/initialcharge@libertynode.net/avatar.jpg\" cite=\"https://libertynode.net/@initialcharge/110554187864045890\"><p>Google Domains Shutting Down, Assets Sold to Squarespace <a href=\"https://initialcharge.net/2023/06/google-domains-shutdown/\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">initialcharge.net/2023/06/goog</span><span class=\"invisible\">le-domains-shutdown/</span></a></p><footer>Initial Charge <cite><a href=\"https://libertynode.net/@initialcharge/110554187864045890\" class=\"u-in-reply-to\">https://libertynode.net/@initialcharge/110554187864045890</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
 				"content_text": "Any suggestions on registrars?  Looks like I need to move a few domains.\r\n\r\n<blockquote class=\"quoteback\" data-title=\"\" data-author=\"Initial Charge\" data-avatar=\"https://micro.blog/initialcharge@libertynode.net/avatar.jpg\" cite=\"https://libertynode.net/@initialcharge/110554187864045890\"><p>Google Domains Shutting Down, Assets Sold to Squarespace <a href=\"https://initialcharge.net/2023/06/google-domains-shutdown/\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">initialcharge.net/2023/06/goog</span><span class=\"invisible\">le-domains-shutdown/</span></a></p><footer>Initial Charge <cite><a href=\"https://libertynode.net/@initialcharge/110554187864045890\" class=\"u-in-reply-to\">https://libertynode.net/@initialcharge/110554187864045890</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
 				"date_published": "2023-06-16T11:35:12-03:00",
 				"url": "https://jomalo.com/2023/06/16/any-suggestions-on.html"
@@ -3369,7 +3467,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/07/kitchen-reno-is-done.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎉 Kitchen reno is done!</p>\n",
 				"content_text": "<p>🎉 Kitchen reno is done!</p>\n",
 				"date_published": "2023-06-07T11:38:00-03:00",
 				"url": "https://jomalo.com/2023/06/07/kitchen-reno-is-done.html"
@@ -3377,7 +3475,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/06/07/kitchen-reno-is.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎉 Kitchen reno is done!</p>\n",
 				"content_text": "<p>🎉 Kitchen reno is done!</p>\n",
 				"date_published": "2023-06-07T11:38:00-03:00",
 				"url": "https://jomalo.com/2023/06/07/kitchen-reno-is.html"
@@ -3402,7 +3500,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/28/dungeons-amp-dragons.html",
 				"title": "Dungeons \u0026amp; Dragons: Honor Among Thieves, 2023 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/4/0/0/3/424003-dungeons-dragons-honor-among-thieves-0-600-0-900-crop.jpg?v=7c3c4fddf9\"/></p> <p>Watched on Sunday May 28, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/2/4/0/0/3/424003-dungeons-dragons-honor-among-thieves-0-600-0-900-crop.jpg?v=7c3c4fddf9\"/></p> <p>Watched on Sunday May 28, 2023.</p>\n",
 				"date_published": "2023-05-28T00:20:23-03:00",
 				"url": "https://jomalo.com/2023/05/28/dungeons-amp-dragons.html",
@@ -3411,7 +3509,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/22/all-the-old.html",
 				"title": "All the Old Knives, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/2/1/5/4/222154-all-the-old-knives-0-600-0-900-crop.jpg?v=f8283ab354\"/></p> <p>Watched on Monday May 22, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/2/2/1/5/4/222154-all-the-old-knives-0-600-0-900-crop.jpg?v=f8283ab354\"/></p> <p>Watched on Monday May 22, 2023.</p>\n",
 				"date_published": "2023-05-22T08:12:00-03:00",
 				"url": "https://jomalo.com/2023/05/22/all-the-old.html",
@@ -3429,7 +3527,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/21/still-a-michael.html",
 				"title": "STILL: A Michael J. Fox Movie, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/5/4/5/1/3/954513-still-a-michael-j-fox-movie-0-600-0-900-crop.jpg?v=94536377d3\"/></p> <p>Watched on Sunday May 21, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/9/5/4/5/1/3/954513-still-a-michael-j-fox-movie-0-600-0-900-crop.jpg?v=94536377d3\"/></p> <p>Watched on Sunday May 21, 2023.</p>\n",
 				"date_published": "2023-05-21T19:16:56-03:00",
 				"url": "https://jomalo.com/2023/05/21/still-a-michael.html",
@@ -3447,7 +3545,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/18/194447.html",
 				
-				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"f7a7c8471214cad06ea1ecd4a9666a24\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Corner of industrial building with a cloud filled sky and a security camera\" \n        \n  />\n</a>\n\n</p>\n<p>Someone&rsquo;s watching</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"f7a7c8471214cad06ea1ecd4a9666a24\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Corner of industrial building with a cloud filled sky and a security camera\" \n        \n  />\n</a>\n\n</p>\n<p>Someone&rsquo;s watching</p>\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" width=\"600\" height=\"600\" alt=\"Corner of industrial building with a cloud filled sky and a security camera\">\n",
 				"content_text": "![Corner of industrial building with a cloud filled sky and a security camera](https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg) \n\nSomeone's watching\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2023/5b0cc8a87e.jpg\" width=\"600\" height=\"600\" alt=\"Corner of industrial building with a cloud filled sky and a security camera\">\n",
 				"date_published": "2023-05-18T19:44:47-03:00",
 				"url": "https://jomalo.com/2023/05/18/194447.html",
@@ -3474,7 +3572,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/15/the-tile-is-complete-ran.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚇 The tile is 99% complete, ran out of patience, and time, and adhesive.</p>\n",
 				"content_text": "<p>🚇 The tile is 99% complete, ran out of patience, and time, and adhesive.</p>\n",
 				"date_published": "2023-05-15T08:43:59-03:00",
 				"url": "https://jomalo.com/2023/05/15/the-tile-is-complete-ran.html"
@@ -3482,7 +3580,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/15/the-tile-is.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚇 The tile is 99% complete, ran out of patience, and time, and adhesive.</p>\n",
 				"content_text": "<p>🚇 The tile is 99% complete, ran out of patience, and time, and adhesive.</p>\n",
 				"date_published": "2023-05-15T08:43:59-03:00",
 				"url": "https://jomalo.com/2023/05/15/the-tile-is.html"
@@ -3543,7 +3641,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/06/wrong-colour-tiles-delays-delays.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚫 Wrong colour tiles. Delays, delays…</p>\n",
 				"content_text": "<p>🚫 Wrong colour tiles. Delays, delays…</p>\n",
 				"date_published": "2023-05-06T23:49:22-03:00",
 				"url": "https://jomalo.com/2023/05/06/wrong-colour-tiles-delays-delays.html"
@@ -3551,7 +3649,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/06/wrong-colour-tiles.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚫 Wrong colour tiles. Delays, delays…</p>\n",
 				"content_text": "<p>🚫 Wrong colour tiles. Delays, delays…</p>\n",
 				"date_published": "2023-05-06T23:49:22-03:00",
 				"url": "https://jomalo.com/2023/05/06/wrong-colour-tiles.html"
@@ -3559,7 +3657,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/05/picked-up-the-tiles-backsplash.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚇 Picked up the tiles, backsplash installation starts this weekend!</p>\n",
 				"content_text": "<p>🚇 Picked up the tiles, backsplash installation starts this weekend!</p>\n",
 				"date_published": "2023-05-05T12:04:52-03:00",
 				"url": "https://jomalo.com/2023/05/05/picked-up-the-tiles-backsplash.html"
@@ -3567,7 +3665,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/05/picked-up-the.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚇 Picked up the tiles, backsplash installation starts this weekend!</p>\n",
 				"content_text": "<p>🚇 Picked up the tiles, backsplash installation starts this weekend!</p>\n",
 				"date_published": "2023-05-05T12:04:52-03:00",
 				"url": "https://jomalo.com/2023/05/05/picked-up-the.html"
@@ -3575,7 +3673,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/29/painting-finished-cabinet-doors-and.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚧 Painting finished, cabinet doors and new counters installed!</p>\n",
 				"content_text": "<p>🚧 Painting finished, cabinet doors and new counters installed!</p>\n",
 				"date_published": "2023-04-29T22:09:28-03:00",
 				"url": "https://jomalo.com/2023/04/29/painting-finished-cabinet-doors-and.html"
@@ -3583,7 +3681,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/29/painting-finished-cabinet.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚧 Painting finished, cabinet doors and new counters installed!</p>\n",
 				"content_text": "<p>🚧 Painting finished, cabinet doors and new counters installed!</p>\n",
 				"date_published": "2023-04-29T22:09:28-03:00",
 				"url": "https://jomalo.com/2023/04/29/painting-finished-cabinet.html"
@@ -3591,7 +3689,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/29/ghosted.html",
 				"title": "Ghosted, 2023 - ★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/7/2/4/780724-ghosted-0-600-0-900-crop.jpg?v=6882cab5b5\"/></p> <p>Watched on Saturday April 29, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/7/8/0/7/2/4/780724-ghosted-0-600-0-900-crop.jpg?v=6882cab5b5\"/></p> <p>Watched on Saturday April 29, 2023.</p>\n",
 				"date_published": "2023-04-29T16:54:54-03:00",
 				"url": "https://jomalo.com/2023/04/29/ghosted.html",
@@ -3600,7 +3698,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/08/the-equalizer.html",
 				"title": "The Equalizer 2, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/6/2/5/3/276253-the-equalizer-2-0-600-0-900-crop.jpg?v=00871cac8d\"/></p> <p>Watched on Friday April 7, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/7/6/2/5/3/276253-the-equalizer-2-0-600-0-900-crop.jpg?v=00871cac8d\"/></p> <p>Watched on Friday April 7, 2023.</p>\n",
 				"date_published": "2023-04-08T21:03:39-03:00",
 				"url": "https://jomalo.com/2023/04/08/the-equalizer.html",
@@ -3609,7 +3707,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/06/gifted.html",
 				"title": "Gifted, 2017 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/qr/og/nn/p2/2l1rACWEktbcxKGMPqvP5d905qC-0-600-0-900-crop.jpg?v=34855f96a1\"/></p> <p>Watched on Thursday April 6, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/qr/og/nn/p2/2l1rACWEktbcxKGMPqvP5d905qC-0-600-0-900-crop.jpg?v=34855f96a1\"/></p> <p>Watched on Thursday April 6, 2023.</p>\n",
 				"date_published": "2023-04-06T22:36:31-03:00",
 				"url": "https://jomalo.com/2023/04/06/gifted.html",
@@ -3636,7 +3734,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/04/04/news-of-the.html",
 				"title": "News of the World, 2020 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/8/9/9/0/508990-news-of-the-world-0-600-0-900-crop.jpg?v=fb9a55f756\"/></p> <p>Watched on Saturday April 1, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/0/8/9/9/0/508990-news-of-the-world-0-600-0-900-crop.jpg?v=fb9a55f756\"/></p> <p>Watched on Saturday April 1, 2023.</p>\n",
 				"date_published": "2023-04-04T08:28:02-03:00",
 				"url": "https://jomalo.com/2023/04/04/news-of-the.html",
@@ -3672,7 +3770,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/27/194611.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>😠 Taxes</p>\n",
 				"content_text": "<p>😠 Taxes</p>\n",
 				"date_published": "2023-03-27T20:46:11-03:00",
 				"url": "https://jomalo.com/2023/03/27/194611.html"
@@ -3680,7 +3778,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/27/taxes.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>😠 Taxes</p>\n",
 				"content_text": "<p>😠 Taxes</p>\n",
 				"date_published": "2023-03-27T20:46:11-03:00",
 				"url": "https://jomalo.com/2023/03/27/taxes.html"
@@ -3706,7 +3804,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/25/defiance.html",
 				"title": "Defiance, 2008 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/rz/fm/mz/qc/ArY2fs0nK6DbrCKrxaMeCTVRZ0i-0-600-0-900-crop.jpg?v=139923a3c8\"/></p> <p>Watched on Saturday March 25, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/rz/fm/mz/qc/ArY2fs0nK6DbrCKrxaMeCTVRZ0i-0-600-0-900-crop.jpg?v=139923a3c8\"/></p> <p>Watched on Saturday March 25, 2023.</p>\n",
 				"date_published": "2023-03-25T23:40:29-03:00",
 				"url": "https://jomalo.com/2023/03/25/defiance.html",
@@ -3778,7 +3876,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/18/spooks-the-greater.html",
 				"title": "Spooks: The Greater Good, 2015",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/1/8/3/6/3/218363-spooks-the-greater-good-0-600-0-900-crop.jpg?v=11de213909\"/></p> <p>Watched on Saturday March 18, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/1/8/3/6/3/218363-spooks-the-greater-good-0-600-0-900-crop.jpg?v=11de213909\"/></p> <p>Watched on Saturday March 18, 2023.</p>\n",
 				"date_published": "2023-03-18T23:27:03-03:00",
 				"url": "https://jomalo.com/2023/03/18/spooks-the-greater.html",
@@ -3813,7 +3911,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/17/reading-of-course-we-need.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>📱 Reading <a href=\"https://decoding.io/2023/03/of-course-we-need-to-merge-the-mac-and-the-ipad/\">Of course, we need to merge the Mac and the iPad… – Decoding</a>.</p>\n",
 				"content_text": "<p>📱 Reading <a href=\"https://decoding.io/2023/03/of-course-we-need-to-merge-the-mac-and-the-ipad/\">Of course, we need to merge the Mac and the iPad… – Decoding</a>.</p>\n",
 				"date_published": "2023-03-17T09:03:14-03:00",
 				"url": "https://jomalo.com/2023/03/17/reading-of-course-we-need.html"
@@ -3821,7 +3919,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/17/reading-of-course.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>📱 Reading <a href=\"https://decoding.io/2023/03/of-course-we-need-to-merge-the-mac-and-the-ipad/\">Of course, we need to merge the Mac and the iPad… – Decoding</a>.</p>\n",
 				"content_text": "<p>📱 Reading <a href=\"https://decoding.io/2023/03/of-course-we-need-to-merge-the-mac-and-the-ipad/\">Of course, we need to merge the Mac and the iPad… – Decoding</a>.</p>\n",
 				"date_published": "2023-03-17T09:03:14-03:00",
 				"url": "https://jomalo.com/2023/03/17/reading-of-course.html"
@@ -3856,7 +3954,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/15/092056.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🥱 Project Reports Time</p>\n",
 				"content_text": "<p>🥱 Project Reports Time</p>\n",
 				"date_published": "2023-03-15T10:20:56-03:00",
 				"url": "https://jomalo.com/2023/03/15/092056.html"
@@ -3864,7 +3962,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/15/project-reports-time.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🥱 Project Reports Time</p>\n",
 				"content_text": "<p>🥱 Project Reports Time</p>\n",
 				"date_published": "2023-03-15T10:20:56-03:00",
 				"url": "https://jomalo.com/2023/03/15/project-reports-time.html"
@@ -3908,7 +4006,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/11/the-outpost.html",
 				"title": "The Outpost, 2019 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/1/1/0/6/461106-the-outpost-0-600-0-900-crop.jpg?v=601ac3e045\"/></p> <p>Watched on Saturday March 11, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/6/1/1/0/6/461106-the-outpost-0-600-0-900-crop.jpg?v=601ac3e045\"/></p> <p>Watched on Saturday March 11, 2023.</p>\n",
 				"date_published": "2023-03-11T01:08:07-03:00",
 				"url": "https://jomalo.com/2023/03/11/the-outpost.html",
@@ -3980,7 +4078,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/03/palmer.html",
 				"title": "Palmer, 2021 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/0/1/1/6/390116-palmer-0-600-0-900-crop.jpg?v=a4091abd81\"/></p> <p>Watched on Friday March 3, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/9/0/1/1/6/390116-palmer-0-600-0-900-crop.jpg?v=a4091abd81\"/></p> <p>Watched on Friday March 3, 2023.</p>\n",
 				"date_published": "2023-03-03T23:16:06-03:00",
 				"url": "https://jomalo.com/2023/03/03/palmer.html",
@@ -4032,7 +4130,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/25/the-mule.html",
 				"title": "The Mule, 2018 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/4/0/6/8/434068-the-mule-0-600-0-900-crop.jpg?v=a30b3d46a3\"/></p> <p>Watched on Saturday February 25, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/3/4/0/6/8/434068-the-mule-0-600-0-900-crop.jpg?v=a30b3d46a3\"/></p> <p>Watched on Saturday February 25, 2023.</p>\n",
 				"date_published": "2023-02-26T00:05:37-03:00",
 				"url": "https://jomalo.com/2023/02/25/the-mule.html",
@@ -4041,7 +4139,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/25/antman-and-the.html",
 				"title": "Ant-Man and the Wasp: Quantumania, 2023 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/6/2/3/7/566237-ant-man-and-the-wasp-quantumania-0-600-0-900-crop.jpg?v=27ced3fac4\"/></p> <p>Watched on Saturday February 25, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/6/6/2/3/7/566237-ant-man-and-the-wasp-quantumania-0-600-0-900-crop.jpg?v=27ced3fac4\"/></p> <p>Watched on Saturday February 25, 2023.</p>\n",
 				"date_published": "2023-02-26T00:05:21-03:00",
 				"url": "https://jomalo.com/2023/02/25/antman-and-the.html",
@@ -4050,7 +4148,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/24/bullet-train.html",
 				"title": "Bullet Train, 2022 - ★★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/1/9/6/1/641961-bullet-train-0-600-0-900-crop.jpg?v=9245faa1ba\"/></p> <p>Watched on Friday February 24, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/4/1/9/6/1/641961-bullet-train-0-600-0-900-crop.jpg?v=9245faa1ba\"/></p> <p>Watched on Friday February 24, 2023.</p>\n",
 				"date_published": "2023-02-24T23:12:54-03:00",
 				"url": "https://jomalo.com/2023/02/24/bullet-train.html",
@@ -4059,7 +4157,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/18/all-quiet-on.html",
 				"title": "All Quiet on the Western Front, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/6/5/3/0/16530-all-quiet-on-the-western-front-0-600-0-900-crop.jpg?v=bff4d496a1\"/></p> <p>Watched on Saturday February 18, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/6/5/3/0/16530-all-quiet-on-the-western-front-0-600-0-900-crop.jpg?v=bff4d496a1\"/></p> <p>Watched on Saturday February 18, 2023.</p>\n",
 				"date_published": "2023-02-18T22:36:50-03:00",
 				"url": "https://jomalo.com/2023/02/18/all-quiet-on.html",
@@ -4068,7 +4166,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/18/sully.html",
 				"title": "Sully, 2016 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/0/1/0/4/0/301040-sully-0-600-0-900-crop.jpg?v=d60925feaa\"/></p> <p>Watched on Saturday February 18, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/0/1/0/4/0/301040-sully-0-600-0-900-crop.jpg?v=d60925feaa\"/></p> <p>Watched on Saturday February 18, 2023.</p>\n",
 				"date_published": "2023-02-18T12:53:39-03:00",
 				"url": "https://jomalo.com/2023/02/18/sully.html",
@@ -4077,7 +4175,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/10/the-unbearable-weight.html",
 				"title": "The Unbearable Weight of Massive Talent, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/7/4/3/8/5/574385-the-unbearable-weight-of-massive-talent-0-600-0-900-crop.jpg?v=2c49da09f3\"/></p> <p>Watched on Friday February 10, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/7/4/3/8/5/574385-the-unbearable-weight-of-massive-talent-0-600-0-900-crop.jpg?v=2c49da09f3\"/></p> <p>Watched on Friday February 10, 2023.</p>\n",
 				"date_published": "2023-02-10T23:09:34-03:00",
 				"url": "https://jomalo.com/2023/02/10/the-unbearable-weight.html",
@@ -4118,7 +4216,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/04/everything-everywhere-all.html",
 				"title": "Everything Everywhere All at Once, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e\"/></p> <p>Still trying to wrap my head around this one!</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/4/7/4/4/7/4/474474-everything-everywhere-all-at-once-0-600-0-900-crop.jpg?v=281f1a041e\"/></p> <p>Still trying to wrap my head around this one!</p>\n",
 				"date_published": "2023-02-05T00:51:57-03:00",
 				"url": "https://jomalo.com/2023/02/04/everything-everywhere-all.html"
@@ -4135,7 +4233,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/03/222622.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧊 Deep freeze</p>\n",
 				"content_text": "<p>🧊 Deep freeze</p>\n",
 				"date_published": "2023-02-03T23:26:22-03:00",
 				"url": "https://jomalo.com/2023/02/03/222622.html"
@@ -4143,7 +4241,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/03/deep-freeze.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧊 Deep freeze</p>\n",
 				"content_text": "<p>🧊 Deep freeze</p>\n",
 				"date_published": "2023-02-03T23:26:22-03:00",
 				"url": "https://jomalo.com/2023/02/03/deep-freeze.html"
@@ -4151,7 +4249,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/28/glass-onion-a.html",
 				"title": "Glass Onion: A Knives Out Mystery, 2022 - ★★★★",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-a-knives-out-mystery-0-600-0-900-crop.jpg?v=ce7ed2a83f\"/></p> <p>Watched on Saturday January 28, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-a-knives-out-mystery-0-600-0-900-crop.jpg?v=ce7ed2a83f\"/></p> <p>Watched on Saturday January 28, 2023.</p>\n",
 				"date_published": "2023-01-28T21:59:14-03:00",
 				"url": "https://jomalo.com/2023/01/28/glass-onion-a.html",
@@ -4160,7 +4258,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/28/145450.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚶 Afternoon hike</p>\n",
 				"content_text": "<p>🚶 Afternoon hike</p>\n",
 				"date_published": "2023-01-28T15:54:50-03:00",
 				"url": "https://jomalo.com/2023/01/28/145450.html"
@@ -4168,7 +4266,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/28/afternoon-hike.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚶 Afternoon hike</p>\n",
 				"content_text": "<p>🚶 Afternoon hike</p>\n",
 				"date_published": "2023-01-28T15:54:50-03:00",
 				"url": "https://jomalo.com/2023/01/28/afternoon-hike.html"
@@ -4176,7 +4274,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/22/uncharted.html",
 				"title": "Uncharted, 2022",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/6/4/3/2/8/264328-uncharted-0-600-0-900-crop.jpg?v=988669139a\"/></p> <p>Watched on Sunday January 22, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/6/4/3/2/8/264328-uncharted-0-600-0-900-crop.jpg?v=988669139a\"/></p> <p>Watched on Sunday January 22, 2023.</p>\n",
 				"date_published": "2023-01-22T20:10:59-03:00",
 				"url": "https://jomalo.com/2023/01/22/uncharted.html",
@@ -4185,7 +4283,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/22/160834.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎥 Movie Time</p>\n",
 				"content_text": "<p>🎥 Movie Time</p>\n",
 				"date_published": "2023-01-22T17:08:34-03:00",
 				"url": "https://jomalo.com/2023/01/22/160834.html"
@@ -4193,7 +4291,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/22/movie-time.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎥 Movie Time</p>\n",
 				"content_text": "<p>🎥 Movie Time</p>\n",
 				"date_published": "2023-01-22T17:08:34-03:00",
 				"url": "https://jomalo.com/2023/01/22/movie-time.html"
@@ -4217,7 +4315,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/06/the-lord-of.html",
 				"title": "The Lord of the Rings: The Return of the King, 2003",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Friday January 6, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/zs/nt/u4/uz/xieWkPAgQrrk5wOyncayPd65hrp-0-600-0-900-crop.jpg?v=4c89d05285\"/></p> <p>Watched on Friday January 6, 2023.</p>\n",
 				"date_published": "2023-01-07T00:30:47-03:00",
 				"url": "https://jomalo.com/2023/01/06/the-lord-of.html",
@@ -4235,7 +4333,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/05/world-junior-championships-bronze-medal.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏒 World Junior Championships - Bronze Medal game </p>\n",
 				"content_text": "<p>🏒 World Junior Championships - Bronze Medal game </p>\n",
 				"date_published": "2023-01-05T15:43:04-03:00",
 				"url": "https://jomalo.com/2023/01/05/world-junior-championships-bronze-medal.html"
@@ -4243,7 +4341,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/05/world-junior-championships.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🏒 World Junior Championships - Bronze Medal game </p>\n",
 				"content_text": "<p>🏒 World Junior Championships - Bronze Medal game </p>\n",
 				"date_published": "2023-01-05T15:43:04-03:00",
 				"url": "https://jomalo.com/2023/01/05/world-junior-championships.html"
@@ -4259,7 +4357,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/02/153652.html",
 				"title": "The Lord of the Rings: The Two Towers, 2002",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Monday January 2, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/9/2/9/51929-the-lord-of-the-rings-the-two-towers-0-600-0-900-crop.jpg?v=9ef6c09783\"/></p> <p>Watched on Monday January 2, 2023.</p>\n",
 				"date_published": "2023-01-02T16:36:52-03:00",
 				"url": "https://jomalo.com/2023/01/02/153652.html",
@@ -4268,7 +4366,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/02/spiderman-into-the.html",
 				"title": "Spider-Man: Into the Spider-Verse, 2018",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/5/1/9/4/3/251943-spider-man-into-the-spider-verse-0-600-0-900-crop.jpg?v=5d25123839\"/></p> <p>Watched on Monday January 2, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/2/5/1/9/4/3/251943-spider-man-into-the-spider-verse-0-600-0-900-crop.jpg?v=5d25123839\"/></p> <p>Watched on Monday January 2, 2023.</p>\n",
 				"date_published": "2023-01-02T01:32:35-03:00",
 				"url": "https://jomalo.com/2023/01/02/spiderman-into-the.html",
@@ -4277,7 +4375,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/02/the-lord-of.html",
 				"title": "The Lord of the Rings: The Fellowship of the Ring, 2001",
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday January 1, 2023.</p>\n",
 				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/sm/upload/3t/vq/0u/m6/1tX9ZlgVvWjAQhMs1vAfsYpi7VK-0-600-0-900-crop.jpg?v=30bbb824e1\"/></p> <p>Watched on Sunday January 1, 2023.</p>\n",
 				"date_published": "2023-01-02T01:22:30-03:00",
 				"url": "https://jomalo.com/2023/01/02/the-lord-of.html",
@@ -4286,7 +4384,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/01/012528.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍾 Happy New Year!</p>\n",
 				"content_text": "<p>🍾 Happy New Year!</p>\n",
 				"date_published": "2023-01-01T02:25:28-03:00",
 				"url": "https://jomalo.com/2023/01/01/012528.html"
@@ -4294,7 +4392,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/01/happy-new-year.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍾 Happy New Year!</p>\n",
 				"content_text": "<p>🍾 Happy New Year!</p>\n",
 				"date_published": "2023-01-01T02:25:28-03:00",
 				"url": "https://jomalo.com/2023/01/01/happy-new-year.html"
@@ -4302,7 +4400,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/01/favourites.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<img id=\"rss_item_515006283068875265\" src=\"https://pixelfed-prod.nyc3.digitaloceanspaces.com/public/m/_v2/502800202440550385/3079cad20-917577/8tFWUbobWohP/oJg9wc9ICHuqZGAxiM7VauKxdbSpVwNBIu8afHNT.jpg\" alt=\"\">\n\t\t\t<p style=\"padding:10px;\">2022 Favourites</p>\n",
 				"content_text": "<img id=\"rss_item_515006283068875265\" src=\"https://pixelfed-prod.nyc3.digitaloceanspaces.com/public/m/_v2/502800202440550385/3079cad20-917577/8tFWUbobWohP/oJg9wc9ICHuqZGAxiM7VauKxdbSpVwNBIu8afHNT.jpg\" alt=\"\">\n\t\t\t<p style=\"padding:10px;\">2022 Favourites</p>\n",
 				"date_published": "2023-01-01T00:31:06-03:00",
 				"url": "https://jomalo.com/2023/01/01/favourites.html"
@@ -4310,7 +4408,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/31/141833.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧑‍🍳 Meatball production line</p>\n",
 				"content_text": "<p>🧑‍🍳 Meatball production line</p>\n",
 				"date_published": "2022-12-31T15:18:33-03:00",
 				"url": "https://jomalo.com/2022/12/31/141833.html"
@@ -4318,7 +4416,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/31/meatball-production-line.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧑‍🍳 Meatball production line</p>\n",
 				"content_text": "<p>🧑‍🍳 Meatball production line</p>\n",
 				"date_published": "2022-12-31T15:18:33-03:00",
 				"url": "https://jomalo.com/2022/12/31/meatball-production-line.html"
@@ -4326,7 +4424,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/30/no-caption.html",
 				
-				"content_html": "<p>Bumbu</p>\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Bumbu</p>\n<img id=\"rss_item_1\" src=\"https://pixelfed-prod.nyc3.digitaloceanspaces.com/public/m/_v2/502800202440550385/8d46c944c-26de5d/M8V61R85Cs0R/uqtm0VA9lMGYzGTFBl7HgHCaqV4gJ6Wb19RpVVGz.jpg\" alt=\"\">\n\t\t\t<p style=\"padding:10px;\"></p>\n",
 				"content_text": "Bumbu\n\n<img id=\"rss_item_1\" src=\"https://pixelfed-prod.nyc3.digitaloceanspaces.com/public/m/_v2/502800202440550385/8d46c944c-26de5d/M8V61R85Cs0R/uqtm0VA9lMGYzGTFBl7HgHCaqV4gJ6Wb19RpVVGz.jpg\" alt=\"\">\n\t\t\t<p style=\"padding:10px;\"></p>\n",
 				"date_published": "2022-12-30T23:23:13-03:00",
 				"url": "https://jomalo.com/2022/12/30/no-caption.html"
@@ -4343,7 +4441,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/27/151418.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍿 Avatar</p>\n",
 				"content_text": "<p>🍿 Avatar</p>\n",
 				"date_published": "2022-12-27T16:14:18-03:00",
 				"url": "https://jomalo.com/2022/12/27/151418.html"
@@ -4351,7 +4449,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/27/avatar.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍿 Avatar</p>\n",
 				"content_text": "<p>🍿 Avatar</p>\n",
 				"date_published": "2022-12-27T16:14:18-03:00",
 				"url": "https://jomalo.com/2022/12/27/avatar.html"
@@ -4368,7 +4466,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/11/countertop-installed-new-island-finally.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧰 Countertop installed. New island finally finished. </p>\n",
 				"content_text": "<p>🧰 Countertop installed. New island finally finished. </p>\n",
 				"date_published": "2022-12-11T23:27:33-03:00",
 				"url": "https://jomalo.com/2022/12/11/countertop-installed-new-island-finally.html"
@@ -4376,7 +4474,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/11/countertop-installed-new.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧰 Countertop installed. New island finally finished. </p>\n",
 				"content_text": "<p>🧰 Countertop installed. New island finally finished. </p>\n",
 				"date_published": "2022-12-11T23:27:33-03:00",
 				"url": "https://jomalo.com/2022/12/11/countertop-installed-new.html"
@@ -4384,7 +4482,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/10/220217.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚧 Painting finished</p>\n",
 				"content_text": "<p>🚧 Painting finished</p>\n",
 				"date_published": "2022-12-10T23:02:17-03:00",
 				"url": "https://jomalo.com/2022/12/10/220217.html"
@@ -4392,7 +4490,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/10/painting-finished.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚧 Painting finished</p>\n",
 				"content_text": "<p>🚧 Painting finished</p>\n",
 				"date_published": "2022-12-10T23:02:17-03:00",
 				"url": "https://jomalo.com/2022/12/10/painting-finished.html"
@@ -4400,7 +4498,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/09/movie-time-theatre-to-ourselves.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🍿 Movie time!  Theatre to ourselves!</p>\n",
 				"content_text": "<p>🍿 Movie time!  Theatre to ourselves!</p>\n",
 				"date_published": "2022-12-09T21:40:23-03:00",
 				"url": "https://jomalo.com/2022/12/09/movie-time-theatre-to-ourselves.html"
@@ -4408,7 +4506,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/09/movie-time-theatre.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Movie time!  Theatre to ourselves!</p>\n",
 				"content_text": "<p>Movie time!  Theatre to ourselves!</p>\n",
 				"date_published": "2022-12-09T21:40:23-03:00",
 				"url": "https://jomalo.com/2022/12/09/movie-time-theatre.html"
@@ -4416,7 +4514,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/08/watching-elf.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎄 Watching Elf!</p>\n",
 				"content_text": "<p>🎄 Watching Elf!</p>\n",
 				"date_published": "2022-12-08T21:34:39-03:00",
 				"url": "https://jomalo.com/2022/12/08/watching-elf.html"
@@ -4424,7 +4522,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/06/100100.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🤬 Config files</p>\n",
 				"content_text": "<p>🤬 Config files</p>\n",
 				"date_published": "2022-12-06T11:01:00-03:00",
 				"url": "https://jomalo.com/2022/12/06/100100.html"
@@ -4432,7 +4530,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/06/config-files.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🤬 Config files</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🤬 Config files</p>\n\t\t\t</div>\n",
 				"date_published": "2022-12-06T11:01:00-03:00",
 				"url": "https://jomalo.com/2022/12/06/config-files.html"
@@ -4440,7 +4538,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/03/205122.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🎄 Christmas Party 🎉 </p>\n",
 				"content_text": "<p>🎄 Christmas Party 🎉 </p>\n",
 				"date_published": "2022-12-03T21:51:22-03:00",
 				"url": "https://jomalo.com/2022/12/03/205122.html"
@@ -4448,7 +4546,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/03/christmas-party.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🎄 Christmas Party 🎉 </p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🎄 Christmas Party 🎉 </p>\n\t\t\t</div>\n",
 				"date_published": "2022-12-03T21:51:22-03:00",
 				"url": "https://jomalo.com/2022/12/03/christmas-party.html"
@@ -4464,7 +4562,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/12/02/sharing-my-home.html",
 				
-				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_html": "<p>Sharing my home screens after seeing a couple here this morning…</p>\n<center>\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/d9fe13e0b4.png\" width=\"300\" height=\"600\" alt=\"\" />\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/2f58bae1ab.png\" width=\"191\" height=\"300\" alt=\"\" />\n</center>\n",
 				"content_text": "Sharing my home screens after seeing a couple here this morning…\n\n<center>\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/d9fe13e0b4.png\" width=\"300\" height=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/29404/2022/2f58bae1ab.png\" width=\"191\" height=\"300\" alt=\"\" />\n</center>\n",
 				"date_published": "2022-12-02T09:47:31-03:00",
 				"url": "https://jomalo.com/2022/12/02/sharing-my-home.html",
@@ -4572,7 +4670,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/20/143453.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>💉 Fall booster</p>\n",
 				"content_text": "<p>💉 Fall booster</p>\n",
 				"date_published": "2022-11-20T15:34:53-03:00",
 				"url": "https://jomalo.com/2022/11/20/143453.html"
@@ -4580,7 +4678,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/20/fall-booster.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>💉 Fall booster</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>💉 Fall booster</p>\n\t\t\t</div>\n",
 				"date_published": "2022-11-20T15:34:53-03:00",
 				"url": "https://jomalo.com/2022/11/20/fall-booster.html"
@@ -4633,7 +4731,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/14/224921.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🚕 Dad taxi activated</p>\n",
 				"content_text": "<p>🚕 Dad taxi activated</p>\n",
 				"date_published": "2022-11-14T23:49:21-03:00",
 				"url": "https://jomalo.com/2022/11/14/224921.html"
@@ -4641,7 +4739,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/14/dad-taxi-activated.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🚕 Dad taxi activated</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🚕 Dad taxi activated</p>\n\t\t\t</div>\n",
 				"date_published": "2022-11-14T23:49:21-03:00",
 				"url": "https://jomalo.com/2022/11/14/dad-taxi-activated.html"
@@ -4694,7 +4792,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/09/204527.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🔨 Remodeling</p>\n",
 				"content_text": "<p>🔨 Remodeling</p>\n",
 				"date_published": "2022-11-09T21:45:27-03:00",
 				"url": "https://jomalo.com/2022/11/09/204527.html"
@@ -4702,7 +4800,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/09/remodeling.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🔨 Remodeling</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🔨 Remodeling</p>\n\t\t\t</div>\n",
 				"date_published": "2022-11-09T21:45:27-03:00",
 				"url": "https://jomalo.com/2022/11/09/remodeling.html"
@@ -4791,7 +4889,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/01/181013.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🩸 Donating blood!</p>\n",
 				"content_text": "<p>🩸 Donating blood!</p>\n",
 				"date_published": "2022-11-01T19:10:13-03:00",
 				"url": "https://jomalo.com/2022/11/01/181013.html"
@@ -4799,7 +4897,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/11/01/donating-blood.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🩸 Donating blood!</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🩸 Donating blood!</p>\n\t\t\t</div>\n",
 				"date_published": "2022-11-01T19:10:13-03:00",
 				"url": "https://jomalo.com/2022/11/01/donating-blood.html"
@@ -4834,7 +4932,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/30/150605.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>⛺ Shut down my trailer for another season. </p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>⛺ Shut down my trailer for another season. </p>\n\t\t\t</div>\n",
 				"date_published": "2022-10-30T16:06:05-03:00",
 				"url": "https://jomalo.com/2022/10/30/150605.html"
@@ -4842,7 +4940,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/30/shut-down-my-trailer-for.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>⛺ Shut down my trailer for another season. </p>\n",
 				"content_text": "<p>⛺ Shut down my trailer for another season. </p>\n",
 				"date_published": "2022-10-30T16:06:05-03:00",
 				"url": "https://jomalo.com/2022/10/30/shut-down-my-trailer-for.html"
@@ -4866,7 +4964,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/17/testing-grs-omglol-shortcut.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<p>🧪 Testing gr36’s omg.lol shortcut</p>\n",
 				"content_text": "<p>🧪 Testing gr36’s omg.lol shortcut</p>\n",
 				"date_published": "2022-10-17T23:09:27-03:00",
 				"url": "https://jomalo.com/2022/10/17/testing-grs-omglol-shortcut.html"
@@ -4874,7 +4972,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/17/testing-grs-omglol.html",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_html": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🧪 Testing gr36’s omg.lol shortcut</p>\n\t\t\t</div>\n",
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🧪 Testing gr36’s omg.lol shortcut</p>\n\t\t\t</div>\n",
 				"date_published": "2022-10-17T23:09:27-03:00",
 				"url": "https://jomalo.com/2022/10/17/testing-grs-omglol.html"
