@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2025/10/12/jungle-cruise.html",
+				"title": "Jungle Cruise, 2021 - ★★★★",
+				"content_html": "<p><img src=\"uploads/2025/383239-jungle-cruise-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday October 12, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/383239-jungle-cruise-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday October 12, 2025.</p>\n",
+				"date_published": "2025-10-12T17:48:11-03:00",
+				"url": "https://jomalo.com/2025/10/12/jungle-cruise.html",
+				"tags": ["movies"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/10/11/expanse-thepics.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5613.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"affb77894cfed77b1da8895f0cf5b67e\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5613.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A night sky filled with numerous stars scattered across the dark expanse above a silhouette of trees at the bottom of the image.\" \n        \n  />\n</a>\n\n</p>\n<p>Expanse</p>\n<p>#the100pics 26/100</p>\n",
+				"content_text": "![A night sky filled with numerous stars scattered across the dark expanse above a silhouette of trees at the bottom of the image.](https://jomalo.com/uploads/2025/img-5613.jpg)  \r\n\r\nExpanse\r\n\r\n#the100pics 26/100\n",
+				"date_published": "2025-10-11T23:15:01-03:00",
+				"url": "https://jomalo.com/2025/10/11/expanse-thepics.html",
+				"tags": ["photos","the100pics"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2025/10/11/the-unholy-trinity.html",
+				"title": "The Unholy Trinity, 2024 - ★★★",
+				"content_html": "<p><img src=\"uploads/2025/1081024-the-unholy-trinity-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 11, 2025.</p>\n",
+				"content_text": "<p><img src=\"uploads/2025/1081024-the-unholy-trinity-2024-0-600-0-900-crop.jpg\"/></p> <p>Watched on Saturday October 11, 2025.</p>\n",
+				"date_published": "2025-10-11T11:11:10-03:00",
+				"url": "https://jomalo.com/2025/10/11/the-unholy-trinity.html",
+				"tags": ["movies"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2025/10/05/wolfs.html",
 				"title": "Wolfs, 2024 - ★★★½",
 				"content_html": "<p><img src=\"uploads/2025/789010-wolfs-0-600-0-900-crop.jpg\"/></p> <p>Watched on Sunday October 5, 2025.</p>\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/09/17/lights-thepics.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2025/img-5481.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"e94e22e2ca932f38767f6818e27b70af\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2025/img-5481.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Lights</p>\n<p>#the100pics 24/100</p>\n",
-				"content_text": "![A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.](https://jomalo.com/uploads/2025/img-5481.jpg)  \r\n\r\nLights\r\n\r\n#the100pics 24/100\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2025/img-5481.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"e94e22e2ca932f38767f6818e27b70af\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2025/img-5481.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.\" \n        \n  />\n</a>\n\n</p>\n<p>Lights</p>\n<p>#the100pics 24/100</p>\n",
+				"content_text": "![A black and white image shows a silhouette of a traffic light and streetlamp set against a cloudy sky. The traffic light is prominently positioned to the right, hanging from a curved pole, with the streetlamp on the left. The clouds are scattered across the sky, creating a dramatic, twilight atmosphere.](https://cdn.uploads.micro.blog/29404/2025/img-5481.jpg)  \r\n\r\nLights\r\n\r\n#the100pics 24/100\n",
 				"date_published": "2025-09-17T16:18:27-03:00",
 				"url": "https://jomalo.com/2025/09/17/lights-thepics.html",
 				"tags": ["photos","the100pics"]
@@ -37,15 +64,15 @@
 				"id": "http://jomalo.micro.blog/2025/09/15/finished-reading-the-hunt-for.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9780425133514/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780425133514\">The Hunt for Red October (Jack Ryan, #3)</a> by Tom Clancy 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780425133514/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Hunt for Red October (Jack Ryan, #3)](https://micro.blog/books/9780425133514) by Tom Clancy 📚\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780425133514/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Hunt for Red October (Jack Ryan, #3)](https://micro.blog/books/9780425133514) by Tom Clancy 📚  \n",
 				"date_published": "2025-09-15T10:53:01-03:00",
 				"url": "https://jomalo.com/2025/09/15/finished-reading-the-hunt-for.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2025/09/15/the-fall-guy.html",
 				"title": "The Fall Guy, 2024 - ★★★★",
-				"content_html": "<p><img src=\"uploads/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
-				"content_text": "<p><img src=\"uploads/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
+				"content_text": "<p><img src=\"https://cdn.uploads.micro.blog/29404/2025/667550-the-fall-guy-0-600-0-900-crop.jpg\"/></p> <p>Watched on Monday September 15, 2025.</p>\n",
 				"date_published": "2025-09-15T10:24:54-03:00",
 				"url": "https://jomalo.com/2025/09/15/the-fall-guy.html",
 				"tags": ["movies"]
@@ -125,8 +152,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/08/23/finished-reading-fugitive-telemetry-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250765383\">Fugitive Telemetry</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [Fugitive Telemetry](https://micro.blog/books/9781250765383) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250765383/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250765383\">Fugitive Telemetry</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250765383/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Fugitive Telemetry](https://micro.blog/books/9781250765383) by Martha Wells 📚\n",
 				"date_published": "2025-08-23T23:27:41-03:00",
 				"url": "https://jomalo.com/2025/08/23/finished-reading-fugitive-telemetry-by.html"
 			},
@@ -321,16 +348,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/07/08/currently-reading-fugitive-telemetry-by.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781250765383\">Fugitive Telemetry</a> by Martha Wells 📚</p>\n",
-				"content_text": "Currently reading: [Fugitive Telemetry](https://micro.blog/books/9781250765383) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250765383/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781250765383\">Fugitive Telemetry</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250765383/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Fugitive Telemetry](https://micro.blog/books/9781250765383) by Martha Wells 📚\n",
 				"date_published": "2025-07-08T14:00:07-03:00",
 				"url": "https://jomalo.com/2025/07/08/currently-reading-fugitive-telemetry-by.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2025/07/08/finished-reading-network-effect-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [Network Effect](https://micro.blog/books/9781250229847) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250229847/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250229847\">Network Effect</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250229847/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Network Effect](https://micro.blog/books/9781250229847) by Martha Wells 📚\n",
 				"date_published": "2025-07-08T10:15:43-03:00",
 				"url": "https://jomalo.com/2025/07/08/finished-reading-network-effect-by.html"
 			},
@@ -776,16 +803,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/04/29/finished-reading-exit-strategy-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250292377\">Exit Strategy</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [Exit Strategy](https://micro.blog/books/9781250292377) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250292377/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250292377\">Exit Strategy</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250292377/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Exit Strategy](https://micro.blog/books/9781250292377) by Martha Wells 📚\n",
 				"date_published": "2025-04-29T23:13:22-03:00",
 				"url": "https://jomalo.com/2025/04/29/finished-reading-exit-strategy-by.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2025/04/22/finished-reading-rogue-protocol-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250185433\">Rogue Protocol</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [Rogue Protocol](https://micro.blog/books/9781250185433) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250185433/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250185433\">Rogue Protocol</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250185433/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Rogue Protocol](https://micro.blog/books/9781250185433) by Martha Wells 📚\n",
 				"date_published": "2025-04-22T11:37:31-03:00",
 				"url": "https://jomalo.com/2025/04/22/finished-reading-rogue-protocol-by.html"
 			},
@@ -810,8 +837,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/04/09/finished-reading-artificial-condition-by.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250186928\">Artificial Condition</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [Artificial Condition](https://micro.blog/books/9781250186928) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250186928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250186928\">Artificial Condition</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250186928/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Artificial Condition](https://micro.blog/books/9781250186928) by Martha Wells 📚\n",
 				"date_published": "2025-04-09T16:09:42-03:00",
 				"url": "https://jomalo.com/2025/04/09/finished-reading-artificial-condition-by.html"
 			},
@@ -827,8 +854,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2025/04/08/finished-reading-all-systems-red.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780765397522\">All Systems Red</a> by Martha Wells 📚</p>\n",
-				"content_text": "Finished reading: [All Systems Red](https://micro.blog/books/9780765397522) by Martha Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780765397522/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780765397522\">All Systems Red</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780765397522/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [All Systems Red](https://micro.blog/books/9780765397522) by Martha Wells 📚\n",
 				"date_published": "2025-04-08T11:12:03-03:00",
 				"url": "https://jomalo.com/2025/04/08/finished-reading-all-systems-red.html"
 			},
@@ -2319,7 +2346,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2024/01/01/year-in-books.html",
 				"title": "Year in books for 2023",
-				"content_html": "<p>Here are the books I finished reading in 2023, I had hoped for a few more than this. Will need to try a little harder next year.</p>\n<div class=\"bookgoals\"><a href=\"https://micro.blog/books/9780544839632\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DzKZXjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Beacon 23\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780544838260\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQQ30DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Dust\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780544839618\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5EjnDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Shift\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9781476733951\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DoCpYuc1dfPAC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Wool\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780593135204\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGrYsEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Project Hail Mary\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332934\"><img src=\"https://cdn.micro.blog/photos/300x/http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXA4iEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Leviathan Falls\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316217675\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-yezDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Auberon: An Expanse Novella (The Expanse)\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332866\"><img src=\"https://cdn.micro.blog/photos/300x/http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJQdUDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Tiamat&#39;s Wrath\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332828\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DcxNVDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Persepolis Rising (The Expanse, #7)\" width=\"100\" height=\"120\" class=\"cover\"></a></div>\n",
+				"content_html": "<p>Here are the books I finished reading in 2023, I had hoped for a few more than this. Will need to try a little harder next year.</p>\n<div class=\"bookgoals\"><a href=\"https://micro.blog/books/9780544839632\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DzKZXjwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Beacon 23\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780544838260\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DQQ30DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Dust\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780544839618\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D5EjnDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Shift\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9781476733951\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DoCpYuc1dfPAC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Wool\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780593135204\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DGrYsEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Project Hail Mary\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332934\"><img src=\"https://cdn.micro.blog/photos/300x/http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DXA4iEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Leviathan Falls\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316217675\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-yezDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Auberon: An Expanse Novella (The Expanse)\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332866\"><img src=\"https://cdn.micro.blog/photos/300x/http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DJQdUDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Tiamat&#39;s Wrath\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316332828\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DcxNVDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Persepolis Rising (The Expanse, #7)\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780425133514\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DapOnHACHDwYC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"The Hunt for Red October (Jack Ryan, #3)\" width=\"100\" height=\"120\" class=\"cover\"></a></div>\n",
 				"content_text": "Here are the books I finished reading in 2023, I had hoped for a few more than this. Will need to try a little harder next year. \n\n{{< bookgoals 2023 >}}\n",
 				"date_published": "2024-01-01T03:26:31-03:00",
 				"url": "https://jomalo.com/2024/01/01/year-in-books.html"
@@ -2495,16 +2522,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/14/currently-reading-severance.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/SEVERANCE12346\">Severance The Lexington Letter</a> by Anonymous 📚</p>\n",
-				"content_text": "Currently reading: [Severance The Lexington Letter](https://micro.blog/books/SEVERANCE12346) by Anonymous 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/SEVERANCE12346/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/SEVERANCE12346\">Severance The Lexington Letter</a> by Anonymous 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/SEVERANCE12346/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Severance The Lexington Letter](https://micro.blog/books/SEVERANCE12346) by Anonymous 📚\n",
 				"date_published": "2023-12-14T10:51:01-03:00",
 				"url": "https://jomalo.com/2023/12/14/currently-reading-severance.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/12/11/finished-reading-beacon.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780544839632\">Beacon 23</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Finished reading: [Beacon 23](https://micro.blog/books/9780544839632) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544839632/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780544839632\">Beacon 23</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544839632/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Beacon 23](https://micro.blog/books/9780544839632) by Hugh Howey 📚\n",
 				"date_published": "2023-12-11T23:20:33-03:00",
 				"url": "https://jomalo.com/2023/12/11/finished-reading-beacon.html"
 			},
@@ -2552,16 +2579,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/12/05/currently-reading-beacon.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544839632\">Beacon 23</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Currently reading: [Beacon 23](https://micro.blog/books/9780544839632) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544839632/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780544839632\">Beacon 23</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544839632/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Beacon 23](https://micro.blog/books/9780544839632) by Hugh Howey 📚\n",
 				"date_published": "2023-12-05T18:04:11-03:00",
 				"url": "https://jomalo.com/2023/12/05/currently-reading-beacon.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/12/05/finished-reading-dust.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780544838260\">Dust</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Finished reading: [Dust](https://micro.blog/books/9780544838260) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544838260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780544838260\">Dust</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544838260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Dust](https://micro.blog/books/9780544838260) by Hugh Howey 📚\n",
 				"date_published": "2023-12-05T09:04:36-03:00",
 				"url": "https://jomalo.com/2023/12/05/finished-reading-dust.html"
 			},
@@ -2723,16 +2750,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/10/01/currently-reading-dust.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544838260\">Dust</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Currently reading: [Dust](https://micro.blog/books/9780544838260) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544838260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780544838260\">Dust</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544838260/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Dust](https://micro.blog/books/9780544838260) by Hugh Howey 📚\n",
 				"date_published": "2023-10-01T23:42:30-03:00",
 				"url": "https://jomalo.com/2023/10/01/currently-reading-dust.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/10/01/finished-reading-shift.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780544839618\">Shift</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Finished reading: [Shift](https://micro.blog/books/9780544839618) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544839618/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780544839618\">Shift</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544839618/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Shift](https://micro.blog/books/9780544839618) by Hugh Howey 📚\n",
 				"date_published": "2023-10-01T23:42:11-03:00",
 				"url": "https://jomalo.com/2023/10/01/finished-reading-shift.html"
 			},
@@ -3251,16 +3278,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/07/12/currently-reading-shift.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780544839618\">Shift</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Currently reading: [Shift](https://micro.blog/books/9780544839618) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780544839618/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780544839618\">Shift</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780544839618/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Shift](https://micro.blog/books/9780544839618) by Hugh Howey 📚\n",
 				"date_published": "2023-07-12T09:39:32-03:00",
 				"url": "https://jomalo.com/2023/07/12/currently-reading-shift.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/07/12/finished-reading-wool.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781476733951\">Wool</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Finished reading: [Wool](https://micro.blog/books/9781476733951) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781476733951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781476733951\">Wool</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781476733951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Wool](https://micro.blog/books/9781476733951) by Hugh Howey 📚\n",
 				"date_published": "2023-07-12T09:39:02-03:00",
 				"url": "https://jomalo.com/2023/07/12/finished-reading-wool.html"
 			},
@@ -3624,8 +3651,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/05/11/currently-reading-wool.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781476733951\">Wool</a> by Hugh Howey 📚</p>\n",
-				"content_text": "Currently reading: [Wool](https://micro.blog/books/9781476733951) by Hugh Howey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781476733951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781476733951\">Wool</a> by Hugh Howey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781476733951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Wool](https://micro.blog/books/9781476733951) by Hugh Howey 📚\n",
 				"date_published": "2023-05-11T21:15:27-03:00",
 				"url": "https://jomalo.com/2023/05/11/currently-reading-wool.html"
 			},
@@ -3912,8 +3939,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/17/finished-reading-project.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593135204\">Project Hail Mary</a> by Andy Weir 📚</p>\n",
-				"content_text": "Finished reading: [Project Hail Mary](https://micro.blog/books/9780593135204) by Andy Weir 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780593135204/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780593135204\">Project Hail Mary</a> by Andy Weir 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780593135204/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Project Hail Mary](https://micro.blog/books/9780593135204) by Andy Weir 📚\n",
 				"date_published": "2023-03-17T11:22:44-03:00",
 				"url": "https://jomalo.com/2023/03/17/finished-reading-project.html"
 			},
@@ -4105,16 +4132,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/03/02/currently-reading-the.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781773052069\">The Never-Ending Present</a> by Michael Barclay 📚</p>\n",
-				"content_text": "Currently reading: [The Never-Ending Present](https://micro.blog/books/9781773052069) by Michael Barclay 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781773052069/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781773052069\">The Never-Ending Present</a> by Michael Barclay 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781773052069/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Never-Ending Present](https://micro.blog/books/9781773052069) by Michael Barclay 📚\n",
 				"date_published": "2023-03-02T23:28:12-03:00",
 				"url": "https://jomalo.com/2023/03/02/currently-reading-the.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/03/02/finished-reading-leviathan.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316332934\">Leviathan Falls (The Expanse Book 9)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Leviathan Falls (The Expanse Book 9)](https://micro.blog/books/9780316332934) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332934/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316332934\">Leviathan Falls (The Expanse Book 9)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332934/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Leviathan Falls (The Expanse Book 9)](https://micro.blog/books/9780316332934) by James S. A. Corey 📚\n",
 				"date_published": "2023-03-02T23:20:44-03:00",
 				"url": "https://jomalo.com/2023/03/02/finished-reading-leviathan.html"
 			},
@@ -4193,32 +4220,32 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/02/07/currently-reading-leviathan.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316332934\">Leviathan Falls (The Expanse Book 9)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Currently reading: [Leviathan Falls (The Expanse Book 9)](https://micro.blog/books/9780316332934) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332934/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316332934\">Leviathan Falls (The Expanse Book 9)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332934/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Leviathan Falls (The Expanse Book 9)](https://micro.blog/books/9780316332934) by James S. A. Corey 📚\n",
 				"date_published": "2023-02-07T12:00:38-03:00",
 				"url": "https://jomalo.com/2023/02/07/currently-reading-leviathan.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/02/07/finished-reading-auberon.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316217675\">Auberon: An Expanse Novella (The Expanse)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Auberon: An Expanse Novella (The Expanse)](https://micro.blog/books/9780316217675) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316217675/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316217675\">Auberon: An Expanse Novella (The Expanse)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316217675/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Auberon: An Expanse Novella (The Expanse)](https://micro.blog/books/9780316217675) by James S. A. Corey 📚\n",
 				"date_published": "2023-02-07T12:00:14-03:00",
 				"url": "https://jomalo.com/2023/02/07/finished-reading-auberon.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/02/05/currently-reading-auberon.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316217675\">Auberon: An Expanse Novella (The Expanse)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Currently reading: [Auberon: An Expanse Novella (The Expanse)](https://micro.blog/books/9780316217675) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316217675/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316217675\">Auberon: An Expanse Novella (The Expanse)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316217675/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Auberon: An Expanse Novella (The Expanse)](https://micro.blog/books/9780316217675) by James S. A. Corey 📚\n",
 				"date_published": "2023-02-05T23:51:25-03:00",
 				"url": "https://jomalo.com/2023/02/05/currently-reading-auberon.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/02/05/finished-reading-tiamats.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316332866\">Tiamat&rsquo;s Wrath (The Expanse Book 8)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Tiamat's Wrath (The Expanse Book 8)](https://micro.blog/books/9780316332866) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332866/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316332866\">Tiamat&rsquo;s Wrath (The Expanse Book 8)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332866/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Tiamat's Wrath (The Expanse Book 8)](https://micro.blog/books/9780316332866) by James S. A. Corey 📚\n",
 				"date_published": "2023-02-05T23:51:18-03:00",
 				"url": "https://jomalo.com/2023/02/05/finished-reading-tiamats.html"
 			},
@@ -4308,16 +4335,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/11/currently-reading-tiamats.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316332866\">Tiamat&rsquo;s Wrath (The Expanse Book 8)</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Currently reading: [Tiamat's Wrath (The Expanse Book 8)](https://micro.blog/books/9780316332866) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332866/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316332866\">Tiamat&rsquo;s Wrath (The Expanse Book 8)</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332866/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Tiamat's Wrath (The Expanse Book 8)](https://micro.blog/books/9780316332866) by James S. A. Corey 📚\n",
 				"date_published": "2023-01-11T23:24:16-03:00",
 				"url": "https://jomalo.com/2023/01/11/currently-reading-tiamats.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2023/01/11/finished-reading-persepolis.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316332828\">Persepolis Rising</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Persepolis Rising](https://micro.blog/books/9780316332828) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332828/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316332828\">Persepolis Rising</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332828/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Persepolis Rising](https://micro.blog/books/9780316332828) by James S. A. Corey 📚\n",
 				"date_published": "2023-01-11T23:24:03-03:00",
 				"url": "https://jomalo.com/2023/01/11/finished-reading-persepolis.html"
 			},
@@ -4358,7 +4385,7 @@
 			{
 				"id": "http://jomalo.micro.blog/2023/01/02/year-in-books.html",
 				"title": "Year in books for 2022",
-				"content_html": "<p>Here are the books I finished reading in 2022. I need to up this number for 2023.</p>\n<div class=\"bookgoals\"><a href=\"https://micro.blog/books/9780316217576\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fimages.isbndb.com%2Fcovers%2F75%2F76%2F9780316217576.jpg\" alt=\"Strange Dogs\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316217637\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3jsYCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Babylon&#39;s Ashes\" width=\"100\" height=\"120\" class=\"cover\"></a></div>\n",
+				"content_html": "<p>Here are the books I finished reading in 2022. I need to up this number for 2023.</p>\n<div class=\"bookgoals\"><a href=\"https://micro.blog/books/9780316217576\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dno-vDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Strange Dogs\" width=\"100\" height=\"120\" class=\"cover\"></a><a href=\"https://micro.blog/books/9780316217637\"><img src=\"https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D3jsYCwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api\" alt=\"Babylon&#39;s Ashes\" width=\"100\" height=\"120\" class=\"cover\"></a></div>\n",
 				"content_text": "Here are the books I finished reading in 2022. I need to up this number for 2023. \n\n{{< bookgoals 2022 >}}\n",
 				"date_published": "2023-01-02T22:26:40-03:00",
 				"url": "https://jomalo.com/2023/01/02/year-in-books.html"
@@ -4957,16 +4984,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/18/currently-reading-persepolis.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316332828\">Persepolis Rising</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Currently reading: [Persepolis Rising](https://micro.blog/books/9780316332828) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316332828/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316332828\">Persepolis Rising</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316332828/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Persepolis Rising](https://micro.blog/books/9780316332828) by James S. A. Corey 📚\n",
 				"date_published": "2022-10-18T14:31:09-03:00",
 				"url": "https://jomalo.com/2022/10/18/currently-reading-persepolis.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2022/10/18/finished-reading-strange.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316217576\">Strange Dogs</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Strange Dogs](https://micro.blog/books/9780316217576) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316217576/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316217576\">Strange Dogs</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316217576/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Strange Dogs](https://micro.blog/books/9780316217576) by James S. A. Corey 📚\n",
 				"date_published": "2022-10-18T14:30:43-03:00",
 				"url": "https://jomalo.com/2022/10/18/finished-reading-strange.html"
 			},
@@ -4989,16 +5016,16 @@
 			{
 				"id": "http://jomalo.micro.blog/2022/10/16/currently-reading-strange.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780316217576\">Strange Dogs</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Currently reading: [Strange Dogs](https://micro.blog/books/9780316217576) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316217576/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316217576\">Strange Dogs</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316217576/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Strange Dogs](https://micro.blog/books/9780316217576) by James S. A. Corey 📚\n",
 				"date_published": "2022-10-16T18:47:29-03:00",
 				"url": "https://jomalo.com/2022/10/16/currently-reading-strange.html"
 			},
 			{
 				"id": "http://jomalo.micro.blog/2022/10/16/finished-reading-babylons.html",
 				
-				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780316217637\">Babylon&rsquo;s Ashes</a> by James S. A. Corey 📚</p>\n",
-				"content_text": "Finished reading: [Babylon's Ashes](https://micro.blog/books/9780316217637) by James S. A. Corey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316217637/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316217637\">Babylon&rsquo;s Ashes</a> by James S. A. Corey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316217637/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Babylon's Ashes](https://micro.blog/books/9780316217637) by James S. A. Corey 📚\n",
 				"date_published": "2022-10-16T18:46:23-03:00",
 				"url": "https://jomalo.com/2022/10/16/finished-reading-babylons.html"
 			},
