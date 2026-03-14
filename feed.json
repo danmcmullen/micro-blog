@@ -7,11 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2026/03/12/finished-reading-the-hunt-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101010365\">The Hunt for Red October</a> by Tom Clancy 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781101010365/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Hunt for Red October](https://micro.blog/books/9781101010365) by Tom Clancy 📚\n",
+				"date_published": "2026-03-12T13:29:51-03:00",
+				"url": "https://jomalo.com/2026/03/12/finished-reading-the-hunt-for.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2026/03/07/nineteen.html",
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/no-fusion-0306-014.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"adbe99ae1f6dd7d56f7efb26f3615087\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/no-fusion-0306-014.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A large white number 19 is mounted on a dark brick wall with visible screws at the corners of each digit. The bricks have a rough texture and the number is prominently displayed in the center of the image. Shadows cast by the lighting create a dramatic contrast.\" \n        \n  />\n</a>\n\n</p>\n<p>Nineteen</p>\n",
 				"content_text": "![A large white number 19 is mounted on a dark brick wall with visible screws at the corners of each digit. The bricks have a rough texture and the number is prominently displayed in the center of the image. Shadows cast by the lighting create a dramatic contrast.](https://jomalo.com/uploads/2026/no-fusion-0306-014.jpg)  \r\n\r\nNineteen\r\n",
-				"date_published": "2026-03-07T17:32:20-04:00",
+				"date_published": "2026-03-07T18:32:20-03:00",
 				"url": "https://jomalo.com/2026/03/07/nineteen.html",
 				"tags": ["photos"]
 			},
@@ -20,7 +28,7 @@
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"2411bceffc1e3a3881eaf88f0154c467\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness\" \n        \n  />\n</a>\n\n</p>\n<p>Street lamp</p>\n",
 				"content_text": "![A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness](https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg)  \r\n\r\nStreet lamp\r\n",
-				"date_published": "2026-03-02T12:12:40-04:00",
+				"date_published": "2026-03-02T13:12:40-03:00",
 				"url": "https://jomalo.com/2026/03/02/street-lamp.html",
 				"tags": ["photos"]
 			},
@@ -29,7 +37,7 @@
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/no-fusion-0301-025.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"33c2ff7f6babd453af50a8b15fe4946a\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/no-fusion-0301-025.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A snowy urban scene at night featuring a large abstract sculpture resembling a wave in the foreground covered with snow illuminated by the surrounding city lights Tall buildings with numerous windows lit up line the background and dark clouds hover above creating a moody atmosphere in the cityscape\" \n        \n  />\n</a>\n\n</p>\n<p>Wave</p>\n",
 				"content_text": "![A snowy urban scene at night featuring a large abstract sculpture resembling a wave in the foreground covered with snow illuminated by the surrounding city lights Tall buildings with numerous windows lit up line the background and dark clouds hover above creating a moody atmosphere in the cityscape](https://jomalo.com/uploads/2026/no-fusion-0301-025.jpg)  \r\n\r\nWave\r\n",
-				"date_published": "2026-03-02T10:02:16-04:00",
+				"date_published": "2026-03-02T11:02:16-03:00",
 				"url": "https://jomalo.com/2026/03/02/wave.html",
 				"tags": ["photos"]
 			},
@@ -38,15 +46,15 @@
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/img-6127.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"6bfaf71e4d49b724b311bf0299ef015a\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/img-6127.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"Snow-covered trees form a dense forest against a cloudy, dark, and overcast sky. The scene is composed in grayscale, creating a moody and serene atmosphere. The trees are laden with heavy snow, and the thick cloud cover suggests a winter day.\" \n        \n  />\n</a>\n\n</p>\n<p>Dense</p>\n",
 				"content_text": "![Snow-covered trees form a dense forest against a cloudy, dark, and overcast sky. The scene is composed in grayscale, creating a moody and serene atmosphere. The trees are laden with heavy snow, and the thick cloud cover suggests a winter day.](https://jomalo.com/uploads/2026/img-6127.jpg)  \r\n\r\nDense\r\n",
-				"date_published": "2026-02-12T20:33:09-04:00",
+				"date_published": "2026-02-12T21:33:09-03:00",
 				"url": "https://jomalo.com/2026/02/12/dense.html",
 				"tags": ["photos"]
 			},
 			{
 				"id": "http://jomalo.micro.blog/2026/01/29/cold.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/img-6027.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"dbeae11c5b3b0807f2a7845de13ab107\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/img-6027.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black-and-white photograph of a serene forest scene with a calm river reflecting the surrounding trees. Evergreen trees frame the image on either side, creating a natural border. The banks are lightly dusted with snow or ice, adding to the tranquil and cold atmosphere. The overcast sky is visible through the sparse branches.\" \n        \n  />\n</a>\n\n</p>\n<p>Cold</p>\n",
-				"content_text": "![A black-and-white photograph of a serene forest scene with a calm river reflecting the surrounding trees. Evergreen trees frame the image on either side, creating a natural border. The banks are lightly dusted with snow or ice, adding to the tranquil and cold atmosphere. The overcast sky is visible through the sparse branches.](https://jomalo.com/uploads/2026/img-6027.jpg)  \r\n\r\nCold\r\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2026/img-6027.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"dbeae11c5b3b0807f2a7845de13ab107\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2026/img-6027.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black-and-white photograph of a serene forest scene with a calm river reflecting the surrounding trees. Evergreen trees frame the image on either side, creating a natural border. The banks are lightly dusted with snow or ice, adding to the tranquil and cold atmosphere. The overcast sky is visible through the sparse branches.\" \n        \n  />\n</a>\n\n</p>\n<p>Cold</p>\n",
+				"content_text": "![A black-and-white photograph of a serene forest scene with a calm river reflecting the surrounding trees. Evergreen trees frame the image on either side, creating a natural border. The banks are lightly dusted with snow or ice, adding to the tranquil and cold atmosphere. The overcast sky is visible through the sparse branches.](https://cdn.uploads.micro.blog/29404/2026/img-6027.jpg)  \r\n\r\nCold\r\n",
 				"date_published": "2026-01-29T08:17:30-04:00",
 				"url": "https://jomalo.com/2026/01/29/cold.html",
 				"tags": ["photos"]
@@ -1181,7 +1189,7 @@
 				"title": "WeblogPoMo 2024",
 				"content_html": "<p>I plan on participating in <a href=\"https://weblog.anniegreens.lol/weblog-posting-month-2024\">#WeblogPoMo2024</a>, by Anne Sturdivant, where I hope to publish one post every day in May about something.</p>\n<p>I am not yet sure what that something will be.</p>\n<p>Weekly topics could include:</p>\n<ul>\n<li>tech/web stuff</li>\n<li>travel prep</li>\n<li>a photo or two\n<ul>\n<li>current</li>\n<li>archive</li>\n</ul>\n</li>\n<li>DiY projects</li>\n</ul>\n<p>Cheating a little by making this my first post.</p>\n<p>Check out what others are writing about <a href=\"https://weblog.anniegreens.lol/weblog-posting-month-2024/participators\">here</a>.</p>\n<p><a href=\"https://jomalo.com/feed.json\">Subscribe to my feed</a> or just the <a href=\"https://jomalo.com/categories/weblogpomo2024/feed.xml\">weblogpomo2024</a> posts to follow along.</p>",
 				"content_text": "I plan on participating in [#WeblogPoMo2024](https://weblog.anniegreens.lol/weblog-posting-month-2024), by Anne Sturdivant, where I hope to publish one post every day in May about something. \n\n<!--more-->\n\nI am not yet sure what that something will be. \n\nWeekly topics could include:  \n\n - tech/web stuff  \n - travel prep  \n - a photo or two  \n   - current  \n   - archive  \n - DiY projects  \n\nCheating a little by making this my first post. \n\nCheck out what others are writing about [here](https://weblog.anniegreens.lol/weblog-posting-month-2024/participators).  \n\n[Subscribe to my feed](https://jomalo.com/feed.json) or just the [weblogpomo2024](https://jomalo.com/categories/weblogpomo2024/feed.xml) posts to follow along.  \n \n",
-				"date_published": "2024-05-01T21:13:31-04:00",
+				"date_published": "2024-05-01T22:13:31-03:00",
 				"url": "https://jomalo.com/2024/05/01/i-plan-on.html",
 				"tags": ["weblogpomo2024"]
 			},
