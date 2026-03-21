@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2026/03/13/laden.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/img-6048.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"f3f5e147c1924cfd5f2b46e473b48776\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/img-6048.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A snow-covered road extends through a dense forest with tall evergreen trees on both sides. The trees are heavily laden with snow, creating a serene and quiet winter landscape under a cloudy sky. Tire tracks are visible on the road, adding a sense of recent activity.\" \n        \n  />\n</a>\n\n</p>\n<p>Laden</p>\n",
+				"content_text": "![A snow-covered road extends through a dense forest with tall evergreen trees on both sides. The trees are heavily laden with snow, creating a serene and quiet winter landscape under a cloudy sky. Tire tracks are visible on the road, adding a sense of recent activity.](https://jomalo.com/uploads/2026/img-6048.jpg)  \r\n\r\nLaden\r\n",
+				"date_published": "2026-03-13T23:11:01-03:00",
+				"url": "https://jomalo.com/2026/03/13/laden.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://jomalo.micro.blog/2026/03/12/finished-reading-the-hunt-for.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781101010365\">The Hunt for Red October</a> by Tom Clancy 📚</p>\n",
