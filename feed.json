@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jomalo.micro.blog/2026/03/22/direction.html",
+				
+				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/img-6298.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"a0326282dbb80d31143ce6d3659480e3\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/img-6298.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white photo shows a wooden post with a sign that reads Comeau Lake Trail. The post has a round plaque with an arrow. Tall trees fill the background, creating a dense forest setting.\" \n        \n  />\n</a>\n\n</p>\n<p>Direction</p>\n",
+				"content_text": "![A black and white photo shows a wooden post with a sign that reads Comeau Lake Trail. The post has a round plaque with an arrow. Tall trees fill the background, creating a dense forest setting.](https://jomalo.com/uploads/2026/img-6298.jpg)  \r\n\r\nDirection\r\n",
+				"date_published": "2026-03-22T18:46:34-03:00",
+				"url": "https://jomalo.com/2026/03/22/direction.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://jomalo.micro.blog/2026/03/20/finished-reading-system-collapse-by.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250826985\">System Collapse</a> by Martha Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250826985/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [System Collapse](https://micro.blog/books/9781250826985) by Martha Wells 📚\n",
+				"date_published": "2026-03-20T23:40:30-03:00",
+				"url": "https://jomalo.com/2026/03/20/finished-reading-system-collapse-by.html"
+			},
+			{
 				"id": "http://jomalo.micro.blog/2026/03/13/laden.html",
 				
 				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/img-6048.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"f3f5e147c1924cfd5f2b46e473b48776\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/img-6048.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A snow-covered road extends through a dense forest with tall evergreen trees on both sides. The trees are heavily laden with snow, creating a serene and quiet winter landscape under a cloudy sky. Tire tracks are visible on the road, adding a sense of recent activity.\" \n        \n  />\n</a>\n\n</p>\n<p>Laden</p>\n",
@@ -35,8 +52,8 @@
 			{
 				"id": "http://jomalo.micro.blog/2026/03/02/street-lamp.html",
 				
-				"content_html": "<p><a href=\"https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"2411bceffc1e3a3881eaf88f0154c467\"\n   \n>\n  <img src =\"https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness\" \n        \n  />\n</a>\n\n</p>\n<p>Street lamp</p>\n",
-				"content_text": "![A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness](https://jomalo.com/uploads/2026/no-fusion-0302-006.jpg)  \r\n\r\nStreet lamp\r\n",
+				"content_html": "<p><a href=\"https://cdn.uploads.micro.blog/29404/2026/no-fusion-0302-006.jpg\" \n   class=\"glightbox\"\n   data-gallery=\"2411bceffc1e3a3881eaf88f0154c467\"\n   \n>\n  <img src =\"https://cdn.uploads.micro.blog/29404/2026/no-fusion-0302-006.jpg\" \n       loading=\"lazy\"\n       decoding=\"async\"\n       style=\"border-radius: 5px; max-width: 100%\"\n       alt=\"A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness\" \n        \n  />\n</a>\n\n</p>\n<p>Street lamp</p>\n",
+				"content_text": "![A black and white image featuring a silhouetted street lamp against a dark sky The top of the lamp is round and bright contrasting with the surrounding darkness](https://cdn.uploads.micro.blog/29404/2026/no-fusion-0302-006.jpg)  \r\n\r\nStreet lamp\r\n",
 				"date_published": "2026-03-02T13:12:40-03:00",
 				"url": "https://jomalo.com/2026/03/02/street-lamp.html",
 				"tags": ["photos"]
